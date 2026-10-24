@@ -11,6 +11,7 @@ from src.config import (
     ESTATISTICAS_PATH,
     PROGRESSO_PATH,
 )
+from src.gerar_dashboard_svg import gerar_dashboard_svg
 
 
 def gerar_catalogos(documentos: List[Dict[str, Any]]):
@@ -53,6 +54,12 @@ def gerar_catalogos(documentos: List[Dict[str, Any]]):
 
     with open(CATALOGO_IA_PATH, "w", encoding="utf-8") as f:
         json.dump(catalogo_ia, f, indent=2, ensure_ascii=False)
+
+    # Atualiza o dashboard SVG automaticamente
+    try:
+        gerar_dashboard_svg()
+    except Exception as e:
+        print(f"Erro ao gerar dashboard SVG: {e}")
 
 
 def gerar_progresso_md(documentos: List[Dict[str, Any]]):

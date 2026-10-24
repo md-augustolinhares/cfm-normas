@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add normas/ catalogo.json catalogo_ia_privacidade.json manifesto.json PROGRESSO.md estatisticas.html
+          git add normas/ catalogo.json catalogo_ia_privacidade.json manifesto.json PROGRESSO.md estatisticas.html docs/assets/dashboard.svg
           if git diff --staged --quiet; then
             echo "Nenhuma norma nova encontrada nesta execução."
           else
