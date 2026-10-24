@@ -23,6 +23,21 @@
 
 ---
 
+## 🏛️ Fonte Oficial Primária das Normativas do CFM
+
+Este repositório é uma iniciativa independente e de código aberto voltada à preservação, indexação e acessibilidade de dados públicos. Todos os documentos originais, publicações e numerações são extraídos e conferidos diretamente a partir das **fontes oficiais do Conselho Federal de Medicina (CFM)**:
+
+1. **Portal Médico do CFM — Busca Oficial de Normas:**  
+   👉 [https://portal.cfm.org.br/buscar-normas-cfm-e-crm/](https://portal.cfm.org.br/buscar-normas-cfm-e-crm/)  
+   *Canal público oficial para consulta de resoluções, pareceres, recomendações e despachos.*
+2. **Sistema de Gerenciamento de Normas (SEDES / CFM Sistemas):**  
+   👉 [https://sistemas.cfm.org.br/normas/](https://sistemas.cfm.org.br/normas/)  
+   *Servidor oficial onde residem os acervos digitais em PDF e as tramitações administrativas.*
+3. **Diário Oficial da União (Imprensa Nacional — Seção 1):**  
+   *Veículo oficial em que as resoluções com força de lei são promulgadas para vigência nacional.*
+
+---
+
 ## 1. Manifesto e Propósito Clínico-Regulatório
 
 ### O Problema da Dispersão na Medicina
@@ -36,6 +51,36 @@ Quando uma IA consulta a web sem ancoragem estruturada, ela frequentemente cita 
 Pensando em compartilhar conhecimento e aproximar a comunidade médica, pesquisadores, desenvolvedores e juristas em torno de uma base sólida e acessível, este repositório disponibiliza as normativas mais recentes do CFM em formato de texto simples (**Markdown**) com **YAML Frontmatter padronizado**.  
 
 O projeto funciona como uma **camada de ancoragem (grounding)** para garantir que médicos e inteligências artificiais consultem unicamente normas válidas, cientes do histórico de alterações.
+
+---
+
+## 🗺️ Roadmap do Projeto: Rumo a 100% das Normas do CFM (1957–Hoje)
+
+Inspirado na metodologia de cobertura progressiva e histórica de projetos como o [`ctresb/leis`](https://github.com/ctresb/leis), este repositório tem como meta final mapear **100% das normativas emitidas pelo Conselho Federal de Medicina desde a sua fundação** pela Lei nº 3.268/1957.
+
+O avanço é executado em fases retrospectivas por décadas:
+
+```mermaid
+flowchart TD
+    Fase1["✅ Fase 1: Acervo Contemporâneo (2020–2026)<br/>331 normas • 100% CONCLUÍDO • Automação Semanal Ativa"] --> Fase2["⏳ Fase 2: Década Digital & Prontuários (2010–2019)<br/>Meta: 783 normas (Próxima etapa)"]
+    Fase2 --> Fase3["📅 Fase 3: Anos 2000 & Telemedicina 1.0 (2000–2009)<br/>Meta: 672 normas"]
+    Fase3 --> Fase4["📅 Fase 4: Década de 1990 & Criação do SUS (1990–1999)<br/>Meta: 612 normas"]
+    Fase4 --> Fase5["🏛️ Fase 5: Origens e Fundação do CFM (1957–1989)<br/>Meta estimada: ~800 normas históricas (com OCR)"]
+    Fase5 --> MetaFinal["🎯 100% DO ACERVO HISTÓRICO DO CFM MAPEADO (~3.500 NORMAS)"]
+    MetaFinal -.-> Fase6["🌐 Fase 6: Expansão do Ecossistema (ANVISA SaMD & Ministério da Saúde)"]
+```
+
+### Tabela de Metas do Roadmap
+
+| Fase | Período Histórico | Foco Temático e Relevância | Meta Estimada | Status |
+| :---: | :---: | :--- | :---: | :---: |
+| **Fase 1** | **2020–2026** | **Acervo Contemporâneo:** Marco da IA na Medicina (Res. 2.454/2026), Telemedicina (Res. 2.314/2022), Cirurgia Robótica e Documentos Digitais. Automação semanal contínua ativa. | **331 normas** | **100% Concluído ✅** |
+| **Fase 2** | **2010–2019** | **A Década Digital:** Transição do papel para prontuários eletrônicos, consolidação das especialidades médicas (RQE) e o Código de Ética Médica de 2018 (Res. 2.217/2018). | **783 normas** | *Em planejamento* ⏳ |
+| **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), reprodução assistida inicial, transplantes e diretrizes de consentimento. | **672 normas** | *Backlog* 📅 |
+| **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, Código de Ética de 1988/1996 e primeiros critérios de UTI e hemoterapia. | **612 normas** | *Backlog* 📅 |
+| **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, regimentos históricos e decisões deontológicas das primeiras décadas (com OCR em PDFs escaneados). | **~800 normas** | *Backlog* 🏛️ |
+| **Meta** | **1957–Hoje** | **100% do Acervo Histórico da Medicina Brasileira mapeado em texto puro aberto.** | **~3.500 normas** | 🎯 **Alvo Final** |
+| **Fase 6** | *Expansão* | **Módulos de Saúde Digital:** Normas de Software Médico (SaMD) da **ANVISA** (RDC 657/2022) e da Rede Nacional de Dados em Saúde (**RNDS / MS**). | Modular | *Futuro* 🌐 |
 
 ---
 
