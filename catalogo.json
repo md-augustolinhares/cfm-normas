@@ -1,0 +1,151 @@
+{
+  "atualizado_em": "2026-10-24T14:33:43.065646",
+  "total_documentos": 3,
+  "indices_tags": {
+    "lgpd-e-privacidade": [
+      "CFM-RES-2314-2022",
+      "CFM-RES-2416-2024"
+    ],
+    "prontuario-eletronico": [
+      "CFM-RES-2314-2022"
+    ],
+    "responsabilidade-tecnica": [
+      "CFM-RES-2314-2022",
+      "CFM-RES-2271-2020",
+      "CFM-RES-2416-2024"
+    ],
+    "rqe-especialidades": [
+      "CFM-RES-2314-2022",
+      "CFM-RES-2271-2020",
+      "CFM-RES-2416-2024"
+    ],
+    "sigilo-profissional": [
+      "CFM-RES-2314-2022"
+    ],
+    "telemedicina": [
+      "CFM-RES-2314-2022",
+      "CFM-RES-2416-2024"
+    ],
+    "cuidados-paliativos": [
+      "CFM-RES-2271-2020",
+      "CFM-RES-2416-2024"
+    ],
+    "normas-uti-uci": [
+      "CFM-RES-2271-2020"
+    ],
+    "urgencia-e-emergencia": [
+      "CFM-RES-2271-2020"
+    ],
+    "pericia-medica": [
+      "CFM-RES-2416-2024"
+    ]
+  },
+  "indices_macro_temas": {
+    "Saúde Digital & Tecnologia": [
+      "CFM-RES-2314-2022"
+    ],
+    "Gestão, Infraestrutura & Perícia": [
+      "CFM-RES-2271-2020",
+      "CFM-RES-2416-2024"
+    ]
+  },
+  "documentos": [
+    {
+      "id": "CFM-RES-2314-2022",
+      "id_norma_cfm": "42200",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2314",
+      "ano": "2022",
+      "data_publicacao": "05-MAY-22",
+      "status": "Vigente",
+      "revoga_ids": [
+        "CFM-RES-1643-2002"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Define e regulamenta a telemedicina, como forma de serviços médicos mediados por tecnologias de comunicação.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "prontuario-eletronico",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2314",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2314_2022.pdf",
+      "sha256_conteudo": "67f22550b1114d0fd44083e3c09733d93cad24c43e6ff37968fb68685f5c2576",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2314-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2314-2022.md"
+    },
+    {
+      "id": "CFM-RES-2271-2020",
+      "id_norma_cfm": "40100",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2271",
+      "ano": "2020",
+      "data_publicacao": "14-FEB-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Fixa as normas para funcionamento e infraestrutura das Unidades de Terapia Intensiva (UTI) e de Cuidados Intermediários (UCI).",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "cuidados-paliativos",
+        "normas-uti-uci",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2020/2271",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2020/2271_2020.pdf",
+      "sha256_conteudo": "51be24358bbc5fd79473b9b15d4f324b620c34887f2bc2f0d0abed16cd9d5617",
+      "caminho_relativo": "normas/resolucoes/2020/CFM-RES-2271-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2020/CFM-RES-2271-2020.md"
+    },
+    {
+      "id": "CFM-RES-2416-2024",
+      "id_norma_cfm": "44995",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2416",
+      "ano": "2024",
+      "data_publicacao": "10-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre os atos próprios dos médicos, sua autonomia, limites, responsabilidade e juridicidade.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "cuidados-paliativos",
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2024/2416",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2416_2024.pdf",
+      "sha256_conteudo": "1b80efcbcd596cb420371463d55cd3518dde768160069cb838c98ca11742a22c",
+      "caminho_relativo": "normas/resolucoes/2024/CFM-RES-2416-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2024/CFM-RES-2416-2024.md"
+    }
+  ]
+}

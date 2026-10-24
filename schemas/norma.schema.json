@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "NormaCFM",
+  "type": "object",
+  "required": [
+    "id",
+    "orgao",
+    "tipo",
+    "numero",
+    "ano",
+    "status",
+    "ementa",
+    "macro_tema",
+    "tags",
+    "destaques",
+    "url_original",
+    "url_pdf_original",
+    "sha256_conteudo"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "id_norma_cfm": { "type": "string" },
+    "orgao": { "type": "string", "enum": ["CFM"] },
+    "tipo": { "type": "string", "enum": ["Resolucao", "Parecer", "Recomendacao", "Despacho"] },
+    "numero": { "type": "string" },
+    "ano": { "type": "string" },
+    "data_publicacao": { "type": "string" },
+    "status": { "type": "string", "enum": ["Vigente", "Revogada", "Suspensa"] },
+    "revoga_ids": { "type": "array", "items": { "type": "string" } },
+    "alterada_por_ids": { "type": "array", "items": { "type": "string" } },
+    "regulamenta_leis": { "type": "array", "items": { "type": "string" } },
+    "ementa": { "type": "string" },
+    "macro_tema": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "destaques": {
+      "type": "object",
+      "required": ["tem_ia", "tem_protecao_dados"],
+      "properties": {
+        "tem_ia": { "type": "boolean" },
+        "tem_protecao_dados": { "type": "boolean" },
+        "tem_telemedicina": { "type": "boolean" }
+      }
+    },
+    "url_original": { "type": "string" },
+    "url_pdf_original": { "type": "string" },
+    "sha256_conteudo": { "type": "string" }
+  }
+}
