@@ -46,21 +46,21 @@ def gerar_dashboard_svg():
 
     data_str = datetime.now().strftime("%d/%m/%Y")
 
-    # Dimensões do SVG
-    w, h = 880, 430
+    # Dimensões do SVG (900 x 440)
+    w, h = 900, 440
 
     # Dados do gráfico de barras por ano
     anos_chaves = list(por_ano.keys())
     anos_valores = list(por_ano.values())
     max_ano = max(anos_valores) if anos_valores else 1
 
-    # Construção das barras por ano
+    # Construção das barras por ano (painel esquerdo)
     bars_ano_svg = []
     x_start = 55
     bar_width = 32
     spacing = 52
-    chart_y_bottom = 360
-    chart_h = 130
+    chart_y_bottom = 370
+    chart_h = 135
 
     for i, (ano, val) in enumerate(zip(anos_chaves, anos_valores)):
         b_h = int((val / max_ano) * chart_h) if max_ano else 0
@@ -73,26 +73,27 @@ def gerar_dashboard_svg():
         # Rótulo do ano
         bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{chart_y_bottom + 18}" text-anchor="middle" font-size="11" fill="#94a3b8">{ano}</text>')
 
-    # Dados do gráfico horizontal de Macro-temas
+    # Dados do gráfico horizontal de Macro-temas (painel direito)
     macros_ordenados = sorted(por_macro.items(), key=lambda x: x[1], reverse=True)[:5]
     max_macro = max(x[1] for x in macros_ordenados) if macros_ordenados else 1
     macro_bars_svg = []
-    my_start = 228
-    m_bar_max_w = 210
+    my_start = 232
+    # Painel direito vai de x=465 a x=870 (largura 405)
+    # Rótulo em 485, Barra de 640 a 790 (largura 150), Valor em 805 text-anchor start
+    m_bar_max_w = 150
 
     for i, (macro_nome, m_val) in enumerate(macros_ordenados):
         bw = int((m_val / max_macro) * m_bar_max_w)
-        cy = my_start + (i * 26)
-        pct = (m_val / total) * 100 if total else 0
-        # Nome do macro tema (abreviado se longo)
+        cy = my_start + (i * 28)
+        # Nome do macro tema
         nome_curto = macro_nome.replace(" & ", "/").replace("Profissional", "Prof.")
-        macro_bars_svg.append(f'<text x="490" y="{cy + 13}" font-size="11" fill="#cbd5e1" font-weight="500">{nome_curto}</text>')
+        macro_bars_svg.append(f'<text x="485" y="{cy + 13}" font-size="11" fill="#cbd5e1" font-weight="500">{nome_curto}</text>')
         # Barra de fundo
-        macro_bars_svg.append(f'<rect x="650" y="{cy + 3}" width="{m_bar_max_w}" height="12" rx="3" fill="#1e293b" />')
+        macro_bars_svg.append(f'<rect x="640" y="{cy + 3}" width="{m_bar_max_w}" height="12" rx="3" fill="#1e293b" />')
         # Barra preenchida
-        macro_bars_svg.append(f'<rect x="650" y="{cy + 3}" width="{bw}" height="12" rx="3" fill="url(#emeraldGrad)" />')
-        # Valor / Porcentagem
-        macro_bars_svg.append(f'<text x="{650 + m_bar_max_w + 10}" y="{cy + 13}" font-size="11" fill="#10b981" font-weight="600">{m_val}</text>')
+        macro_bars_svg.append(f'<rect x="640" y="{cy + 3}" width="{bw}" height="12" rx="3" fill="url(#emeraldGrad)" />')
+        # Valor do número
+        macro_bars_svg.append(f'<text x="802" y="{cy + 13}" font-size="11" fill="#10b981" font-weight="600">{m_val}</text>')
 
     svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="100%" height="auto" style="max-width: {w}px;">
   <defs>
@@ -138,47 +139,47 @@ def gerar_dashboard_svg():
   <!-- 4 Cartões KPI -->
   <g transform="translate(30, 78)">
     <!-- KPI 1: Total -->
-    <rect x="0" y="0" width="195" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <rect x="0" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
     <text x="16" y="22" class="card-label">Total de Normas</text>
     <text x="16" y="52" class="card-val" fill="#38bdf8">{total}</text>
     <text x="16" y="66" class="card-sub">100% da meta oficial (2020-2026)</text>
 
     <!-- KPI 2: Vigentes -->
-    <rect x="208" y="0" width="195" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
-    <text x="224" y="22" class="card-label">Normas Vigentes</text>
-    <text x="224" y="52" class="card-val" fill="#10b981">{vigentes}</text>
-    <text x="224" y="66" class="card-sub">{((vigentes/total)*100):.1f}% do acervo total</text>
+    <rect x="213" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="229" y="22" class="card-label">Normas Vigentes</text>
+    <text x="229" y="52" class="card-val" fill="#10b981">{vigentes}</text>
+    <text x="229" y="66" class="card-sub">{((vigentes/total)*100):.1f}% do acervo total</text>
 
     <!-- KPI 3: Revogadas / Suspensas -->
-    <rect x="416" y="0" width="195" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
-    <text x="432" y="22" class="card-label">Revogadas / Alteradas</text>
-    <text x="432" y="52" class="card-val" fill="#f87171">{revogadas}</text>
-    <text x="432" y="66" class="card-sub">Com IDs canônicos de rastreio</text>
+    <rect x="426" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="442" y="22" class="card-label">Revogadas / Alteradas</text>
+    <text x="442" y="52" class="card-val" fill="#f87171">{revogadas}</text>
+    <text x="442" y="66" class="card-sub">Com IDs canônicos de rastreio</text>
 
     <!-- KPI 4: IA & LGPD -->
-    <rect x="624" y="0" width="195" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
-    <text x="640" y="22" class="card-label">IA, LGPD &amp; Telemedicina</text>
-    <text x="640" y="52" class="card-val" fill="#c084fc">{total_ia}</text>
-    <text x="640" y="66" class="card-sub">Catálogo curado para LLMs</text>
+    <rect x="639" y="0" width="201" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
+    <text x="655" y="22" class="card-label">IA, LGPD &amp; Telemedicina</text>
+    <text x="655" y="52" class="card-val" fill="#c084fc">{total_ia}</text>
+    <text x="655" y="66" class="card-sub">Catálogo curado para LLMs</text>
   </g>
 
   <!-- Painel Esquerdo: Publicações por Ano -->
   <g transform="translate(30, 172)">
-    <rect x="0" y="0" width="418" height="218" rx="8" fill="#111c30" stroke="#1e293b" stroke-width="1" />
+    <rect x="0" y="0" width="415" height="228" rx="8" fill="#111c30" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" class="section-title">Publicações por Ano (2020–2026)</text>
-    <line x1="18" y1="188" x2="400" y2="188" stroke="#334155" stroke-width="1" stroke-dasharray="3 3" />
+    <line x1="18" y1="198" x2="397" y2="198" stroke="#334155" stroke-width="1" stroke-dasharray="3 3" />
   </g>
   {' '.join(bars_ano_svg)}
 
   <!-- Painel Direito: Macro-Temas -->
-  <g transform="translate(470, 172)">
-    <rect x="0" y="0" width="380" height="218" rx="8" fill="#111c30" stroke="#1e293b" stroke-width="1" />
+  <g transform="translate(465, 172)">
+    <rect x="0" y="0" width="405" height="228" rx="8" fill="#111c30" stroke="#1e293b" stroke-width="1" />
     <text x="18" y="26" class="section-title">Distribuição por Macro-Tema</text>
   </g>
   {' '.join(macro_bars_svg)}
 
   <!-- Rodapé -->
-  <g transform="translate(30, 412)">
+  <g transform="translate(30, 422)">
     <text x="0" y="0" font-size="10" fill="#64748b">⚡ Automação semanal contínua via GitHub Actions • Licença Pública CC-BY 4.0 • md-augustolinhares/cfm-normas</text>
   </g>
 </svg>'''

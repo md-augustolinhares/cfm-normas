@@ -169,7 +169,7 @@ O pipeline foi projetado seguindo princípios de **Clean Code / Single Responsib
 
 ```mermaid
 flowchart TD
-    subgraph Nuvem_GitHub_Actions [Automação Semanal na Nuvem (CRON: Todo Domingo 01:00 BRT)]
+    subgraph Nuvem_GitHub_Actions ["Automação Semanal na Nuvem — CRON: Todo Domingo às 01:00 BRT"]
         A["1. Crawler CFM<br/>(Busca metadados JSON nativos)"] --> B["2. Stream em Memória<br/>(Baixa PDF em io.BytesIO)"]
         B --> C["3. Parser & Sanitizer<br/>(Converte para Markdown sem salvar PDF em disco)"]
         C --> D["4. Classificador Léxico<br/>(Carimba Macro-temas e Micro-tags)"]
