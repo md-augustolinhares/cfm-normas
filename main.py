@@ -2,8 +2,10 @@
 CLI Principal de Execução da Coleta de Normas do CFM (2020–2026).
 """
 import argparse
+from pathlib import Path
 import sys
 from typing import List
+import yaml
 
 # Garante suporte a UTF-8 no terminal Windows
 if hasattr(sys.stdout, "reconfigure"):
@@ -12,7 +14,7 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 from src.classifier import classificar_norma
-from src.config import TIPOS_MAP, URL_PDF_BASE
+from src.config import NORMAS_DIR, TIPOS_MAP, URL_PDF_BASE
 from src.crawler import baixar_pdf_em_memoria, buscar_metadados_ano
 from src.exporter import (
     carregar_manifesto,
@@ -25,21 +27,42 @@ from src.reports import gerar_catalogos, gerar_estatisticas_html, gerar_progress
 from src.sanitizer import sanitizar_texto_norma
 
 
-def processar_norma(meta: dict, manifesto: dict) -> dict:
+def processar_norma(meta: dict, manifesto: dict, force: bool = False) -> dict:
     tipo_cod = meta.get("IN_TIPO", "R")
     tipo_info = TIPOS_MAP.get(tipo_cod, TIPOS_MAP["R"])
     sname = tipo_info["sname"]
+    pasta_tipo = tipo_info["pasta"]
     numero = str(meta.get("NUMERO", "0")).strip()
     ano = str(meta.get("ANO", "0")).strip()
     id_canonico = construir_id_canonico(tipo_cod, numero, ano)
 
+    caminho_md = NORMAS_DIR / pasta_tipo / ano / f"{id_canonico}.md"
+    id_norma_cfm = str(meta.get("ID_NORMA", ""))
+
+    # Normaliza status
+    is_revogada = str(meta.get("IS_REVOGADA", "")).strip().lower()
+    if "revogada" in is_revogada:
+        status_atual = "Revogada"
+    elif "suspensa" in is_revogada:
+        status_atual = "Suspensa"
+    else:
+        status_atual = "Vigente"
+
+    # Se já existe no manifesto e o arquivo físico existe, verifica se houve alteração de status
+    if not force and id_norma_cfm in manifesto and caminho_md.exists():
+        try:
+            content = caminho_md.read_text(encoding="utf-8")
+            if content.startswith("---"):
+                fm_text = content.split("---", 2)[1]
+                fm = yaml.safe_load(fm_text)
+                if fm.get("status") == status_atual:
+                    # Não mudou nada, pula download
+                    return fm
+        except Exception:
+            pass
+
     ementa = meta.get("RESUMO", "")
     url_pdf = URL_PDF_BASE.format(sname=sname, ano=ano, numero=numero)
-
-    # Verifica idempotência via manifesto
-    id_norma_cfm = str(meta.get("ID_NORMA", ""))
-    if id_norma_cfm in manifesto:
-        pass  # Já processada, mas podemos reexportar se necessário
 
     print(f"  -> Baixando PDF em memória: {id_canonico} ({url_pdf})...")
     pdf_bytes = baixar_pdf_em_memoria(url_pdf)
@@ -164,15 +187,26 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Coletor de Normas CFM para Markdown")
     parser.add_argument("--piloto", action="store_true", help="Executa o teste piloto com 3 normas representativas")
     parser.add_argument("--ano", type=int, help="Executa a coleta para um único ano")
+    parser.add_argument("--intervalo", nargs=2, type=int, metavar=("INICIO", "FIM"), help="Executa a coleta para um intervalo de anos (ex: --intervalo 2010 2019)")
     parser.add_argument("--todos", action="store_true", help="Executa a coleta completa de 2020 a 2026")
+    parser.add_argument("--relatorios", action="store_true", help="Regenera todos os catálogos e relatórios a partir dos arquivos .md em disco")
     parser.add_argument("--tipos", nargs="+", default=["R", "P", "E"], help="Lista de tipos: R (Resoluções), P (Pareceres), E (Recomendações), D (Despachos)")
 
     args = parser.parse_args()
 
     if args.piloto:
         executar_piloto()
+    elif args.relatorios:
+        print("\nRegenerando catálogos e estatísticas a partir do disco...")
+        gerar_catalogos()
+        gerar_progresso_md()
+        gerar_estatisticas_html()
+        print("✅ Relatórios regenerados com sucesso!")
     elif args.ano:
         executar_coleta(anos=[args.ano], tipos=args.tipos)
+    elif args.intervalo:
+        anos = list(range(args.intervalo[0], args.intervalo[1] + 1))
+        executar_coleta(anos=anos, tipos=args.tipos)
     elif args.todos:
         executar_coleta(anos=list(range(2020, 2027)), tipos=args.tipos)
     else:

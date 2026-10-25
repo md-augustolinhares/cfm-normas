@@ -36,10 +36,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add normas/ catalogo.json catalogo_ia_privacidade.json manifesto.json PROGRESSO.md estatisticas.html docs/assets/dashboard.svg
-          if git diff --staged --quiet; then
-            echo "Nenhuma norma nova encontrada nesta execução."
-          else
+          # Verifica se houve alteração em arquivos .md ou manifesto antes de commitar relatórios
+          if [ -n "$(git status --porcelain normas/ manifesto.json)" ]; then
+            git add normas/ manifesto.json catalogo.json catalogo_ia_privacidade.json PROGRESSO.md estatisticas.html docs/assets/dashboard.svg
             git commit -m "chore(auto): atualizar acervo de normas CFM [skip ci]"
             git push
+          else
+            echo "Nenhuma norma nova ou alterada no acervo. Repositório mantido íntegro sem commit desnecessário."
           fi

@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-25T08:48:19.824764",
-  "total_documentos_ia_dados": 8,
+  "atualizado_em": "2026-10-25T12:33:13.654906",
+  "total_documentos_ia_dados": 53,
   "documentos": [
     {
       "id": "CFM-RES-2454-2026",
@@ -30,9 +30,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2454",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2454_2026.pdf",
-      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563",
-      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2454-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2454-2026.md"
+      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563"
     },
     {
       "id": "CFM-RES-2453-2026",
@@ -58,9 +56,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2453",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2453_2026.pdf",
-      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0",
-      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2453-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2453-2026.md"
+      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0"
     },
     {
       "id": "CFM-PAR-19-2026",
@@ -230,6 +226,1322 @@
       "sha256_conteudo": "7ec539bc1830f5f8d6a8ad7b49bba559e088c750bc79afb0dcbf512a8f40ffb9",
       "caminho_relativo": "normas/pareceres/2026/CFM-PAR-1-2026.md",
       "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-1-2026.md"
+    },
+    {
+      "id": "CFM-RES-2444-2025",
+      "id_norma_cfm": "48013",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2444",
+      "ano": "2025",
+      "data_publicacao": "02-SEP-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Estabelece garantias de segurança para os médicos no exercício de sua atividade profissional em todas as unidades de saúde em funcionamento no território nacional e normas para a fiscalização e a interdição ética. [Parcialmente Suspensa]",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "normas-uti-uci",
+        "publicidade-medica",
+        "responsabilidade-tecnica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2444",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2444_2025.pdf",
+      "sha256_conteudo": "881a219275e39992a4eee5cb3af05ed69c2c030081d8310c3709c7738b4a7603",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2444-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2444-2025.md"
+    },
+    {
+      "id": "CFM-RES-2437-2025",
+      "id_norma_cfm": "47947",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2437",
+      "ano": "2025",
+      "data_publicacao": "07-AUG-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a responsabilidade ética das instituições e profissionais médicos na prevenção, controle e tratamento de pessoas que vivem com HIV/aids.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "responsabilidade-tecnica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2437",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2437_2025.pdf",
+      "sha256_conteudo": "aa6d9e43187d61d426e2e986790f63ba9b89276306a059c8510d72b8d1f0fcb8",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2437-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2437-2025.md"
+    },
+    {
+      "id": "CFM-RES-2434-2025",
+      "id_norma_cfm": "47937",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2434",
+      "ano": "2025",
+      "data_publicacao": "01-AUG-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a responsabilidade técnica e ética, os deveres, as prerrogativas e o cadastro dos coordenadores de cursos de graduação em medicina e dos campos de estágio curriculares, e estabelece normas para a fiscalização e a interdição ética.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "cuidados-paliativos",
+        "lgpd-e-privacidade",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2434",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2434_2025.pdf",
+      "sha256_conteudo": "e21def9dea1329e658394236cf25c5e5a0c8159dd8b21580947e735152785ab0",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2434-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2434-2025.md"
+    },
+    {
+      "id": "CFM-RES-2431-2025",
+      "id_norma_cfm": "47797",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2431",
+      "ano": "2025",
+      "data_publicacao": "06-JUN-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a revogação do ato normativo do Conselho Regional de Medicina do Estado do Rio Grande do Sul (CREMERS) especificado nesta Resolução.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "inteligencia-artificial"
+      ],
+      "destaques": {
+        "tem_ia": true,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2431",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2431_2025.pdf",
+      "sha256_conteudo": "e0f2411a06bb138bd2ce78e5f3b7084a653fc5b8b292af1be1199f879af70746",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2431-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2431-2025.md"
+    },
+    {
+      "id": "CFM-RES-2430-2025",
+      "id_norma_cfm": "47773",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2430",
+      "ano": "2025",
+      "data_publicacao": "30-MAY-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre o ato médico pericial, a produção da prova técnica médica, estabelece critérios mínimos de segurança na construção da prova pericial, atualiza o uso de tecnologias de comunicação na avaliação médico pericial e revoga as Resoluções CFM n° 1.497, publicada no D.O.U. de 15 de julho de 1998, e CFM n° 2.325, publicada no D.O.U. de 4 de novembro de 2022.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2430",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2430_2025.pdf",
+      "sha256_conteudo": "185bfcb2de6fa2218b7d6d01d8674c2680cacb6ca7f0fc4bdcf975a80b5b81ce",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2430-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2430-2025.md"
+    },
+    {
+      "id": "CFM-RES-2424-2025",
+      "id_norma_cfm": "47711",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2424",
+      "ano": "2025",
+      "data_publicacao": "30-APR-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Altera a Resolução CFM nº 2.306/2022, que aprovou o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e dos Conselhos Regionais de Medicina (CRM).",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2424",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2424_2025.pdf",
+      "sha256_conteudo": "7f915986487547a71c45df64cbfc723a25c7645ffb1685ba4b4ab9651c9760cd",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2424-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2424-2025.md"
+    },
+    {
+      "id": "CFM-RES-2422-2025",
+      "id_norma_cfm": "47565",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2422",
+      "ano": "2025",
+      "data_publicacao": "06-MAR-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Revoga a Resolução CFM nº 2.135/2015, passando a disciplinar as Unidades de Terapia Intensiva Coronarianas (UCO) ao contido na Resolução CFM nº 2.271/2020.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "inteligencia-artificial",
+        "normas-uti-uci",
+        "responsabilidade-tecnica",
+        "rqe-especialidades"
+      ],
+      "destaques": {
+        "tem_ia": true,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2025/2422",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2025/2422_2025.pdf",
+      "sha256_conteudo": "1969db872d0102025d028cac7a13eb13fb477f8d7d001e109676579d49c4d7fa",
+      "caminho_relativo": "normas/resolucoes/2025/CFM-RES-2422-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2025/CFM-RES-2422-2025.md"
+    },
+    {
+      "id": "CFM-PAR-17-2025",
+      "id_norma_cfm": "48010",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "17",
+      "ano": "2025",
+      "data_publicacao": "29-AUG-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Imposição de videogravação de consultas médicas no Programa Mais Médicos. Violação ao sigilo profissional e à autonomia do ato médico. Inconstitucionalidade material. Afronta aos princípios bioéticos e normas éticas da medicina.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2025/17",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2025/17_2025.pdf",
+      "sha256_conteudo": "7e75317a163832938bae7889d0524a309ef89c845f2ae7261d7c6a8e00547aa8",
+      "caminho_relativo": "normas/pareceres/2025/CFM-PAR-17-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2025/CFM-PAR-17-2025.md"
+    },
+    {
+      "id": "CFM-PAR-15-2025",
+      "id_norma_cfm": "47914",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "15",
+      "ano": "2025",
+      "data_publicacao": "25-JUL-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "A comunicação de indícios ou confirmação de estupro a autoridade policial por médico não configura quebra de sigilo profissional. Trata-se de dever legal, em razão da natureza de ação penal pública incondicionada desses crimes.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2025/15",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2025/15_2025.pdf",
+      "sha256_conteudo": "0f40d42216ec24838eb03cb0c0ab9bf8e0f2efb08c53c2404598f9b3e604c937",
+      "caminho_relativo": "normas/pareceres/2025/CFM-PAR-15-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2025/CFM-PAR-15-2025.md"
+    },
+    {
+      "id": "CFM-PAR-12-2025",
+      "id_norma_cfm": "47926",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "12",
+      "ano": "2025",
+      "data_publicacao": "29-JUL-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Inviabilidade técnica e ética do uso da telemedicina para fins de emissão do Certificado Médico Aeronáutico (CMA).",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2025/12",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2025/12_2025.pdf",
+      "sha256_conteudo": "8e589c0f9a4b52d852172ebf5cf3506615dfc8ef3be2da6f56ee954b4b60a4d7",
+      "caminho_relativo": "normas/pareceres/2025/CFM-PAR-12-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2025/CFM-PAR-12-2025.md"
+    },
+    {
+      "id": "CFM-PAR-10-2025",
+      "id_norma_cfm": "47755",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "10",
+      "ano": "2025",
+      "data_publicacao": "28-MAY-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "É vedado ao médico a realização de exames médicos ocupacionais, admissionais e outros fora do previsto na Resolução CFM nº 2.323/2022.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2025/10",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2025/10_2025.pdf",
+      "sha256_conteudo": "ca0658d8d4e75fd2a50312851251095f217e17a4c9548936cf38992c037c7456",
+      "caminho_relativo": "normas/pareceres/2025/CFM-PAR-10-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2025/CFM-PAR-10-2025.md"
+    },
+    {
+      "id": "CFM-PAR-8-2025",
+      "id_norma_cfm": "47728",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "8",
+      "ano": "2025",
+      "data_publicacao": "12-MAY-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Analisa a eticidade da adoção por parte de cooperativas, planos de saúde ou demais instituições, de mecanismos de controle baseados em parâmetros quantitativos.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2025/8",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2025/8_2025.pdf",
+      "sha256_conteudo": "9255c192213ce3a912c6a570df6c00d8608f59f3f67e49d21bb475d1e725d55d",
+      "caminho_relativo": "normas/pareceres/2025/CFM-PAR-8-2025.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2025/CFM-PAR-8-2025.md"
+    },
+    {
+      "id": "CFM-RES-2417-2024",
+      "id_norma_cfm": "44996",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2417",
+      "ano": "2024",
+      "data_publicacao": "10-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Normatiza o fluxo da consulta, dos processos-consultas e dos pareceres nos Conselhos Federal e Regionais de Medicina e torna sua tramitação obrigatória pelo Processo Administrativo eletrônico (PAe).",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2024/2417",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2417_2024.pdf",
+      "sha256_conteudo": "b00be6d55621f501eef726459a28990f87588af497e0266249442f7b1547970d",
+      "caminho_relativo": "normas/resolucoes/2024/CFM-RES-2417-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2024/CFM-RES-2417-2024.md"
+    },
+    {
+      "id": "CFM-RES-2416-2024",
+      "id_norma_cfm": "44995",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2416",
+      "ano": "2024",
+      "data_publicacao": "10-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre os atos próprios dos médicos, sua autonomia, limites, responsabilidade e juridicidade.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "cuidados-paliativos",
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2024/2416",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2416_2024.pdf",
+      "sha256_conteudo": "1b80efcbcd596cb420371463d55cd3518dde768160069cb838c98ca11742a22c",
+      "caminho_relativo": "normas/resolucoes/2024/CFM-RES-2416-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2024/CFM-RES-2416-2024.md"
+    },
+    {
+      "id": "CFM-RES-2385-2024",
+      "id_norma_cfm": "44944",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2385",
+      "ano": "2024",
+      "data_publicacao": "08-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Altera o Regimento Interno do CFM para criar terceira secretaria.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2024/2385",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2385_2024.pdf",
+      "sha256_conteudo": "073be77484511f4d49851f7a3b7adc696f227dc40aa115681b85c0a4fd0f6291",
+      "caminho_relativo": "normas/resolucoes/2024/CFM-RES-2385-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2024/CFM-RES-2385-2024.md"
+    },
+    {
+      "id": "CFM-RES-2382-2024",
+      "id_norma_cfm": "44941",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2382",
+      "ano": "2024",
+      "data_publicacao": "08-OCT-24",
+      "status": "Suspensa",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a emissão e o gerenciamento de atestados médicos físicos e digitais em todo o território nacional. (RESOLUÇÃO SUSPENSA)",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade",
+        "prontuario-eletronico",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2024/2382",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2382_2024.pdf",
+      "sha256_conteudo": "1f87e9fb82b15015060a946005ed44aa48e25aac4c147ff9265477139d02f4d0",
+      "caminho_relativo": "normas/resolucoes/2024/CFM-RES-2382-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2024/CFM-RES-2382-2024.md"
+    },
+    {
+      "id": "CFM-RES-2379-2024",
+      "id_norma_cfm": "44940",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2379",
+      "ano": "2024",
+      "data_publicacao": "08-OCT-24",
+      "status": "Suspensa",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Define e disciplina a medicina do sono como ato médico exclusivo.\r\n[RESOLUÇÂO SUSPENSA]",
+      "macro_tema": "Formação & Registro Profissional",
+      "tags": [
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2024/2379",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2024/2379_2024.pdf",
+      "sha256_conteudo": "10a10447c39ec8d54f0be8db9ddd06bfb1543ecb651c6645b901765417ac97aa",
+      "caminho_relativo": "normas/resolucoes/2024/CFM-RES-2379-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2024/CFM-RES-2379-2024.md"
+    },
+    {
+      "id": "CFM-PAR-14-2024",
+      "id_norma_cfm": "43295",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "14",
+      "ano": "2024",
+      "data_publicacao": "17-MAY-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Exames oftalmológicos, incluindo a refração, ainda que realizados em aparelhos computadorizados, vão além da prescrição de óculos ou lentes, sendo imprescindível o exame físico do paciente. São atos privativos de médico, preferencialmente oftalmologista, com o devido registro no Conselho Regional de Medicina (CRM).",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade",
+        "prontuario-eletronico",
+        "publicidade-medica",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2024/14",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2024/14_2024.pdf",
+      "sha256_conteudo": "fd62112ae62d2d494fc54ebe4e6f56e1f2a317366335675515093cac0716e285",
+      "caminho_relativo": "normas/pareceres/2024/CFM-PAR-14-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2024/CFM-PAR-14-2024.md"
+    },
+    {
+      "id": "CFM-PAR-10-2024",
+      "id_norma_cfm": "43002",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "10",
+      "ano": "2024",
+      "data_publicacao": "11-APR-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "A dispensa de avaliação médico-pericial e o exclusivo emprego de análise documental para fins de concessão de benefícios previdenciários desrespeitam as leis vigentes, comprometem a integridade profissional dos peritos médicos federais e causam inarredável prejuízo ao erário e, por conseguinte, à toda a sociedade.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2024/10",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2024/10_2024.pdf",
+      "sha256_conteudo": "76116ea1a1d06aace2a3d04dd38ab2da95734dd0103f33f850b6e119853633ec",
+      "caminho_relativo": "normas/pareceres/2024/CFM-PAR-10-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2024/CFM-PAR-10-2024.md"
+    },
+    {
+      "id": "CFM-PAR-2-2024",
+      "id_norma_cfm": "42595",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "2",
+      "ano": "2024",
+      "data_publicacao": "18-JAN-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "A Consolidação das Leis do Trabalho (CLT) estabeleceu que é obrigatório o exame médico por conta do empregador, não sendo possível a realização de exames ocupacionais no âmbito do Sistema Único de Saúde (SUS).",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2024/2",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2024/2_2024.pdf",
+      "sha256_conteudo": "ad90c826a3247e196b0bb6fbbcf6850d9884800b2d6960f77c5e40bbfcf3642c",
+      "caminho_relativo": "normas/pareceres/2024/CFM-PAR-2-2024.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2024/CFM-PAR-2-2024.md"
+    },
+    {
+      "id": "CFM-RES-2371-2023",
+      "id_norma_cfm": "42442",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2371",
+      "ano": "2023",
+      "data_publicacao": "30-NOV-23",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Regulamenta a realização de cirurgias eletivas e procedimentos invasivos em “mutirões”.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "consentimento-tcle",
+        "prontuario-eletronico",
+        "responsabilidade-tecnica",
+        "rqe-especialidades"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2371",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2371_2023.pdf",
+      "sha256_conteudo": "49f411dd4376276fc07acf7a8a0c344b5e6bd6d60a8c67d312d4f415fa64dc87",
+      "caminho_relativo": "normas/resolucoes/2023/CFM-RES-2371-2023.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2023/CFM-RES-2371-2023.md"
+    },
+    {
+      "id": "CFM-RES-2370-2023",
+      "id_norma_cfm": "42443",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2370",
+      "ano": "2023",
+      "data_publicacao": "30-NOV-23",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Regulamenta a concessão de visto temporário para o exercício profissional fracionado, por até 90 (noventa) dias, ao médico que sem caráter habitual e vínculo de emprego local, venha a atuar em outro estado, estabelecendo prazo para o requerimento dos interessados e resposta dos Conselhos Regionais de Medicina (CRMs).",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2370",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2370_2023.pdf",
+      "sha256_conteudo": "149095703f065c4f0c1d48e025bf06e362ed587e2a3ebc81aee9e6c4706203dd",
+      "caminho_relativo": "normas/resolucoes/2023/CFM-RES-2370-2023.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2023/CFM-RES-2370-2023.md"
+    },
+    {
+      "id": "CFM-RES-2336-2023",
+      "id_norma_cfm": "44922",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2336",
+      "ano": "2023",
+      "data_publicacao": "04-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre publicidade e propaganda médicas.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2336",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2336_2023.pdf",
+      "sha256_conteudo": "6c4f1198c2425752b81b654e50f3d4469450492f9579ae36dbaee2ad23fd81f6",
+      "caminho_relativo": "normas/resolucoes/2023/CFM-RES-2336-2023.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2023/CFM-RES-2336-2023.md"
+    },
+    {
+      "id": "CFM-RES-2335-2023",
+      "id_norma_cfm": "41598",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2335",
+      "ano": "2023",
+      "data_publicacao": "29-MAY-23",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre as normas para a eleição, em todos os estados e no Distrito Federal, de conselheiros federais, efetivos e suplentes, ao Conselho Federal de Medicina – Gestão 2024 -2029.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "responsabilidade-tecnica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2335",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2335_2023.pdf",
+      "sha256_conteudo": "64c99c0ff0123d72f584816c559f3a64853d952664fe2c332dfc703cfea6987b",
+      "caminho_relativo": "normas/resolucoes/2023/CFM-RES-2335-2023.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2023/CFM-RES-2335-2023.md"
+    },
+    {
+      "id": "CFM-RES-2331-2023",
+      "id_norma_cfm": "41425",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2331",
+      "ano": "2023",
+      "data_publicacao": "03-MAY-23",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Regulamenta a concessão de visto provisório para o exercício temporário por até 90 (noventa) dias ao médico que, sem caráter habitual e vínculo de emprego local, venha a atuar em outro estado.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2331",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2023/2331_2023.pdf",
+      "sha256_conteudo": "2dfac7981fba1f6bee2be82b56fdd6b4a1878e74d9a5916a7150b600e7b315b7",
+      "caminho_relativo": "normas/resolucoes/2023/CFM-RES-2331-2023.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2023/CFM-RES-2331-2023.md"
+    },
+    {
+      "id": "CFM-PAR-6-2023",
+      "id_norma_cfm": "42499",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "6",
+      "ano": "2023",
+      "data_publicacao": "22-DEC-23",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre serviço de rotina médica em unidade de terapia intensiva (UTI), com o advento da telemedicina.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "normas-uti-uci",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2023/6",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2023/6_2023.pdf",
+      "sha256_conteudo": "b0c40b423de89b1b266f6f26d012aafdfc8af63b34205e54f8ead6d06e42c95e",
+      "caminho_relativo": "normas/pareceres/2023/CFM-PAR-6-2023.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2023/CFM-PAR-6-2023.md"
+    },
+    {
+      "id": "CFM-RES-2325-2022",
+      "id_norma_cfm": "40044",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2325",
+      "ano": "2022",
+      "data_publicacao": "04-NOV-22",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2430-2025"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Define e disciplina o uso de tecnologias de comunicação na avaliação médico pericial.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "consentimento-tcle",
+        "pericia-medica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2325",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2325_2022.pdf",
+      "sha256_conteudo": "2ee036ac9a0ced01e429404269804b82fb16cdbd781d307e1d2c39e9216e8542",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2325-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2325-2022.md"
+    },
+    {
+      "id": "CFM-RES-2323-2022",
+      "id_norma_cfm": "39933",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2323",
+      "ano": "2022",
+      "data_publicacao": "17-OCT-22",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe de normas específicas para médicos que atendem o trabalhador. (Atenção dos dispositivos suspensos por decisão judicial - artigos 10, 12 e o § 2º do artigo 15)",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2323",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2323_2022.pdf",
+      "sha256_conteudo": "5a4436374ff0cd2549284452aff4e7f7c1e11d71566fe536d49e8c223eea5a96",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2323-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2323-2022.md"
+    },
+    {
+      "id": "CFM-RES-2314-2022",
+      "id_norma_cfm": "39070",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2314",
+      "ano": "2022",
+      "data_publicacao": "05-MAY-22",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Define e regulamenta a telemedicina, como forma de serviços médicos mediados por tecnologias de comunicação.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "prontuario-eletronico",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2314",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2314_2022.pdf",
+      "sha256_conteudo": "67f22550b1114d0fd44083e3c09733d93cad24c43e6ff37968fb68685f5c2576",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2314-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2314-2022.md"
+    },
+    {
+      "id": "CFM-RES-2309-2022",
+      "id_norma_cfm": "44903",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2309",
+      "ano": "2022",
+      "data_publicacao": "04-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Estabelece regramento para publicização e compartilhamento de dados de médicos inscritos à luz da LGPD, do interesse público e das atribuições legais conferidas ao Conselho Médico.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "rqe-especialidades",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2309",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2309_2022.pdf",
+      "sha256_conteudo": "015c5ef8cadc662606c15677ae4a9d1de35e9c7f54102e3c771f12a9dc939cee",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2309-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2309-2022.md"
+    },
+    {
+      "id": "CFM-RES-2308-2022",
+      "id_norma_cfm": "44902",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2308",
+      "ano": "2022",
+      "data_publicacao": "04-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Estabelece o Sistema Eletrônico de Informações (SEI-Medicina) como sistema oficial para a gestão de documentos e processos administrativos no âmbito do Conselho Federal de Medicina (CFM), dos Conselhos Regionais de Medicina (CRMs) e de suas respectivas Delegacias.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2308",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2308_2022.pdf",
+      "sha256_conteudo": "8f90c01fc62835cb98736c36b0cccdcfb885e9288e0cdc1d85786f408f105801",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2308-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2308-2022.md"
+    },
+    {
+      "id": "CFM-RES-2306-2022",
+      "id_norma_cfm": "42626",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2306",
+      "ano": "2022",
+      "data_publicacao": "24-JAN-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Aprova o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs).",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "pericia-medica",
+        "prontuario-eletronico",
+        "publicidade-medica",
+        "responsabilidade-tecnica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2022/2306",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2022/2306_2022.pdf",
+      "sha256_conteudo": "2d2a17a50d28897295174c8d162836ac97022a3a33e921253a56a54c9981b9e1",
+      "caminho_relativo": "normas/resolucoes/2022/CFM-RES-2306-2022.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2022/CFM-RES-2306-2022.md"
+    },
+    {
+      "id": "CFM-RES-2299-2021",
+      "id_norma_cfm": "38235",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2299",
+      "ano": "2021",
+      "data_publicacao": "26-OCT-21",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Regulamenta, disciplina e normatiza a emissão de documentos médicos eletrônicos.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "prontuario-eletronico",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2021/2299",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2021/2299_2021.pdf",
+      "sha256_conteudo": "fbe5be1992242c44e5f1bd4bee668049a198c966a983bff2036d03402cfc615b",
+      "caminho_relativo": "normas/resolucoes/2021/CFM-RES-2299-2021.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2021/CFM-RES-2299-2021.md"
+    },
+    {
+      "id": "CFM-RES-2297-2021",
+      "id_norma_cfm": "44891",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2297",
+      "ano": "2021",
+      "data_publicacao": "03-OCT-24",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2323-2022"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe de normas específicas para médicos que atendem o trabalhador. Revoga a Resolução CFM nº 2.183/2018.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2021/2297",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2021/2297_2021.pdf",
+      "sha256_conteudo": "8aa8b66bd88c377f2a64ce8c2f9f1f448c5f386753acef2698653dd471ab9274",
+      "caminho_relativo": "normas/resolucoes/2021/CFM-RES-2297-2021.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2021/CFM-RES-2297-2021.md"
+    },
+    {
+      "id": "CFM-RES-2296-2021",
+      "id_norma_cfm": "44890",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2296",
+      "ano": "2021",
+      "data_publicacao": "03-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Regulamenta o Sistema Integrado de Identificação Médica (SIIM), disciplinando e normatizando a emissão de documentos de identificação médica físicos e digitais. O sistema será composto por: Cédula de Identidade Médica (CIM) (física e digital), Carteira Profissional de Médico (CPM) (física e digital), Atributos Médicos e Certificação Digital (padrão ICP-Brasil).",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2021/2296",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2021/2296_2021.pdf",
+      "sha256_conteudo": "000a820ff9bd52d157e309991de1d1c314506d3994378d0a74c3f5ae620fda28",
+      "caminho_relativo": "normas/resolucoes/2021/CFM-RES-2296-2021.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2021/CFM-RES-2296-2021.md"
+    },
+    {
+      "id": "CFM-RES-2295-2021",
+      "id_norma_cfm": "44889",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2295",
+      "ano": "2021",
+      "data_publicacao": "03-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Normatiza a Carteira Profissional de Médico (CPM) dos profissionais inscritos nos Conselhos Regionais de Medicina, nas suas versões física (BOX) e para dispositivos móveis (e-CPM), e dá outras providências.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2021/2295",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2021/2295_2021.pdf",
+      "sha256_conteudo": "c4f4ed6044d6d3802e0de3aafb273759ba724d786e9ddc851d726969b3f7a619",
+      "caminho_relativo": "normas/resolucoes/2021/CFM-RES-2295-2021.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2021/CFM-RES-2295-2021.md"
+    },
+    {
+      "id": "CFM-RES-2286-2020",
+      "id_norma_cfm": "44872",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2286",
+      "ano": "2020",
+      "data_publicacao": "02-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.159/17, publicada no D.O.U. de 1º de fevereiro de 2017, Seção I, p. 113-114.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2020/2286",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2020/2286_2020.pdf",
+      "sha256_conteudo": "e18af4755e3b119f43c79094772fcc61302a5209b6d58d027aa6a474f834776e",
+      "caminho_relativo": "normas/resolucoes/2020/CFM-RES-2286-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2020/CFM-RES-2286-2020.md"
+    },
+    {
+      "id": "CFM-RES-2278-2020",
+      "id_norma_cfm": "36532",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2278",
+      "ano": "2020",
+      "data_publicacao": "02-JUL-20",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2306-2022"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Autoriza a realização por videoconferência de apreciação do relatório conclusivo da sindicância, julgamento de processo ético-profissional e outros processos administrativos, bem como dos atos de instrução e respectivos recursos. Altera a Resolução CFM nº 2.145/2016 (CPEP), publicada no D.O.U. de 27 de outubro de 2016, Seção I, p. 329, e a Resolução CFM nº 2.234/2019 (PAe), publicada no D.O.U. de 11 de setembro de 2019, Seção I, p. 223-4, no âmbito dos Conselhos Federal e Regionais de Medicina.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2020/2278",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2020/2278_2020.pdf",
+      "sha256_conteudo": "b7e0ea7fafa1e75394157144a0d02ff058bca626390e86bb0030555eb235cec7",
+      "caminho_relativo": "normas/resolucoes/2020/CFM-RES-2278-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2020/CFM-RES-2278-2020.md"
+    },
+    {
+      "id": "CFM-RES-2275-2020",
+      "id_norma_cfm": "44852",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2275",
+      "ano": "2020",
+      "data_publicacao": "02-OCT-24",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2306-2022"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Altera a Resolução CFM nº 2145/2016, que aprovou o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs) e altera a Resolução CFM nº 2.234/2019, que dispõe sobre a tramitação eletrônica da sindicância, do processo ético-profissional, do procedimento administrativo para apuração de doença incapacitante do médico, do processo-consulta, da proposta de resolução e da proposta de recomendação no âmbito dos Conselhos Federal e Regionais de Medicina.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2020/2275",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2020/2275_2020.pdf",
+      "sha256_conteudo": "c097dafabd91f3164a1697e99fde3092b55ea30af6d1b9f3ec15767e0a0dca74",
+      "caminho_relativo": "normas/resolucoes/2020/CFM-RES-2275-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2020/CFM-RES-2275-2020.md"
+    },
+    {
+      "id": "CFM-REC-1-2020",
+      "id_norma_cfm": "36334",
+      "orgao": "CFM",
+      "tipo": "Recomendacao",
+      "numero": "1",
+      "ano": "2020",
+      "data_publicacao": "26-MAY-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a realização de cirurgias eletivas bariátricas e metabólicas no período de pandemia da COVID-19.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "conflito-de-interesses",
+        "consentimento-tcle",
+        "normas-uti-uci",
+        "responsabilidade-tecnica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/recomendacoes/BR/2020/1",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/recomendacoes/BR/2020/1_2020.pdf",
+      "sha256_conteudo": "f646d120667bb9dce9894675a9b213600f38cf472b9379f5238ae14b6e142e1f",
+      "caminho_relativo": "normas/recomendacoes/2020/CFM-REC-1-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/recomendacoes/2020/CFM-REC-1-2020.md"
+    },
+    {
+      "id": "CFM-PAR-11-2020",
+      "id_norma_cfm": "36559",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "11",
+      "ano": "2020",
+      "data_publicacao": "21-JUL-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Comercialização de cursos oferecidos por médicos via internet. Natureza de serviço médico. Aplicação das regras de publicidade médica. A comercialização de cursos dessa natureza deverá respeitar os dispositivos do Código de Ética Médica, Resolução CFM nº 2.217/2018, da Resolução CFM nº 1.974/2011 e dos critérios estabelecidos no Parecer CFM nº 14/2017.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "publicidade-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2020/11",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2020/11_2020.pdf",
+      "sha256_conteudo": "f021e95aad651d32044d711f57d2d61cf31112b836a26ee9a23a442fc25c386e",
+      "caminho_relativo": "normas/pareceres/2020/CFM-PAR-11-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2020/CFM-PAR-11-2020.md"
+    },
+    {
+      "id": "CFM-PAR-10-2020",
+      "id_norma_cfm": "36550",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "10",
+      "ano": "2020",
+      "data_publicacao": "10-JUL-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Em ações judiciais em que sejam objetos de apreciação pericial, a avaliação de capacidade, dano físico ou mental, nexo causal, definição de diagnóstico ou prognóstico, é vedado ao médico a realização da perícia sem exame direto do periciando ou sua substituição por prova técnica simplificada. ANULADO POR DECISÃO JUDICIAL.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "publicidade-medica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2020/10",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2020/10_2020.pdf",
+      "sha256_conteudo": "bd11333373938702fc7cc98bb27070211841e497a7f95624c2dc52c3810b3dbb",
+      "caminho_relativo": "normas/pareceres/2020/CFM-PAR-10-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2020/CFM-PAR-10-2020.md"
+    },
+    {
+      "id": "CFM-PAR-8-2020",
+      "id_norma_cfm": "36332",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "8",
+      "ano": "2020",
+      "data_publicacao": "26-MAY-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: É vedado realizar exames médicos ocupacionais com recursos de telemedicina sem proceder o exame clínico direto no trabalhador.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2020/8",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2020/8_2020.pdf",
+      "sha256_conteudo": "59d87015d59c9353bdd3dafececff81c7180b7cbe1ee31a487ccfad1e1176f92",
+      "caminho_relativo": "normas/pareceres/2020/CFM-PAR-8-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2020/CFM-PAR-8-2020.md"
+    },
+    {
+      "id": "CFM-PAR-5-2020",
+      "id_norma_cfm": "36291",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "5",
+      "ano": "2020",
+      "data_publicacao": "07-MAY-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Informações médicas são sigilosas e privativas do paciente, sendo que sua divulgação somente ocorre com seu consentimento formal, exceto em cumprimento de determinação judicial, quando, nesse caso, o sigilo ficará sob a guarda do Juízo solicitante.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2020/5",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2020/5_2020.pdf",
+      "sha256_conteudo": "9b7494bc5d8549809701a192d8a87c2b0caa8f4c3271fca274362109be7a25dc",
+      "caminho_relativo": "normas/pareceres/2020/CFM-PAR-5-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2020/CFM-PAR-5-2020.md"
+    },
+    {
+      "id": "CFM-PAR-3-2020",
+      "id_norma_cfm": "36241",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "3",
+      "ano": "2020",
+      "data_publicacao": "08-APR-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O médico Perito Judicial que utiliza recurso tecnológico sem realizar o exame direto no periciando afronta o Código de Ética Médica e demais normativas emanadas do Conselho Federal de Medicina.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2020/3",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2020/3_2020.pdf",
+      "sha256_conteudo": "f65f5b2feb0844887fefe9d8da6a14d94eda49c3e0db1f25943b096fc5c22967",
+      "caminho_relativo": "normas/pareceres/2020/CFM-PAR-3-2020.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2020/CFM-PAR-3-2020.md"
     }
   ]
 }

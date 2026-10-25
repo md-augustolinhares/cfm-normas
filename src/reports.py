@@ -3,18 +3,64 @@ Módulo de geração de relatórios, catálogos, PROGRESSO.md e dashboard estati
 """
 from datetime import datetime
 import json
+from pathlib import Path
 from typing import Any, Dict, List
+import yaml
 
 from src.config import (
+    BASE_DIR,
     CATALOGO_GLOBAL_PATH,
     CATALOGO_IA_PATH,
     ESTATISTICAS_PATH,
+    NORMAS_DIR,
     PROGRESSO_PATH,
 )
 from src.gerar_dashboard_svg import gerar_dashboard_svg
 
 
-def gerar_catalogos(documentos: List[Dict[str, Any]]):
+def carregar_todos_documentos_disco() -> List[Dict[str, Any]]:
+    """
+    Varre a pasta normas/ e carrega os frontmatters de todos os arquivos .md existentes.
+    Garante que execuções parciais nunca apaguem normas de outros anos.
+    """
+    documentos = []
+    if not NORMAS_DIR.exists():
+        return documentos
+
+    for p in NORMAS_DIR.rglob("*.md"):
+        try:
+            content = p.read_text(encoding="utf-8")
+            if content.startswith("---"):
+                parts = content.split("---", 2)
+                if len(parts) >= 3:
+                    fm = yaml.safe_load(parts[1])
+                    if isinstance(fm, dict) and "id" in fm:
+                        # Assegura caminhos
+                        rel_path = p.relative_to(BASE_DIR).as_posix()
+                        fm["caminho_relativo"] = rel_path
+                        fm["url_raw"] = f"https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/{rel_path}"
+                        documentos.append(fm)
+        except Exception as e:
+            print(f"Aviso ao ler {p}: {e}")
+
+    # Ordena por ano (desc), tipo e número
+    documentos.sort(key=lambda d: (str(d.get("ano", "")), str(d.get("tipo", "")), str(d.get("numero", "")).zfill(6)), reverse=True)
+    return documentos
+
+
+def gerar_catalogos(documentos: List[Dict[str, Any]] = None):
+    # Se não fornecido ou parcial, mescla com tudo o que existe no disco
+    documentos_disco = carregar_todos_documentos_disco()
+    if documentos:
+        docs_map = {d["id"]: d for d in documentos_disco}
+        for d in documentos:
+            docs_map[d["id"]] = d
+        documentos = list(docs_map.values())
+    else:
+        documentos = documentos_disco
+
+    # Ordena documentos
+    documentos.sort(key=lambda d: (str(d.get("ano", "")), str(d.get("tipo", "")), str(d.get("numero", "")).zfill(6)), reverse=True)
     # Constrói índice invertido de tags e macro-temas para busca O(1)
     indices_tags: Dict[str, List[str]] = {}
     indices_macro: Dict[str, List[str]] = {}
@@ -62,7 +108,17 @@ def gerar_catalogos(documentos: List[Dict[str, Any]]):
         print(f"Erro ao gerar dashboard SVG: {e}")
 
 
-def gerar_progresso_md(documentos: List[Dict[str, Any]]):
+def gerar_progresso_md(documentos: List[Dict[str, Any]] = None):
+    # Se não fornecido ou parcial, mescla com o que existe no disco
+    documentos_disco = carregar_todos_documentos_disco()
+    if documentos:
+        docs_map = {d["id"]: d for d in documentos_disco}
+        for d in documentos:
+            docs_map[d["id"]] = d
+        documentos = list(docs_map.values())
+    else:
+        documentos = documentos_disco
+
     data_atual = datetime.now().strftime("%d/%m/%Y às %H:%M")
 
     # Contagem por tipo
@@ -127,7 +183,17 @@ def gerar_progresso_md(documentos: List[Dict[str, Any]]):
         f.write(conteudo)
 
 
-def gerar_estatisticas_html(documentos: List[Dict[str, Any]]):
+def gerar_estatisticas_html(documentos: List[Dict[str, Any]] = None):
+    # Se não fornecido ou parcial, mescla com o que existe no disco
+    documentos_disco = carregar_todos_documentos_disco()
+    if documentos:
+        docs_map = {d["id"]: d for d in documentos_disco}
+        for d in documentos:
+            docs_map[d["id"]] = d
+        documentos = list(docs_map.values())
+    else:
+        documentos = documentos_disco
+
     # Agregações para gráficos
     por_ano: Dict[str, int] = {}
     por_tipo: Dict[str, int] = {}

@@ -26,13 +26,22 @@ def gerar_dashboard_svg():
     total = len(docs)
     total_ia = catalogo_ia.get("total_documentos_ia_dados", 0)
 
+    # Identifica menor e maior ano dos documentos existentes
+    anos_presentes = [int(d["ano"]) for d in docs if str(d.get("ano", "")).isdigit()]
+    min_ano = min(anos_presentes) if anos_presentes else 2020
+    max_ano_coletado = max(anos_presentes) if anos_presentes else 2026
+    faixa_anos = f"{min_ano}–{max_ano_coletado}"
+
     # Contagens por ano
     por_ano = {}
-    for ano in range(2020, 2027):
-        por_ano[str(ano)] = 0
+    for a in range(min_ano, max_ano_coletado + 1):
+        por_ano[str(a)] = 0
     for d in docs:
         ano = str(d.get("ano", "Outros"))
-        por_ano[ano] = por_ano.get(ano, 0) + 1
+        if ano in por_ano:
+            por_ano[ano] += 1
+        else:
+            por_ano[ano] = 1
 
     # Contagens por status
     vigentes = sum(1 for d in docs if d.get("status") == "Vigente")
@@ -52,26 +61,33 @@ def gerar_dashboard_svg():
     # Dados do gráfico de barras por ano
     anos_chaves = list(por_ano.keys())
     anos_valores = list(por_ano.values())
-    max_ano = max(anos_valores) if anos_valores else 1
+    max_ano_val = max(anos_valores) if anos_valores else 1
 
-    # Construção das barras por ano (painel esquerdo)
+    # Construção dinâmica das barras por ano (painel esquerdo de x=30 até x=445 -> largura útil ~375)
     bars_ano_svg = []
-    x_start = 55
-    bar_width = 32
-    spacing = 52
+    num_barras = len(anos_chaves)
+    area_util_w = 370
+    x_offset_base = 48
+    spacing = area_util_w / max(num_barras, 1)
+    bar_width = max(14, int(spacing * 0.65))
     chart_y_bottom = 370
     chart_h = 135
 
+    # Se forem muitos anos, ajusta o tamanho da fonte
+    font_ano = "9" if num_barras > 10 else "11"
+    font_val = "9" if num_barras > 10 else "11"
+
     for i, (ano, val) in enumerate(zip(anos_chaves, anos_valores)):
-        b_h = int((val / max_ano) * chart_h) if max_ano else 0
+        b_h = int((val / max_ano_val) * chart_h) if max_ano_val else 0
         b_y = chart_y_bottom - b_h
-        bx = x_start + (i * spacing)
+        bx = int(x_offset_base + (i * spacing) + (spacing - bar_width) / 2)
         # Barra
-        bars_ano_svg.append(f'<rect x="{bx}" y="{b_y}" width="{bar_width}" height="{b_h}" rx="4" fill="url(#blueGrad)" />')
+        bars_ano_svg.append(f'<rect x="{bx}" y="{b_y}" width="{bar_width}" height="{b_h}" rx="3" fill="url(#blueGrad)" />')
         # Valor acima da barra
-        bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{b_y - 6}" text-anchor="middle" font-size="11" font-weight="600" fill="#38bdf8">{val}</text>')
-        # Rótulo do ano
-        bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{chart_y_bottom + 18}" text-anchor="middle" font-size="11" fill="#94a3b8">{ano}</text>')
+        bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{b_y - 4}" text-anchor="middle" font-size="{font_val}" font-weight="600" fill="#38bdf8">{val}</text>')
+        # Rótulo do ano (mostra 2 dígitos se forem muitos anos ou 4 dígitos)
+        rotulo_ano = ano[2:] if num_barras > 12 else ano
+        bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{chart_y_bottom + 16}" text-anchor="middle" font-size="{font_ano}" fill="#94a3b8">{rotulo_ano}</text>')
 
     # Dados do gráfico horizontal de Macro-temas (painel direito)
     macros_ordenados = sorted(por_macro.items(), key=lambda x: x[1], reverse=True)[:5]
@@ -132,7 +148,7 @@ def gerar_dashboard_svg():
   <g transform="translate(30, 24)">
     <circle cx="10" cy="10" r="10" fill="#0284c7" />
     <path d="M7 10L9 12L13 8" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="28" y="14" class="title">CFM NORMAS — ACERVO REGULATÓRIO OFICIAL (2020–2026)</text>
+    <text x="28" y="14" class="title">CFM NORMAS — ACERVO REGULATÓRIO OFICIAL ({faixa_anos})</text>
     <text x="28" y="32" class="subtitle">Acervo público em Markdown com status de vigência e tags para agentes de IA • Atualizado em: {data_str}</text>
   </g>
 
@@ -142,7 +158,7 @@ def gerar_dashboard_svg():
     <rect x="0" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
     <text x="16" y="22" class="card-label">Total de Normas</text>
     <text x="16" y="52" class="card-val" fill="#38bdf8">{total}</text>
-    <text x="16" y="66" class="card-sub">100% da meta oficial (2020-2026)</text>
+    <text x="16" y="66" class="card-sub">100% da meta oficial ({faixa_anos})</text>
 
     <!-- KPI 2: Vigentes -->
     <rect x="213" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
@@ -166,7 +182,7 @@ def gerar_dashboard_svg():
   <!-- Painel Esquerdo: Publicações por Ano -->
   <g transform="translate(30, 172)">
     <rect x="0" y="0" width="415" height="228" rx="8" fill="#111c30" stroke="#1e293b" stroke-width="1" />
-    <text x="18" y="26" class="section-title">Publicações por Ano (2020–2026)</text>
+    <text x="18" y="26" class="section-title">Publicações por Ano ({faixa_anos})</text>
     <line x1="18" y1="198" x2="397" y2="198" stroke="#334155" stroke-width="1" stroke-dasharray="3 3" />
   </g>
   {' '.join(bars_ano_svg)}
