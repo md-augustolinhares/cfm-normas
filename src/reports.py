@@ -4,6 +4,7 @@ Módulo de geração de relatórios, catálogos, PROGRESSO.md e dashboard estati
 from datetime import datetime
 import json
 from pathlib import Path
+import re
 from typing import Any, Dict, List
 import yaml
 
@@ -14,6 +15,7 @@ from src.config import (
     ESTATISTICAS_PATH,
     NORMAS_DIR,
     PROGRESSO_PATH,
+    README_PATH,
 )
 from src.gerar_dashboard_svg import gerar_dashboard_svg
 
@@ -106,6 +108,12 @@ def gerar_catalogos(documentos: List[Dict[str, Any]] = None):
         gerar_dashboard_svg()
     except Exception as e:
         print(f"Erro ao gerar dashboard SVG: {e}")
+
+    # Atualiza o README.md automaticamente com as métricas do acervo
+    try:
+        atualizar_readme_metricas(documentos, len(docs_ia))
+    except Exception as e:
+        print(f"Erro ao atualizar métricas do README: {e}")
 
 
 def gerar_progresso_md(documentos: List[Dict[str, Any]] = None):
@@ -400,3 +408,56 @@ def gerar_estatisticas_html(documentos: List[Dict[str, Any]] = None):
 """
     with open(ESTATISTICAS_PATH, "w", encoding="utf-8") as f:
         f.write(html_content)
+
+
+def atualizar_readme_metricas(documentos: List[Dict[str, Any]], total_ia: int):
+    """
+    Mantém o título, badges e textos do README.md 100% sincronizados com o acervo real.
+    """
+    if not README_PATH.exists():
+        return
+
+    readme_content = README_PATH.read_text(encoding="utf-8")
+
+    total = len(documentos)
+    anos_presentes = [int(d["ano"]) for d in documentos if str(d.get("ano", "")).isdigit()]
+    min_ano = min(anos_presentes) if anos_presentes else 2010
+    max_ano = max(anos_presentes) if anos_presentes else 2026
+    faixa_anos = f"{min_ano}–{max_ano}"
+
+    # 1. Atualiza cabeçalho principal: # CFM Normas (2010–2026)
+    readme_content = re.sub(
+        r"^# CFM Normas \(\d{4}–\d{4}\)",
+        f"# CFM Normas ({faixa_anos})",
+        readme_content,
+        flags=re.MULTILINE,
+    )
+
+    # 2. Atualiza badge do Acervo Oficial: Acervo_Oficial-{total}_Normas
+    readme_content = re.sub(
+        r"Acervo_Oficial-\d+_Normas",
+        f"Acervo_Oficial-{total}_Normas",
+        readme_content,
+    )
+    readme_content = re.sub(
+        r'alt="\d+ Normas"',
+        f'alt="{total} Normas"',
+        readme_content,
+    )
+
+    # 3. Atualiza badge da Trilha IA & LGPD: Trilha_IA_&_LGPD-{total_ia}_Normas
+    readme_content = re.sub(
+        r"Trilha_IA_&_LGPD-\d+_Normas",
+        f"Trilha_IA_&_LGPD-{total_ia}_Normas",
+        readme_content,
+    )
+
+    # 4. Atualiza menção no texto de normas-chave
+    readme_content = re.sub(
+        r"Dentre as \*\*\d+ normas\*\* mapeadas na nossa trilha",
+        f"Dentre as **{total_ia} normas** mapeadas na nossa trilha",
+        readme_content,
+    )
+
+    README_PATH.write_text(readme_content, encoding="utf-8")
+    print(f"README.md atualizado automaticamente com as métricas: {faixa_anos} | {total} normas | {total_ia} IA/LGPD.")

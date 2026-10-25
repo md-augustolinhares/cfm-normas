@@ -13,6 +13,7 @@ CATALOGO_GLOBAL_PATH = BASE_DIR / "catalogo.json"
 CATALOGO_IA_PATH = BASE_DIR / "catalogo_ia_privacidade.json"
 PROGRESSO_PATH = BASE_DIR / "PROGRESSO.md"
 ESTATISTICAS_PATH = BASE_DIR / "estatisticas.html"
+README_PATH = BASE_DIR / "README.md"
 
 # Endpoints do CFM
 URL_BUSCA_PORTAL = "https://portal.cfm.org.br/buscar-normas-cfm-e-crm/"
