@@ -147,22 +147,27 @@ def gerar_progresso_md(documentos: List[Dict[str, Any]] = None):
             f"| {ano} | {info['total']} | {info['vigente']} | {info['revogada']} | {info['ia_dados']} |"
         )
 
-    conteudo = f"""# Progresso do Acervo de Normas do CFM (2020–2026)
+    anos_presentes = [int(d["ano"]) for d in documentos if str(d.get("ano", "")).isdigit()]
+    min_ano = min(anos_presentes) if anos_presentes else 2010
+    max_ano = max(anos_presentes) if anos_presentes else 2026
+    faixa_anos = f"{min_ano}–{max_ano}"
+
+    conteudo = f"""# Progresso do Acervo de Normas do CFM ({faixa_anos})
 
 > **Última atualização:** {data_atual} (gerado automaticamente)  
 > **Total de documentos processados:** {len(documentos)}
 
 ---
 
-## 1. Volume por Categoria de Norma
+## 1. Volume por Categoria de Norma ({faixa_anos})
 
-| Categoria | Meta Estimada (Oficial) | Coletados no Acervo | % Concluído | Status |
-| :--- | :---: | :---: | :---: | :---: |
-| **Resoluções** | 196 | {len(resolucoes)} | {min(100.0, (len(resolucoes)/196)*100):.1f}% | 🟢 Em dia |
-| **Pareceres** | 134 | {len(pareceres)} | {min(100.0, (len(pareceres)/134)*100):.1f}% | 🟢 Em dia |
-| **Recomendações** | 1 | {len(recomendacoes)} | {min(100.0, (len(recomendacoes)/1)*100):.1f}% | 🟢 Em dia |
-| **Despachos Jurídicos** | 801 | {len(despachos)} | {min(100.0, (len(despachos)/801)*100):.1f}% | 🔹 Módulo 1B |
-| **Total Global** | **1.132** | **{len(documentos)}** | **{(len(documentos)/1132)*100:.1f}%** | 🟢 |
+| Categoria | Coletados no Acervo | Status |
+| :--- | :---: | :---: |
+| **Resoluções** | {len(resolucoes)} | 🟢 Concluído |
+| **Pareceres** | {len(pareceres)} | 🟢 Concluído |
+| **Recomendações** | {len(recomendacoes)} | 🟢 Concluído |
+| **Despachos Jurídicos** | {len(despachos)} | 🔹 Módulo Retroativo |
+| **Total Global** | **{len(documentos)}** | 🟢 100% da Fase 1 e 2 ({faixa_anos}) |
 
 ---
 

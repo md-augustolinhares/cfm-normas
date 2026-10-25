@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-10-25T12:33:13.654906",
-  "total_documentos_ia_dados": 53,
+  "atualizado_em": "2026-10-25T12:46:35.969839",
+  "total_documentos_ia_dados": 110,
   "documentos": [
     {
       "id": "CFM-RES-2454-2026",
@@ -30,7 +30,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2454",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2454_2026.pdf",
-      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563"
+      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563",
+      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2454-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2454-2026.md"
     },
     {
       "id": "CFM-RES-2453-2026",
@@ -56,7 +58,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2453",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2453_2026.pdf",
-      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0"
+      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0",
+      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2453-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2453-2026.md"
     },
     {
       "id": "CFM-PAR-19-2026",
@@ -1542,6 +1546,1641 @@
       "sha256_conteudo": "f65f5b2feb0844887fefe9d8da6a14d94eda49c3e0db1f25943b096fc5c22967",
       "caminho_relativo": "normas/pareceres/2020/CFM-PAR-3-2020.md",
       "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2020/CFM-PAR-3-2020.md"
+    },
+    {
+      "id": "CFM-RES-2264-2019",
+      "id_norma_cfm": "44832",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2264",
+      "ano": "2019",
+      "data_publicacao": "01-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Define e disciplina a telepatologia como forma de prestação de serviços de anatomopatologia mediados por tecnologias.",
+      "macro_tema": "Formação & Registro Profissional",
+      "tags": [
+        "lgpd-e-privacidade",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2019/2264",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2019/2264_2019.pdf",
+      "sha256_conteudo": "daa2f5a12c5ddf50dad3996ea5c01279c2f79c1abdce0275b993a46dacfea17f",
+      "caminho_relativo": "normas/resolucoes/2019/CFM-RES-2264-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2019/CFM-RES-2264-2019.md"
+    },
+    {
+      "id": "CFM-RES-2234-2019",
+      "id_norma_cfm": "44829",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2234",
+      "ano": "2019",
+      "data_publicacao": "30-SEP-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a tramitação eletrônica da sindicância, do processo ético-profissional, do procedimento administrativo para apuração de doença incapacitante do médico, do processo-consulta, da proposta de resolução e da proposta de recomendação no âmbito dos Conselhos Federal e Regionais de Medicina.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2019/2234",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2019/2234_2019.pdf",
+      "sha256_conteudo": "ecaddb161ae3eaa5fd4352ff67682eb8b69d629b643899b978077d3ca3bac6f7",
+      "caminho_relativo": "normas/resolucoes/2019/CFM-RES-2234-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2019/CFM-RES-2234-2019.md"
+    },
+    {
+      "id": "CFM-RES-2233-2019",
+      "id_norma_cfm": "35482",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2233",
+      "ano": "2019",
+      "data_publicacao": "21-AUG-19",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Normatiza a Cédula de Identidade Médica (CIM) dos profissionais inscritos nos Conselhos Regionais de Medicina, nas suas versões em cartão (CRM DIGITAL) e para dispositivos móveis (E-CRM), e dá outras providências.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2019/2233",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2019/2233_2019.pdf",
+      "sha256_conteudo": "ab192ef73f8565ed5541a9555d89aee12c08a871fa3d62e3695b67ff85d6c322",
+      "caminho_relativo": "normas/resolucoes/2019/CFM-RES-2233-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2019/CFM-RES-2233-2019.md"
+    },
+    {
+      "id": "CFM-RES-2228-2019",
+      "id_norma_cfm": "44823",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2228",
+      "ano": "2019",
+      "data_publicacao": "30-SEP-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Revoga a Resolução CFM nº 2.227, publicada no D.O.U. de 6 de fevereiro de 2019, Seção I, p. 58, a qual define e disciplina a telemedicina como forma de prestação de serviços médicos mediados por tecnologias, e restabelece expressamente a vigência da Resolução CFM nº 1.643/2002, publicada no D.O.U. de 26 de agosto de 2002, Seção I, p. 205.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2019/2228",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2019/2228_2019.pdf",
+      "sha256_conteudo": "cbceb00011d3466efb5e3a6d97b6032a1f051af3d9d3e4697cff334a2dcb5266",
+      "caminho_relativo": "normas/resolucoes/2019/CFM-RES-2228-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2019/CFM-RES-2228-2019.md"
+    },
+    {
+      "id": "CFM-PAR-41-2019",
+      "id_norma_cfm": "36040",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "41",
+      "ano": "2019",
+      "data_publicacao": "06-JAN-20",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Diante dos constantes questionamentos relativos ao uso de carimbos no exercício profissional, OPINO pela edição de uma resolução específica com possibilidade de se estabelecer um melhor controle e com especificações para a sua confecção, definindo ainda o seu caráter opcional.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2019/41",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2019/41_2019.pdf",
+      "sha256_conteudo": "a81973ef50f45b048bae292d2a9503d08d3725ce6444896b56bcdcbfa9f24aa9",
+      "caminho_relativo": "normas/pareceres/2019/CFM-PAR-41-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2019/CFM-PAR-41-2019.md"
+    },
+    {
+      "id": "CFM-PAR-27-2019",
+      "id_norma_cfm": "35886",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "27",
+      "ano": "2019",
+      "data_publicacao": "28-NOV-19",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A aplicação da tecnologia nos processos médicos precisa estar asseverada em princípios que garantam segurança e sigilo das informações dos pacientes. Não basta a nós apenas o CRM Digital, precisamos de softwares, hardwares e tecnologia adequados a este fim, que possam, de maneira segura, certificar a veracidade e segurança dos dados.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2019/27",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2019/27_2019.pdf",
+      "sha256_conteudo": "daf8bb162ac51b18cac7185cce01cdb7d5c0f5204f3d17f28c4b998585f51e28",
+      "caminho_relativo": "normas/pareceres/2019/CFM-PAR-27-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2019/CFM-PAR-27-2019.md"
+    },
+    {
+      "id": "CFM-PAR-26-2019",
+      "id_norma_cfm": "35690",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "26",
+      "ano": "2019",
+      "data_publicacao": "30-SEP-19",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A emissão de laudo de exame de eletroencefalograma requer conhecimento técnico específico, devendo ser realizado por médico capacitado. A Resolução CFM nº 2.221/2018 define a relação de especialidades médicas e de áreas de atuação no Brasil.",
+      "macro_tema": "Formação & Registro Profissional",
+      "tags": [
+        "publicidade-medica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2019/26",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2019/26_2019.pdf",
+      "sha256_conteudo": "38c8e6d77aa85f9acdba723a88afbd25e3d59bbe96d025a100c14463274429a9",
+      "caminho_relativo": "normas/pareceres/2019/CFM-PAR-26-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2019/CFM-PAR-26-2019.md"
+    },
+    {
+      "id": "CFM-PAR-10-2019",
+      "id_norma_cfm": "35285",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "10",
+      "ano": "2019",
+      "data_publicacao": "30-MAY-19",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: No caso de ressarcimento ao SUS por operadora de saúde, é indispensável que o acesso ao prontuário do paciente seja realizado por médico auditor regularmente inscrito no CRM sob sua jurisdição.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "responsabilidade-tecnica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2019/10",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2019/10_2019.pdf",
+      "sha256_conteudo": "94b2b3e6ac9ba8d2eb6d1c8b8e1d31d4f56604e38b7d6475d65d44c794099cb4",
+      "caminho_relativo": "normas/pareceres/2019/CFM-PAR-10-2019.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2019/CFM-PAR-10-2019.md"
+    },
+    {
+      "id": "CFM-RES-2227-2018",
+      "id_norma_cfm": "44818",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2227",
+      "ano": "2018",
+      "data_publicacao": "30-SEP-24",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2228-2019"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Define e disciplina a telemedicina como forma de prestação de serviços médicos mediados por tecnologias",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade",
+        "prontuario-eletronico",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2018/2227",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2018/2227_2018.pdf",
+      "sha256_conteudo": "926b02fca41c932a4086270d7af9b11be68f3b4854f77182b27cf9aa49f7e578",
+      "caminho_relativo": "normas/resolucoes/2018/CFM-RES-2227-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2018/CFM-RES-2227-2018.md"
+    },
+    {
+      "id": "CFM-RES-2218-2018",
+      "id_norma_cfm": "44807",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2218",
+      "ano": "2018",
+      "data_publicacao": "30-SEP-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Revoga o artigo 10º da Resolução CFM nº 1.821/2007, de 23 de novembro de 2007, que aprova as normas técnicas concernentes à digitalização e uso dos sistemas informatizados   para   a   guarda e manuseio dos documentos dos prontuários dos pacientes, autorizando a eliminação do papel e a troca de informação identificada em saúde.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2018/2218",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2018/2218_2018.pdf",
+      "sha256_conteudo": "30df73a0f6d735cc2f5ba7dd24ea3ef1b6980afe8509b6a2dfbfc2bddd3e7001",
+      "caminho_relativo": "normas/resolucoes/2018/CFM-RES-2218-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2018/CFM-RES-2218-2018.md"
+    },
+    {
+      "id": "CFM-RES-2217-2018",
+      "id_norma_cfm": "44806",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2217",
+      "ano": "2018",
+      "data_publicacao": "30-SEP-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Aprova o Código de Ética Médica.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "conflito-de-interesses",
+        "consentimento-tcle",
+        "cuidados-paliativos",
+        "pericia-medica",
+        "publicidade-medica",
+        "reproducao-assistida",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "telemedicina",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2018/2217",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2018/2217_2018.pdf",
+      "sha256_conteudo": "383d8fd4e5a981e37fab5dcb5477fe556f5a8f796f8e44a0fed26b88dffbd5c8",
+      "caminho_relativo": "normas/resolucoes/2018/CFM-RES-2217-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2018/CFM-RES-2217-2018.md"
+    },
+    {
+      "id": "CFM-RES-2184-2018",
+      "id_norma_cfm": "43508",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2184",
+      "ano": "2018",
+      "data_publicacao": "20-JUN-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Aprova normativo de relacionamento institucional qualificado com o Ministério Público",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2018/2184",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2018/2184_2018.pdf",
+      "sha256_conteudo": "ef74caf7c1cf23da6d8b75c7e93c9694c8dd16f34e18871d0746b991f13e263e",
+      "caminho_relativo": "normas/resolucoes/2018/CFM-RES-2184-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2018/CFM-RES-2184-2018.md"
+    },
+    {
+      "id": "CFM-PAR-27-2018",
+      "id_norma_cfm": "34223",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "27",
+      "ano": "2018",
+      "data_publicacao": "14-SEP-18",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Em casos de motivo justo e dever legal, o médico está respaldado ética e legalmente a revelar o sigilo do paciente.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2018/27",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2018/27_2018.pdf",
+      "sha256_conteudo": "e51877a60d2983df93e093aac6b1dce2fde34c3761dd0e9b923651f2ad2842fe",
+      "caminho_relativo": "normas/pareceres/2018/CFM-PAR-27-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2018/CFM-PAR-27-2018.md"
+    },
+    {
+      "id": "CFM-PAR-17-2018",
+      "id_norma_cfm": "33576",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "17",
+      "ano": "2018",
+      "data_publicacao": "19-JUL-18",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O aconselhamento genético pode e deve ser feito pelos meios de comunicação eletrônicos à disposição dos profissionais, tendo em vista o escasso número de médicos especialistas em genética médica no Brasil.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2018/17",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2018/17_2018.pdf",
+      "sha256_conteudo": "d2662c510075e1398448d6403851228432efebeca4e71d8dda2de8add0697d8f",
+      "caminho_relativo": "normas/pareceres/2018/CFM-PAR-17-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2018/CFM-PAR-17-2018.md"
+    },
+    {
+      "id": "CFM-PAR-16-2018",
+      "id_norma_cfm": "33596",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "16",
+      "ano": "2018",
+      "data_publicacao": "23-JUL-18",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Na ocorrência de exposição acidental a material biológico, em situação da excepcionalidade do paciente fonte se encontrar não responsivo, não lúcido e não orientado e, na impossibilidade de se obter contato com familiar ou com seu representante legal e/ou na ausência de suas vontades antecipadas expressas, caberá ao médico tomar a decisão de autorizar a realização do teste rápido e demais testes sorológicos, sem que isto incorra em ilícito ético, resguardando-se o sigilo médico, devendo registrar em prontuário todos os atos praticados.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade",
+        "normas-uti-uci",
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2018/16",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2018/16_2018.pdf",
+      "sha256_conteudo": "5c623f1b71a6250547ab3136bd3dabb0722d5efca337c02d3f7d5bb97cf15a42",
+      "caminho_relativo": "normas/pareceres/2018/CFM-PAR-16-2018.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2018/CFM-PAR-16-2018.md"
+    },
+    {
+      "id": "CFM-RES-2164-2017",
+      "id_norma_cfm": "43470",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2164",
+      "ano": "2017",
+      "data_publicacao": "12-JUN-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Regulamenta o procedimento administrativo para apuração de doença incapacitante, parcial ou total, para o exercício da medicina e revoga a Resolução CFM nº 1.990/2012, publicada no D.O.U. de 11 de junho de 2012, seção I, p. 103.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "pericia-medica",
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2017/2164",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2017/2164_2017.pdf",
+      "sha256_conteudo": "f53f164ccb76381fe896bc2643111470650d9c936409e735af925f3005332f56",
+      "caminho_relativo": "normas/resolucoes/2017/CFM-RES-2164-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2017/CFM-RES-2164-2017.md"
+    },
+    {
+      "id": "CFM-RES-2159-2017",
+      "id_norma_cfm": "43459",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2159",
+      "ano": "2017",
+      "data_publicacao": "11-JUN-24",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2286-2020"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.138/16, publicada no D.O.U. de 3 de março de 2016, Seção I, p. 102-3",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2017/2159",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2017/2159_2017.pdf",
+      "sha256_conteudo": "5655e1e4ff383e5ba21cb2133262c15dc4f302c4dab2509157241ac54b90802e",
+      "caminho_relativo": "normas/resolucoes/2017/CFM-RES-2159-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2017/CFM-RES-2159-2017.md"
+    },
+    {
+      "id": "CFM-RES-2158-2017",
+      "id_norma_cfm": "43458",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2158",
+      "ano": "2017",
+      "data_publicacao": "11-JUN-24",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2306-2022"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Altera o artigo 1º da Resolução CFM nº 2145/2016 – Código de Processo Ético-Profissional – CPEP, publicada no D.O.U. de 27 de outubro de 2016, Seção I, p. 329.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2017/2158",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2017/2158_2017.pdf",
+      "sha256_conteudo": "02d5893aab98ea1d1ecc8cfae097e1cc625933613b288342dfbb44a8925dcf85",
+      "caminho_relativo": "normas/resolucoes/2017/CFM-RES-2158-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2017/CFM-RES-2158-2017.md"
+    },
+    {
+      "id": "CFM-PAR-50-2017",
+      "id_norma_cfm": "32409",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "50",
+      "ano": "2017",
+      "data_publicacao": "09-JAN-18",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Configura infração ética realizar perícia médica em presença de assistente técnico não médico. O médico perito não está impedido de vedar a participação de advogados das partes na pericia quando se sentir constrangido em sua autonomia e exercício profissional.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2017/50",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2017/50_2017.pdf",
+      "sha256_conteudo": "ea4f2cfb4b3c71df996de3ade442507deda5e663afb857516d8a5886adac45de",
+      "caminho_relativo": "normas/pareceres/2017/CFM-PAR-50-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2017/CFM-PAR-50-2017.md"
+    },
+    {
+      "id": "CFM-PAR-47-2017",
+      "id_norma_cfm": "32580",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "47",
+      "ano": "2017",
+      "data_publicacao": "15-FEB-18",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O médico, no exercício da função pericial, não está sujeito ao sigilo profissional na elaboração do seu parecer, em razão do dever legal, excludente prevista no artigo 73 do Código de Ética Médica.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2017/47",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2017/47_2017.pdf",
+      "sha256_conteudo": "b907ef947909bb9b7399645604aa493e399816849d1cd5dd9ace95e098cbdd40",
+      "caminho_relativo": "normas/pareceres/2017/CFM-PAR-47-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2017/CFM-PAR-47-2017.md"
+    },
+    {
+      "id": "CFM-PAR-21-2017",
+      "id_norma_cfm": "31825",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "21",
+      "ano": "2017",
+      "data_publicacao": "19-JUN-17",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A Resolução CFM nº 1.821/2007 regulamenta as normas técnicas concernentes à digitalização e uso dos sistemas informatizados para a guarda e manuseio dos documentos dos prontuários dos pacientes. \r\nOs profissionais de saúde com acesso ao prontuário eletrônico estão obrigados à proteção do sigilo por força do Art. 154 do Código Penal Brasileiro.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico",
+        "responsabilidade-tecnica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2017/21",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2017/21_2017.pdf",
+      "sha256_conteudo": "2f0d96fcdf3585ac09331d3353fe31af62380d4ff9c74638814e51670d97f5a3",
+      "caminho_relativo": "normas/pareceres/2017/CFM-PAR-21-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2017/CFM-PAR-21-2017.md"
+    },
+    {
+      "id": "CFM-PAR-14-2017",
+      "id_norma_cfm": "31713",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "14",
+      "ano": "2017",
+      "data_publicacao": "16-MAY-17",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: É permitido o uso do Whatsapp e plataformas similares para comunicação entre médicos e seus pacientes, bem como entre médicos e médicos, em caráter privativo, para enviar dados ou tirar dúvidas, bem como em grupos fechados de especialistas ou do corpo clínico de uma instituição ou cátedra, com a ressalva de que todas as informações passadas tem absoluto caráter confidencial e não podem extrapolar os limites do próprio grupo, nem tampouco podem circular em grupos recreativos, mesmo que composto apenas por médicos.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "publicidade-medica",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2017/14",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2017/14_2017.pdf",
+      "sha256_conteudo": "4361e9c2668a52e38a9e82d6a3bd45aecd24fdcbf4be2730de91a27488e6574c",
+      "caminho_relativo": "normas/pareceres/2017/CFM-PAR-14-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2017/CFM-PAR-14-2017.md"
+    },
+    {
+      "id": "CFM-PAR-10-2017",
+      "id_norma_cfm": "32138",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "10",
+      "ano": "2017",
+      "data_publicacao": "19-SEP-17",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A construção de hospitais psiquiátricos é livre à iniciativa privada, podendo seus serviços serem comprados por particulares, planos de saúde e SUS. Para seu funcionamento, deve seguir o que determina as Resoluções Normativas CFM nº 2.056 e 2.057/2013, e suas revisões contidas na Resolução Normativa CFM nº 2.153/2016.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "consentimento-tcle",
+        "normas-uti-uci",
+        "prontuario-eletronico",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2017/10",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2017/10_2017.pdf",
+      "sha256_conteudo": "a34b0f94ee4b5932471838da9856c4f30a7c9336cffbdd0dc2dd684bfe572804",
+      "caminho_relativo": "normas/pareceres/2017/CFM-PAR-10-2017.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2017/CFM-PAR-10-2017.md"
+    },
+    {
+      "id": "CFM-RES-2145-2016",
+      "id_norma_cfm": "47447",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2145",
+      "ano": "2016",
+      "data_publicacao": "04-FEB-25",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2306-2022"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Aprova o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs). Revoga as Resoluções CFM nº 1967/11, 1987/12, 2023/13 e 2066/13.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico",
+        "responsabilidade-tecnica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2016/2145",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2016/2145_2016.pdf",
+      "sha256_conteudo": "da4a53a854f5ced1f3efebbed4805d00b87e7a4c06a448d34a87e2538837fec6",
+      "caminho_relativo": "normas/resolucoes/2016/CFM-RES-2145-2016.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2016/CFM-RES-2145-2016.md"
+    },
+    {
+      "id": "CFM-RES-2138-2016",
+      "id_norma_cfm": "47440",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2138",
+      "ano": "2016",
+      "data_publicacao": "04-FEB-25",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2159-2017"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.053/13, publicada no D.O.U. de 10 de outubro de 2013, Seção I, p. 74.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2016/2138",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2016/2138_2016.pdf",
+      "sha256_conteudo": "f585b70d2f29b9c039d2910774f28f5a33c479b5e9319d4c000f5a547e0e2c20",
+      "caminho_relativo": "normas/resolucoes/2016/CFM-RES-2138-2016.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2016/CFM-RES-2138-2016.md"
+    },
+    {
+      "id": "CFM-REC-1-2016",
+      "id_norma_cfm": "32324",
+      "orgao": "CFM",
+      "tipo": "Recomendacao",
+      "numero": "1",
+      "ano": "2016",
+      "data_publicacao": "28-NOV-17",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre o processo de obtenção de consentimento livre e esclarecido na assistência médica.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "consentimento-tcle",
+        "cuidados-paliativos",
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/recomendacoes/BR/2016/1",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/recomendacoes/BR/2016/1_2016.pdf",
+      "sha256_conteudo": "4440ca38095ec08a08fe87499514926aaf55f94c04851f833472b09f1cd56fc9",
+      "caminho_relativo": "normas/recomendacoes/2016/CFM-REC-1-2016.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/recomendacoes/2016/CFM-REC-1-2016.md"
+    },
+    {
+      "id": "CFM-PAR-36-2016",
+      "id_norma_cfm": "31363",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "36",
+      "ano": "2016",
+      "data_publicacao": "03-NOV-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O atestado médico não é um mero documento administrativo com acesso irrestrito, o que configuraria flagrante exposição da privacidade e da intimidade do trabalhador em ofensa à Constituição Brasileira e ao Código de Ética Médica, devendo ser tratado como sigiloso, obrigando a quem o maneja a guardar sigilo nos termos da constituição e da lei.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2016/36",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2016/36_2016.pdf",
+      "sha256_conteudo": "9d35456adb64f76cb578806664ae0f8a879e9c0851c68eccd7a7bf09cc82c794",
+      "caminho_relativo": "normas/pareceres/2016/CFM-PAR-36-2016.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2016/CFM-PAR-36-2016.md"
+    },
+    {
+      "id": "CFM-PAR-26-2016",
+      "id_norma_cfm": "27033",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "26",
+      "ano": "2016",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Os protocolos de pesquisa devem, obrigatoriamente, seguir as normas do sistema CEP/CONEP.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2016/26",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2016/26_2016.pdf",
+      "sha256_conteudo": "386d58479185a694256411f72bd1789aae9a6017937e272a16b180bb72976ac1",
+      "caminho_relativo": "normas/pareceres/2016/CFM-PAR-26-2016.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2016/CFM-PAR-26-2016.md"
+    },
+    {
+      "id": "CFM-PAR-7-2016",
+      "id_norma_cfm": "27017",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "7",
+      "ano": "2016",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Na investigação da hipótese de cometimento de crime, o médico está impedido de revelar segredo que possa expor o paciente a processo criminal.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2016/7",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2016/7_2016.pdf",
+      "sha256_conteudo": "19fa93b6c1bd2b38dcd7bc9aaa061d9f8d25f0bda587ef879db4adee2e258338",
+      "caminho_relativo": "normas/pareceres/2016/CFM-PAR-7-2016.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2016/CFM-PAR-7-2016.md"
+    },
+    {
+      "id": "CFM-PAR-55-2015",
+      "id_norma_cfm": "27091",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "55",
+      "ano": "2015",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "A relação sexual com menores de 14 anos é crime de estupro, conforme estabelecido no Código Penal Brasileiro. No entanto, o médico, ao consultar menores nesta faixa etária com vida sexual ativa, tem a obrigação ética de acolhê-los e orientá-los, estando dentro de sua autonomia profissional a decisão de prescrever anticoncepcional, devendo obrigatoriamente comunicar o fato aos pais ou representantes legais.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2015/55",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2015/55_2015.pdf",
+      "sha256_conteudo": "daa91cde719f858fd378ab8908e97671a6b91508f7868953d5023e05a65c2a08",
+      "caminho_relativo": "normas/pareceres/2015/CFM-PAR-55-2015.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2015/CFM-PAR-55-2015.md"
+    },
+    {
+      "id": "CFM-PAR-35-2015",
+      "id_norma_cfm": "27070",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "35",
+      "ano": "2015",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Não comete ilícito ético médico que, quando em atendimento em unidades de referência, registra em prontuários médicos de unidades prisionais informações de saúde de pessoas que vivem com HIV.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2015/35",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2015/35_2015.pdf",
+      "sha256_conteudo": "4db047aff77fe033c8242689ad777bbc7c4e7cf11ddeeb0bb588680a19662010",
+      "caminho_relativo": "normas/pareceres/2015/CFM-PAR-35-2015.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2015/CFM-PAR-35-2015.md"
+    },
+    {
+      "id": "CFM-PAR-26-2015",
+      "id_norma_cfm": "27059",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "26",
+      "ano": "2015",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O médico do trabalho tem o dever de elaborar um prontuário para cada trabalhador e, quando se trata de prontuário eletrônico, este deve atender aos requisitos do Nível de Garantia de Segurança 2, com acesso restrito apenas aos profissionais de saúde do SESMT por meio de senha pessoal.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico",
+        "responsabilidade-tecnica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2015/26",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2015/26_2015.pdf",
+      "sha256_conteudo": "221be5baeca212e58a9fbe83c1ee4d0eae56ff9266445e20853b02da55d547ab",
+      "caminho_relativo": "normas/pareceres/2015/CFM-PAR-26-2015.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2015/CFM-PAR-26-2015.md"
+    },
+    {
+      "id": "CFM-PAR-7-2015",
+      "id_norma_cfm": "33801",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "7",
+      "ano": "2015",
+      "data_publicacao": "20-AUG-18",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A prestação de serviços médicos à distância é regulamentada pelas Resoluções CFM nº 1.643/2002 e nº 2.107/2014 e estas não abrangem a atuação de médico na função de auditor.\r\nA Resolução CFM nº 1.948/2010, modificada pela Resolução CFM nº 2.011/2013, veda a realização de auditoria médica à distância, quando o profissional atua em outro Estado, por intermédio de quaisquer meios eletrônicos.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "pericia-medica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2015/7",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2015/7_2015.pdf",
+      "sha256_conteudo": "6fc429d213bdda2914f1effca777d848a99a372310d710230cdbfbd7bf22658d",
+      "caminho_relativo": "normas/pareceres/2015/CFM-PAR-7-2015.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2015/CFM-PAR-7-2015.md"
+    },
+    {
+      "id": "CFM-PAR-6-2015",
+      "id_norma_cfm": "27044",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "6",
+      "ano": "2015",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "A Resolução CFM n° 1.821/07 autoriza a eliminação do suporte em papel de prontuários médicos, quando microfilmados ou digitalizados, decorrido o prazo mínimo de 20 (vinte) anos do último registro, salvo os definidos pela Comissão Permanente de Avaliação de Documentos da instituição detentora do arquivo como de valor médico-científico, histórico e social, cuja manutenção do suporte em papel é permanente [...].",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2015/6",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2015/6_2015.pdf",
+      "sha256_conteudo": "6a2b8be5b4a96482a86f4bb41f1b5e70427a0c0f276e50a10710dd43753cee1b",
+      "caminho_relativo": "normas/pareceres/2015/CFM-PAR-6-2015.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2015/CFM-PAR-6-2015.md"
+    },
+    {
+      "id": "CFM-RES-2107-2014",
+      "id_norma_cfm": "43367",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2107",
+      "ano": "2014",
+      "data_publicacao": "29-MAY-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Define e normatiza a Telerradiologia e revoga a Resolução CFM nº 1890/09, publicada no D.O.U. de 19 janeiro de 2009, Seção I, p. 94-5p.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2014/2107",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2014/2107_2014.pdf",
+      "sha256_conteudo": "793fccc8e6ec7b6ec71fbded78266041e4d4b701db1bc69c3569adde77b6d6c7",
+      "caminho_relativo": "normas/resolucoes/2014/CFM-RES-2107-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2014/CFM-RES-2107-2014.md"
+    },
+    {
+      "id": "CFM-REC-3-2014",
+      "id_norma_cfm": "31242",
+      "orgao": "CFM",
+      "tipo": "Recomendacao",
+      "numero": "3",
+      "ano": "2014",
+      "data_publicacao": "29-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Recomendar aos profissionais médicos e instituições de tratamento médico, clínico, ambulatorial ou hospitalar no sentido de: a) fornecerem, quando solicitados pelo cônjuge/companheiro sobrevivente do paciente morto, e sucessivamente pelos sucessores legítimos do paciente em linha reta, ou colaterais até o quarto grau, os prontuários médicos do paciente falecido: desde que documentalmente comprovado o vínculo familiar e observada a ordem de vocação hereditária; b) informarem aos pacientes acerca da necessidade de manifestação expressa da objeção à divulgação do seu prontuário médico após a sua morte.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/recomendacoes/BR/2014/3",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/recomendacoes/BR/2014/3_2014.pdf",
+      "sha256_conteudo": "455d701d89ff40bf9cfdb3b80690729b6dc0ecb8f2ce38077d4278967d1b3f52",
+      "caminho_relativo": "normas/recomendacoes/2014/CFM-REC-3-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/recomendacoes/2014/CFM-REC-3-2014.md"
+    },
+    {
+      "id": "CFM-PAR-31-2014",
+      "id_norma_cfm": "27123",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "31",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: No campo destinado a ser preenchido com os resultados de monitoração biológica que serão enviados para profissionais não sujeitos ao sigilo profissional, deve ser observada a Resolução CFM no 1.715/2004.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/31",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/31_2014.pdf",
+      "sha256_conteudo": "45c6a06d46b1d7bdf18e92dfb40eca6532583176065a63dee3781bea64e85ad8",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-31-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-31-2014.md"
+    },
+    {
+      "id": "CFM-PAR-30-2014",
+      "id_norma_cfm": "27118",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "30",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Um documento eletrônico com assinatura digital, ou seja, que tenha certificação digital em conformidade com a ICP-Brasil, será considerado válido, para todos os efeitos, como tendo sido assinado pela pessoa ou instituição para a qual o certificado digital foi emitido.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/30",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/30_2014.pdf",
+      "sha256_conteudo": "b02de001f445e017b1c3076a4cc230c1c1e87b24a30c8f960cff202efbfbaced",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-30-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-30-2014.md"
+    },
+    {
+      "id": "CFM-PAR-18-2014",
+      "id_norma_cfm": "27109",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "18",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Não há como exigir que o médico coloque o CID em atestado sem que sejam cumpridas as exigências legais e éticas.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/18",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/18_2014.pdf",
+      "sha256_conteudo": "de79d49c61aed7510f07f1e1e5fe036c61c2abe1bddd6f032ad1257fe97bfe18",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-18-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-18-2014.md"
+    },
+    {
+      "id": "CFM-PAR-6-2014",
+      "id_norma_cfm": "27097",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "6",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O curso Pals - Ressuscitação Pediátrica e de Adultos deve ser ministrado apenas para médicos.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "pericia-medica",
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/6",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/6_2014.pdf",
+      "sha256_conteudo": "fb4b5b5557d43ecac140f1e31bc25262956fc0dcc22eb8a261589c06d98b3575",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-6-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-6-2014.md"
+    },
+    {
+      "id": "CFM-PAR-4-2014",
+      "id_norma_cfm": "27092",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "4",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A Portaria Ministerial nº 364/13 apresenta ajustamento a demandas não contempladas na nº 846/02, estando, portanto, ajustada ao Parecer CFM nº 13/13. Fica a ressalva quanto aos exames complementares cuja periodicidade e guarda deve ficar com o médico e não ser um dos balizadores para o aviamento de receitas.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/4",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/4_2014.pdf",
+      "sha256_conteudo": "6f0654768cf3e1f2f8ba235d405477c11b47c7ff8bc4699614797aa613c8480c",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-4-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-4-2014.md"
+    },
+    {
+      "id": "CFM-PAR-2-2014",
+      "id_norma_cfm": "27094",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "2",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Não há obrigatoriedade de inscrição, na Comissão Nacional de Acreditação da Associação Médica Brasileira, dos cursos de Educação Médica Continuada financiada com recursos do CFM, em razão da revogação da Resolução nº 1.772/05.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/2",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/2_2014.pdf",
+      "sha256_conteudo": "1f9846022d5106775dc8e9787a16e5170a67cbd43adf5eb619d823850435db56",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-2-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-2-2014.md"
+    },
+    {
+      "id": "CFM-PAR-1-2014",
+      "id_norma_cfm": "27093",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "1",
+      "ano": "2014",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A utilização de carimbo de médico em prescrição é opcional, pois não há obrigatoriedade legal ou ética. O que se exige é a assinatura com identificação clara do profissional e o seu respectivo CRM. Não há proibição expressa para eventuais autoprescrições de médicos, exceto no caso de entorpecentes e psicotrópicos.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2014/1",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2014/1_2014.pdf",
+      "sha256_conteudo": "3075c8312c69207d7133f7a9ec95988356ad0107f454ec6a5455042494ba6b9f",
+      "caminho_relativo": "normas/pareceres/2014/CFM-PAR-1-2014.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2014/CFM-PAR-1-2014.md"
+    },
+    {
+      "id": "CFM-RES-2056-2013",
+      "id_norma_cfm": "47426",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2056",
+      "ano": "2013",
+      "data_publicacao": "04-FEB-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Disciplina os departamentos de Fiscalização nos Conselhos Regionais de Medicina, estabelece critérios para a autorização de funcionamento dos serviços médicos de quaisquer naturezas, bem como estabelece critérios mínimos para seu funcionamento, vedando o funcionamento daqueles que não estejam de acordo com os mesmos. Trata também dos roteiros de anamnese a serem adotados em todo o Brasil, inclusive nos estabelecimentos de ensino médico, bem como os roteiros para perícias médicas e a organização do prontuário de pacientes assistidos em ambientes de trabalho dos médicos. Revoga a Resolução CFM n. 1613/2001.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "consentimento-tcle",
+        "cuidados-paliativos",
+        "normas-uti-uci",
+        "pericia-medica",
+        "prontuario-eletronico",
+        "publicidade-medica",
+        "responsabilidade-tecnica",
+        "rqe-especialidades",
+        "sigilo-profissional",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2013/2056",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2013/2056_2013.pdf",
+      "sha256_conteudo": "b07aebbca593794a6d86602071e3e1df53a71672aa426b1565747f66c5a39195",
+      "caminho_relativo": "normas/resolucoes/2013/CFM-RES-2056-2013.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2013/CFM-RES-2056-2013.md"
+    },
+    {
+      "id": "CFM-RES-2023-2013",
+      "id_norma_cfm": "47391",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2023",
+      "ano": "2013",
+      "data_publicacao": "03-FEB-25",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2145-2016"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Aprova as normas processuais que regulamentam as sindicâncias, processos ético-profissionais e o rito dos julgamentos nos Conselhos Federal e Regionais de Medicina.Revoga Resolução CFM nº 1897/2009.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2013/2023",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2013/2023_2013.pdf",
+      "sha256_conteudo": "886d6d6312a5e236fb742c70479fdcdff0f0bc1a7430ff9d9fb4031a193bfcda",
+      "caminho_relativo": "normas/resolucoes/2013/CFM-RES-2023-2013.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2013/CFM-RES-2023-2013.md"
+    },
+    {
+      "id": "CFM-RES-1997-2012",
+      "id_norma_cfm": "47364",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "1997",
+      "ano": "2012",
+      "data_publicacao": "03-FEB-25",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2322-2022"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Altera a redação do artigo 77 do Código de Ética Médica, aprovado pela Resolução CFM nº 1.931, de 17 de setembro de 2009.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2012/1997",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2012/1997_2012.pdf",
+      "sha256_conteudo": "ebdac66d80da2896c84d5454d0fdff5ff0b872d23fe7337deb5b5960ad4b592c",
+      "caminho_relativo": "normas/resolucoes/2012/CFM-RES-1997-2012.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2012/CFM-RES-1997-2012.md"
+    },
+    {
+      "id": "CFM-RES-1989-2012",
+      "id_norma_cfm": "47350",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "1989",
+      "ano": "2012",
+      "data_publicacao": "31-JAN-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre o diagnóstico de anencefalia para a antecipação terapêutica do parto e dá outras providências.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "consentimento-tcle",
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2012/1989",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2012/1989_2012.pdf",
+      "sha256_conteudo": "105a7109c2db12a524321849c002f04e6900b370697c24069490e5e76a0791d0",
+      "caminho_relativo": "normas/resolucoes/2012/CFM-RES-1989-2012.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2012/CFM-RES-1989-2012.md"
+    },
+    {
+      "id": "CFM-RES-1983-2012",
+      "id_norma_cfm": "47342",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "1983",
+      "ano": "2012",
+      "data_publicacao": "31-JAN-25",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Normatiza o CRM Digital para vigorar como cédula de identidade dos médicos inscritos nos Conselhos Regionais de Medicina",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2012/1983",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2012/1983_2012.pdf",
+      "sha256_conteudo": "226eda1eb63abd1d953d5af3d44742d900142cd783eed93eab555effed6e6ccd",
+      "caminho_relativo": "normas/resolucoes/2012/CFM-RES-1983-2012.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2012/CFM-RES-1983-2012.md"
+    },
+    {
+      "id": "CFM-PAR-9-2012",
+      "id_norma_cfm": "27173",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "9",
+      "ano": "2012",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: É ética e legal a realização de videoconferência em perícias médicas administrativas, nos limites circunstanciais desta consulta, garantindo-se ao periciando o exame presencial se assim o requerer.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "sigilo-profissional",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2012/9",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2012/9_2012.pdf",
+      "sha256_conteudo": "6975721609a06d094a35896d27d73635256e10c670784ba3e1b83623b4fc11a2",
+      "caminho_relativo": "normas/pareceres/2012/CFM-PAR-9-2012.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2012/CFM-PAR-9-2012.md"
+    },
+    {
+      "id": "CFM-PAR-8-2012",
+      "id_norma_cfm": "27172",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "8",
+      "ano": "2012",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Contraria a norma vigente a construção de qualquer forma de algoritmo que elabore compreensão diagnóstica sem que ocorra em consulta presencial. As Portarias Ministeriais para o transporte de doentes e as resoluções de teleinformática e telerradiologia não tratam desta modalidade de ação. Deste modo podemos afirmar que a estratégia apontada pelo consulente contraria as normas vigentes no ordenamento jurídico nacional.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "telemedicina",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2012/8",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2012/8_2012.pdf",
+      "sha256_conteudo": "0b8d997ed94b431237893bc043f6558b849c7917ccc9b29ad325e749196cc0a4",
+      "caminho_relativo": "normas/pareceres/2012/CFM-PAR-8-2012.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2012/CFM-PAR-8-2012.md"
+    },
+    {
+      "id": "CFM-PAR-25-2011",
+      "id_norma_cfm": "27232",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "25",
+      "ano": "2011",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: A colocação da CID é prevista no Código de Ética Médica quando por motivo justo, como é o caso do preenchimento de formulários do programa de dispensação de medicamentos excepcionais.",
+      "macro_tema": "Formação & Registro Profissional",
+      "tags": [
+        "lgpd-e-privacidade",
+        "rqe-especialidades",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2011/25",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2011/25_2011.pdf",
+      "sha256_conteudo": "a1d1f4b9d17c9a05bb7d9cf0f533720cbbb1967eebdaccacf0c64bc07a8c4dbb",
+      "caminho_relativo": "normas/pareceres/2011/CFM-PAR-25-2011.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2011/CFM-PAR-25-2011.md"
+    },
+    {
+      "id": "CFM-PAR-22-2011",
+      "id_norma_cfm": "27229",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "22",
+      "ano": "2011",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Resolução CFM nº 1.819/07, art. 1º, parágrafo único. Transmissão eletrônica de informações. Exceção ao sigilo médico. Inconstitucionalidade. Art. 5º, inciso X, Constituição Federal. Infração ao Código de Ética Médica, Princípios Fundamentais, XI, e art. 73.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2011/22",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2011/22_2011.pdf",
+      "sha256_conteudo": "87d3ac8cb8619bcd9a926b8eb5d5bfebba1865b38c2689a8a235e6b46a3ca423",
+      "caminho_relativo": "normas/pareceres/2011/CFM-PAR-22-2011.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2011/CFM-PAR-22-2011.md"
+    },
+    {
+      "id": "CFM-RES-1953-2010",
+      "id_norma_cfm": "47308",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "1953",
+      "ano": "2010",
+      "data_publicacao": "30-JAN-25",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-2293-2021"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Altera o parágrafo único para § 1º e acrescenta o § 2º ao art. 52, altera o caput e os parágrafos 1º e 2º do art. 54, além de alterar os parágrafos 1º e 2º para parágrafos 3º e 4º no mesmo artigo da Resolução CFM nº 1.897, de 6 maio de 2009, que aprova as normas processuais que regulamentam as sindicâncias, processos ético-profissionais e o rito dos julgamentos nos Conselhos Federal e Regionais de Medicina",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2010/1953",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2010/1953_2010.pdf",
+      "sha256_conteudo": "aaafff2a733d8b99fe230befc6f5765cead0867e63619e78de726f43d07535b9",
+      "caminho_relativo": "normas/resolucoes/2010/CFM-RES-1953-2010.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2010/CFM-RES-1953-2010.md"
+    },
+    {
+      "id": "CFM-PAR-34-2010",
+      "id_norma_cfm": "27318",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "34",
+      "ano": "2010",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O ato pericial em medicina é privativo e exclusivo do médico que, quando designado por autoridade judiciária, tem direito a ser remunerado quando, sem impedimentos, aceitar sua feitura.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2010/34",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2010/34_2010.pdf",
+      "sha256_conteudo": "6f0c2d6da194a796c7aaa0e6e7bb9e3648b6b407a8708ba2b726d639681ddf4a",
+      "caminho_relativo": "normas/pareceres/2010/CFM-PAR-34-2010.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2010/CFM-PAR-34-2010.md"
+    },
+    {
+      "id": "CFM-PAR-8-2010",
+      "id_norma_cfm": "27260",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "8",
+      "ano": "2010",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O médico assistente deve colaborar com o Ministério Público fornecendo informações sobre diagnóstico e prognóstico quando estiver atuando com curador de doente sem familiares ou responsável legal. Ressalte-se que essas informações não substituem a perícia médico-legal.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2010/8",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2010/8_2010.pdf",
+      "sha256_conteudo": "928da8c3d87dd84d014d28d3de34d98a69d2b8626966aba8bc8f0847f66c7367",
+      "caminho_relativo": "normas/pareceres/2010/CFM-PAR-8-2010.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2010/CFM-PAR-8-2010.md"
+    },
+    {
+      "id": "CFM-PAR-6-2010",
+      "id_norma_cfm": "27258",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "6",
+      "ano": "2010",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: O prontuário médico de paciente falecido não deve ser liberado diretamente aos parentes do de cujus, sucessores ou não. O direito ao sigilo, garantido por lei ao paciente vivo, tem efeitos projetados para além da morte. A liberação do prontuário só deve ocorrer ante decisão judicial ou requisição do CFM ou de CRM.",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2010/6",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2010/6_2010.pdf",
+      "sha256_conteudo": "efaea37ab2af600816a4b5cabebcb13c4a111cf59cfc91224ec4ba43cb9cece8",
+      "caminho_relativo": "normas/pareceres/2010/CFM-PAR-6-2010.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2010/CFM-PAR-6-2010.md"
+    },
+    {
+      "id": "CFM-PAR-5-2010",
+      "id_norma_cfm": "27255",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "5",
+      "ano": "2010",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "EMENTA: Disponibilizar manuseio, impressão ou consulta do prontuário médico de segurado, para servidores não médicos de instituições públicas ou privadas, sem que o ato atenda os requisitos legais, constitui infração ao Código de Ética Médica e demais disposições normativas relacionadas.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "responsabilidade-tecnica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2010/5",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2010/5_2010.pdf",
+      "sha256_conteudo": "6a29ae4bdcd3d5018540e00bf069a4e3e9a46645d9ca65ad613e874f9011c052",
+      "caminho_relativo": "normas/pareceres/2010/CFM-PAR-5-2010.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2010/CFM-PAR-5-2010.md"
     }
   ]
 }
