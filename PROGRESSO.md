@@ -1,7 +1,7 @@
 # Progresso do Acervo de Normas do CFM (2020–2026)
 
-> **Última atualização:** 24/10/2026 às 14:50 (gerado automaticamente)  
-> **Total de documentos processados:** 331
+> **Última atualização:** 25/10/2026 às 08:48 (gerado automaticamente)  
+> **Total de documentos processados:** 46
 
 ---
 
@@ -9,11 +9,11 @@
 
 | Categoria | Meta Estimada (Oficial) | Coletados no Acervo | % Concluído | Status |
 | :--- | :---: | :---: | :---: | :---: |
-| **Resoluções** | 196 | 196 | 100.0% | 🟢 Em dia |
-| **Pareceres** | 134 | 134 | 100.0% | 🟢 Em dia |
-| **Recomendações** | 1 | 1 | 100.0% | 🟢 Em dia |
+| **Resoluções** | 196 | 20 | 10.2% | 🟢 Em dia |
+| **Pareceres** | 134 | 26 | 19.4% | 🟢 Em dia |
+| **Recomendações** | 1 | 0 | 0.0% | 🟢 Em dia |
 | **Despachos Jurídicos** | 801 | 0 | 0.0% | 🔹 Módulo 1B |
-| **Total Global** | **1.132** | **331** | **29.2%** | 🟢 |
+| **Total Global** | **1.132** | **46** | **4.1%** | 🟢 |
 
 ---
 
@@ -22,12 +22,6 @@
 | Ano | Total Coletado | Vigentes | Revogadas / Suspensas | Destaque IA / LGPD / Telemedicina |
 | :---: | :---: | :---: | :---: | :---: |
 | 2026 | 46 | 46 | 0 | 8 |
-| 2025 | 54 | 54 | 0 | 12 |
-| 2024 | 72 | 69 | 3 | 8 |
-| 2023 | 53 | 51 | 2 | 6 |
-| 2022 | 34 | 30 | 4 | 6 |
-| 2021 | 30 | 27 | 3 | 4 |
-| 2020 | 42 | 36 | 6 | 9 |
 
 ---
 
