@@ -63,19 +63,26 @@ def gerar_dashboard_svg():
     anos_valores = list(por_ano.values())
     max_ano_val = max(anos_valores) if anos_valores else 1
 
-    # Construção dinâmica das barras por ano (painel esquerdo de x=30 até x=445 -> largura útil ~375)
+    # Construção dinâmica das barras por ano (painel esquerdo de x=30 até x=445 -> largura útil ~384)
     bars_ano_svg = []
     num_barras = len(anos_chaves)
-    area_util_w = 370
-    x_offset_base = 48
+    area_util_w = 384
+    x_offset_base = 43
     spacing = area_util_w / max(num_barras, 1)
-    bar_width = max(14, int(spacing * 0.65))
+    bar_width = max(6, int(spacing * 0.68))
     chart_y_bottom = 370
     chart_h = 135
 
     # Se forem muitos anos, ajusta o tamanho da fonte
-    font_ano = "9" if num_barras > 10 else "11"
-    font_val = "9" if num_barras > 10 else "11"
+    if num_barras > 18:
+        font_ano = "7.5"
+        font_val = "7.5"
+    elif num_barras > 10:
+        font_ano = "9"
+        font_val = "9"
+    else:
+        font_ano = "11"
+        font_val = "11"
 
     for i, (ano, val) in enumerate(zip(anos_chaves, anos_valores)):
         b_h = int((val / max_ano_val) * chart_h) if max_ano_val else 0

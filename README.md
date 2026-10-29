@@ -1,12 +1,12 @@
-# CFM Normas (2010–2026)
+# CFM Normas (2000–2026)
 
 > **Acervo aberto, versionado e estruturado das normativas oficiais do Conselho Federal de Medicina (CFM) em Markdown.**  
 > Enriquecido com metadados relacionais, rastreamento de vigência no tempo e taxonomia temática nativa para agentes de Inteligência Artificial, sistemas de apoio à decisão clínica e profissionais de saúde.
 
 <p align="left">
   <a href="https://github.com/md-augustolinhares/cfm-normas/actions"><img src="https://img.shields.io/badge/Atualização_Semanal-GitHub_Actions-0284c7?style=flat-square&logo=githubactions&logoColor=white" alt="Atualização Semanal"></a>
-  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-1114_Normas-10b981?style=flat-square" alt="1114 Normas"></a>
-  <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-110_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
+  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-1786_Normas-10b981?style=flat-square" alt="1786 Normas"></a>
+  <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-140_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licen%C3%A7a-CC--BY--4.0-f59e0b?style=flat-square" alt="Licença CC-BY 4.0"></a>
   <a href="https://md-augustolinhares.github.io/casos/cfm-normas/"><img src="https://img.shields.io/badge/Estudo_de_Caso-Portf%C3%B3lio_Oficial-0ea5e9?style=flat-square" alt="Estudo de Caso"></a>
 </p>
@@ -63,8 +63,8 @@ O avanço é executado em fases retrospectivas por décadas:
 ```mermaid
 flowchart TD
     Fase1["✅ Fase 1: Acervo Contemporâneo (2020–2026)<br/>331 normas • 100% CONCLUÍDO • Automação Semanal Ativa"] --> Fase2["✅ Fase 2: Década Digital & Prontuários (2010–2019)<br/>783 normas • 100% CONCLUÍDO • Código de Ética 2018"]
-    Fase2 --> Fase3["⏳ Fase 3: Anos 2000 & Telemedicina 1.0 (2000–2009)<br/>Meta: 672 normas (Próxima etapa)"]
-    Fase3 --> Fase4["📅 Fase 4: Década de 1990 & Criação do SUS (1990–1999)<br/>Meta: 612 normas"]
+    Fase2 --> Fase3["✅ Fase 3: Anos 2000 & Telemedicina 1.0 (2000–2009)<br/>672 normas • 100% CONCLUÍDO • Prontuário Digital SBIS-CFM"]
+    Fase3 --> Fase4["⏳ Fase 4: Década de 1990 & Criação do SUS (1990–1999)<br/>Meta: 612 normas (Próxima etapa)"]
     Fase4 --> Fase5["🏛️ Fase 5: Origens e Fundação do CFM (1957–1989)<br/>Meta estimada: ~800 normas históricas (com OCR)"]
     Fase5 --> MetaFinal["🎯 100% DO ACERVO HISTÓRICO DO CFM MAPEADO (~3.500 NORMAS)"]
     MetaFinal -.-> Fase6["🌐 Fase 6: Expansão do Ecossistema (ANVISA SaMD & Ministério da Saúde)"]
@@ -76,8 +76,8 @@ flowchart TD
 | :---: | :---: | :--- | :---: | :---: |
 | **Fase 1** | **2020–2026** | **Acervo Contemporâneo:** Marco da IA na Medicina (Res. 2.454/2026), Telemedicina (Res. 2.314/2022), Cirurgia Robótica e Documentos Digitais. Automação semanal contínua ativa. | **331 normas** | **100% Concluído ✅** |
 | **Fase 2** | **2010–2019** | **A Década Digital:** Transição do papel para prontuários eletrônicos, consolidação das especialidades médicas (RQE) e o Código de Ética Médica de 2018 (Res. 2.217/2018). | **783 normas** | **100% Concluído ✅** |
-| **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), reprodução assistida inicial, transplantes e diretrizes de consentimento. | **672 normas** | *Próxima Etapa* ⏳ |
-| **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, Código de Ética de 1988/1996 e primeiros critérios de UTI e hemoterapia. | **612 normas** | *Backlog* 📅 |
+| **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), digitalização e certificação de prontuários eletrônicos SBIS-CFM (Res. 1.821/2007) e marco da ortotanásia (Res. 1.805/2006). | **672 normas** | **100% Concluído ✅** |
+| **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, Código de Ética de 1988/1996 e primeiros critérios de UTI e hemoterapia. | **612 normas** | *Próxima Etapa* ⏳ |
 | **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, regimentos históricos e decisões deontológicas das primeiras décadas (com OCR em PDFs escaneados). | **~800 normas** | *Backlog* 🏛️ |
 | **Meta** | **1957–Hoje** | **100% do Acervo Histórico da Medicina Brasileira mapeado em texto puro aberto.** | **~3.500 normas** | 🎯 **Alvo Final** |
 | **Fase 6** | *Expansão* | **Módulos de Saúde Digital:** Normas de Software Médico (SaMD) da **ANVISA** (RDC 657/2022) e da Rede Nacional de Dados em Saúde (**RNDS / MS**). | Modular | *Futuro* 🌐 |
@@ -86,13 +86,17 @@ flowchart TD
 
 ## 2. Normas-Chave em Destaque (Saúde Digital, IA e Prática Clínica)
 
-O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **110 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (2010–2026), destacam-se:
+O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **140 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (2010–2026), destacam-se:
 
 | Norma | Ano | Ementa Oficial / Tema Central | Status | Vínculo no Acervo |
 | :--- | :---: | :--- | :---: | :---: |
 | **Resolução CFM nº 2.454** | **2026** | **Marco Regulatório da Inteligência Artificial na Medicina.** Disciplina os limites, a supervisão humana obrigatória e a responsabilidade médica no uso de algoritmos clínicos. | `Vigente` | [`CFM-RES-2454-2026.md`](normas/resolucoes/2026/CFM-RES-2454-2026.md) |
 | **Resolução CFM nº 2.217** | **2018** | **Código de Ética Médica (CEM).** Marco deontológico fundamental que consolida direitos, deveres, sigilo, autonomia do paciente e limites da atuação profissional. | `Vigente` | [`CFM-RES-2217-2018.md`](normas/resolucoes/2018/CFM-RES-2217-2018.md) |
 | **Resolução CFM nº 2.314** | **2022** | **Regulamentação da Telemedicina no Brasil.** Define critérios para teleconsulta, teleinterconsulta, telediagnóstico, prontuário eletrônico e consentimento (TCLE). | `Vigente` | [`CFM-RES-2314-2022.md`](normas/resolucoes/2022/CFM-RES-2314-2022.md) |
+| **Resolução CFM nº 1.821** | **2007** | **Prontuário Eletrônico e Digitalização de Documentos.** Marco normativo da certificação de sistemas informatizados de saúde (SBIS/CFM) e guarda digital com ICP-Brasil. | `Vigente` | [`CFM-RES-1821-2007.md`](normas/resolucoes/2007/CFM-RES-1821-2007.md) |
+| **Resolução CFM nº 1.805** | **2006** | **Ortotanásia e Cuidados Paliativos.** Permite a limitação de procedimentos obstinados na fase terminal de enfermidades graves e incuráveis, respeitando a vontade do paciente. | `Vigente` | [`CFM-RES-1805-2006.md`](normas/resolucoes/2006/CFM-RES-1805-2006.md) |
+| **Resolução CFM nº 1.643** | **2002** | **Telemedicina 1.0 (Declaração de Tel Aviv).** Primeira disciplina sobre serviços médicos mediados por tecnologias interativas (revogada pela Res. 2.314/2022). | `Revogada` | [`CFM-RES-1643-2002.md`](normas/resolucoes/2002/CFM-RES-1643-2002.md) |
+| **Resolução CFM nº 1.638** | **2002** | **Definição de Prontuário Médico e Comissão de Revisão.** Estabelece as diretrizes de preenchimento, guarda privativa e obrigatoriedade da Comissão de Revisão de Prontuários. | `Vigente` | [`CFM-RES-1638-2002.md`](normas/resolucoes/2002/CFM-RES-1638-2002.md) |
 | **Resolução CFM nº 2.311** | **2022** | **Regulamentação da Cirurgia Robótica.** Fixa regras para capacitação do cirurgião, habilitação e responsabilidade técnica em procedimentos assistidos por robôs. | `Vigente` | [`CFM-RES-2311-2022.md`](normas/resolucoes/2022/CFM-RES-2311-2022.md) |
 | **Resolução CFM nº 2.417** | **2024** | **Processo Administrativo Eletrônico (PAe) e Fluxo Digital.** Normatiza a tramitação digital de consultas e pareceres nos Conselhos de Medicina. | `Vigente` | [`CFM-RES-2417-2024.md`](normas/resolucoes/2024/CFM-RES-2417-2024.md) |
 | **Resolução CFM nº 2.418** | **2024** | **Emissão de Documentos Médicos Digitais.** Atualiza regras sobre receitas eletrônicas, atestados e certificação digital ICP-Brasil. | `Vigente` | [`CFM-RES-2418-2024.md`](normas/resolucoes/2024/CFM-RES-2418-2024.md) |

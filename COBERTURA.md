@@ -27,8 +27,8 @@ Inspirado na arquitetura do projeto `ctresb/leis`, o repositório avança em fas
 | :---: | :---: | :--- | :---: | :---: |
 | **Fase 1** | **2020–2026** | **Acervo Contemporâneo:** Resoluções, pareceres e recomendações modernas (incluindo o marco de IA Res. 2.454/2026 e Telemedicina Res. 2.314/2022). | **331 normas** | **100% Concluído ✅** |
 | **Fase 2** | **2010–2019** | **A Década Digital:** Transição para prontuários eletrônicos, consolidação das especialidades médicas (RQE) e Código de Ética de 2018 (Res. 2.217/2018). | **783 normas** | **100% Concluído ✅** |
-| **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), reprodução assistida inicial e transplantes. | **672 normas** | *Próxima Etapa* ⏳ |
-| **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, e primeiros critérios de UTI e hemoterapia. | **612 normas** | *Backlog* 📅 |
+| **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), reprodução assistida inicial, transplantes e prontuário digital (Res. 1.821/2007). | **672 normas** | **100% Concluído ✅** |
+| **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, e primeiros critérios de UTI e hemoterapia. | **612 normas** | *Próxima Etapa* ⏳ |
 | **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, regimentos históricos e decisões deontológicas fundacionais (com OCR). | **~800 normas** | *Backlog* 🏛️ |
 | **Meta Global** | **1957–Hoje** | **100% do Acervo Histórico da Medicina Brasileira mapeado em texto puro aberto.** | **~3.500 normas** | 🎯 **Alvo Final** |
 

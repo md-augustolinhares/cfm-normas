@@ -175,7 +175,7 @@ def gerar_progresso_md(documentos: List[Dict[str, Any]] = None):
 | **Pareceres** | {len(pareceres)} | 🟢 Concluído |
 | **Recomendações** | {len(recomendacoes)} | 🟢 Concluído |
 | **Despachos Jurídicos** | {len(despachos)} | 🔹 Módulo Retroativo |
-| **Total Global** | **{len(documentos)}** | 🟢 100% da Fase 1 e 2 ({faixa_anos}) |
+| **Total Global** | **{len(documentos)}** | 🟢 100% das Fases Concluídas ({faixa_anos}) |
 
 ---
 
