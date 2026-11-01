@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/md-augustolinhares/cfm-normas/actions"><img src="https://img.shields.io/badge/Atualização_Semanal-GitHub_Actions-0284c7?style=flat-square&logo=githubactions&logoColor=white" alt="Atualização Semanal"></a>
-  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-1786_Normas-10b981?style=flat-square" alt="1786 Normas"></a>
+  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-1787_Normas-10b981?style=flat-square" alt="1787 Normas"></a>
   <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-140_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licen%C3%A7a-CC--BY--4.0-f59e0b?style=flat-square" alt="Licença CC-BY 4.0"></a>
   <a href="https://md-augustolinhares.github.io/casos/cfm-normas/"><img src="https://img.shields.io/badge/Estudo_de_Caso-Portf%C3%B3lio_Oficial-0ea5e9?style=flat-square" alt="Estudo de Caso"></a>

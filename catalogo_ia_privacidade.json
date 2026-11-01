@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T11:57:56.522271",
+  "atualizado_em": "2026-11-01T10:51:47.184184",
   "total_documentos_ia_dados": 140,
   "documentos": [
     {
@@ -30,9 +30,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2454",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2454_2026.pdf",
-      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563",
-      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2454-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2454-2026.md"
+      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563"
     },
     {
       "id": "CFM-RES-2453-2026",
@@ -58,9 +56,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2453",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2453_2026.pdf",
-      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0",
-      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2453-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2453-2026.md"
+      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0"
     },
     {
       "id": "CFM-PAR-19-2026",
@@ -86,9 +82,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/19",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/19_2026.pdf",
-      "sha256_conteudo": "b747940ad961e17aea89203fa1608a7deed3a87966ca18d4f7087995f5ad794c",
-      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-19-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-19-2026.md"
+      "sha256_conteudo": "b747940ad961e17aea89203fa1608a7deed3a87966ca18d4f7087995f5ad794c"
     },
     {
       "id": "CFM-PAR-15-2026",
@@ -115,9 +109,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/15",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/15_2026.pdf",
-      "sha256_conteudo": "ba2eb0a40e191a2695fba687f44f3292eab711f1ac61d77f700630139f37b987",
-      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-15-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-15-2026.md"
+      "sha256_conteudo": "ba2eb0a40e191a2695fba687f44f3292eab711f1ac61d77f700630139f37b987"
     },
     {
       "id": "CFM-PAR-12-2026",
@@ -143,9 +135,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/12",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/12_2026.pdf",
-      "sha256_conteudo": "3d2784ce8a4c2f956953fd7ffa5cbe5eb20e61897dab4cccd448b3a3d612c84c",
-      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-12-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-12-2026.md"
+      "sha256_conteudo": "3d2784ce8a4c2f956953fd7ffa5cbe5eb20e61897dab4cccd448b3a3d612c84c"
     },
     {
       "id": "CFM-PAR-6-2026",
@@ -171,9 +161,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/6",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/6_2026.pdf",
-      "sha256_conteudo": "e9633bd4391c6e71a4bf05a5f2d3584e9b9601fa10b86b9a8873df46112a649d",
-      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-6-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-6-2026.md"
+      "sha256_conteudo": "e9633bd4391c6e71a4bf05a5f2d3584e9b9601fa10b86b9a8873df46112a649d"
     },
     {
       "id": "CFM-PAR-4-2026",
@@ -200,9 +188,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/4",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/4_2026.pdf",
-      "sha256_conteudo": "e1a28d7e8bc6f296f2a992c1207fd080a9074302bc65aed3bea6edd9075a724c",
-      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-4-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-4-2026.md"
+      "sha256_conteudo": "e1a28d7e8bc6f296f2a992c1207fd080a9074302bc65aed3bea6edd9075a724c"
     },
     {
       "id": "CFM-PAR-1-2026",
@@ -227,9 +213,7 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/1",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/1_2026.pdf",
-      "sha256_conteudo": "7ec539bc1830f5f8d6a8ad7b49bba559e088c750bc79afb0dcbf512a8f40ffb9",
-      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-1-2026.md",
-      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-1-2026.md"
+      "sha256_conteudo": "7ec539bc1830f5f8d6a8ad7b49bba559e088c750bc79afb0dcbf512a8f40ffb9"
     },
     {
       "id": "CFM-RES-2444-2025",
