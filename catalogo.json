@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04T00:01:33.128526",
+  "atualizado_em": "2026-11-04T00:44:40.757691",
   "total_documentos": 3856,
   "indices_tags": {
     "pericia-medica": [
@@ -5565,7 +5565,9 @@
       "ano": "2026",
       "data_publicacao": "17-SEP-26",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1670-2003"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre os requisitos mínimos de segurança para a prática da sedação em regime ambulatorial para procedimentos diagnósticos e terapêuticos e dá outras providências.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -5706,7 +5708,9 @@
       "ano": "2026",
       "data_publicacao": "03-AUG-26",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1081-1982"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a obtenção de consentimento para a realização de necropsia anatomoclínica pelos serviços de patologia de estabelecimentos de saúde.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -5756,7 +5760,9 @@
       "ano": "2026",
       "data_publicacao": "15-JUL-26",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2128-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta o uso de plasma rico em plaquetas como procedimento médico adjuvante no tratamento de condições osteomusculares específicas e dá outras providências.",
       "macro_tema": "Formação & Registro Profissional",
@@ -5993,7 +5999,9 @@
       "ano": "2026",
       "data_publicacao": "04-MAY-26",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1664-2003"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as normas técnicas necessárias para avaliação, tratamento e seguimento de pacientes com distúrbios do desenvolvimento sexual.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -6887,7 +6895,9 @@
       "ano": "2025",
       "data_publicacao": "05-NOV-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1614-2001"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta o ato médico de auditoria e dá outras providências.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -6965,7 +6975,9 @@
       "ano": "2025",
       "data_publicacao": "29-AUG-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2181-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta o uso de ozonioterapia como procedimento médico adjuvante no tratamento de feridas e de dor musculoesquelética, revoga a Resolução CFM n° 2.181/2018 e dá outras providências.",
       "macro_tema": "Formação & Registro Profissional",
@@ -7051,7 +7063,14 @@
       "ano": "2025",
       "data_publicacao": "28-JUL-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2175-2017",
+        "CFM-RES-2274-2020",
+        "CFM-RES-2281-2020",
+        "CFM-RES-2310-2022",
+        "CFM-RES-2334-2023",
+        "CFM-RES-2387-2024"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza os procedimentos para concessão de passagem aérea ou terrestre, diária nacional e internacional, auxílio representação, jeton e ressarcimento de combustível, em obediência à Lei n° 11.000/2004, e revoga as resoluções sobre o mesmo assunto.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -7076,7 +7095,9 @@
       "ano": "2025",
       "data_publicacao": "07-AUG-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1665-2003"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a responsabilidade ética das instituições e profissionais médicos na prevenção, controle e tratamento de pessoas que vivem com HIV/aids.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -7133,7 +7154,9 @@
       "ano": "2025",
       "data_publicacao": "01-AUG-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1367-1993"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta, em âmbito nacional, a abertura, a manutenção e o fechamento de delegacias dos CRMs e a designação de delegados.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -7267,7 +7290,10 @@
       "ano": "2025",
       "data_publicacao": "30-MAY-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1497-1998",
+        "CFM-RES-2325-2022"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre o ato médico pericial, a produção da prova técnica médica, estabelece critérios mínimos de segurança na construção da prova pericial, atualiza o uso de tecnologias de comunicação na avaliação médico pericial e revoga as Resoluções CFM n° 1.497, publicada no D.O.U. de 15 de julho de 1998, e CFM n° 2.325, publicada no D.O.U. de 4 de novembro de 2022.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -7298,7 +7324,10 @@
       "ano": "2025",
       "data_publicacao": "20-MAY-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2131-2015",
+        "CFM-RES-2172-2017"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza as cirurgias reconhecidas pelo Conselho Federal de Medicina para o tratamento cirúrgico da obesidade e doença metabólica.",
       "macro_tema": "Formação & Registro Profissional",
@@ -7327,7 +7356,9 @@
       "ano": "2025",
       "data_publicacao": "14-MAY-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1982-2012"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre os critérios de protocolo e avaliação para o reconhecimento de novos procedimentos e terapias médicas pelo Conselho Federal de Medicina.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -7354,7 +7385,9 @@
       "ano": "2025",
       "data_publicacao": "16-APR-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2265-2019"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revisa os critérios éticos e técnicos para o atendimento a pessoas com incongruência e/ou disforia de gênero e dá outras providências.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -7382,7 +7415,9 @@
       "ano": "2025",
       "data_publicacao": "16-APR-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2290-2021"
+      ],
       "alterada_por_ids": [],
       "ementa": "Altera a redação do art. 2° da Resolução CFM n° 2.014/2013, restabelecendo o prazo de 120 dias para apresentação do diploma de graduação em medicina nos processos de inscrição primária nos Conselhos Regionais de Medicina, e dá outras providências.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -7484,7 +7519,9 @@
       "ano": "2025",
       "data_publicacao": "06-MAR-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2135-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 2.135/2015, passando a disciplinar as Unidades de Terapia Intensiva Coronarianas (UCO) ao contido na Resolução CFM nº 2.271/2020.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -8342,7 +8379,9 @@
       "ano": "2024",
       "data_publicacao": "10-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2070-2014"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza o fluxo da consulta, dos processos-consultas e dos pareceres nos Conselhos Federal e Regionais de Medicina e torna sua tramitação obrigatória pelo Processo Administrativo eletrônico (PAe).",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -9183,7 +9222,9 @@
       "ano": "2024",
       "data_publicacao": "08-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1475-1997"
+      ],
       "alterada_por_ids": [],
       "ementa": "Define e disciplina a atuação do médico, em especial do otorrinolaringologista, na realização do ato médico e exames complementares ao diagnóstico nosológico em otorrinolaringologia (ORL).\r\n[NOTA: Por decisão judicial a Resolução  CFM  n°2.384/2024 foi anulada no âmbito territorial do Conselho Regional de Fonoaudiologia da 2ª Região]",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -9212,7 +9253,9 @@
       "ano": "2024",
       "data_publicacao": "08-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2136-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Disciplina o procedimento de monitorização neurofisiológica intraoperatória, que é ato médico exclusivo.",
       "macro_tema": "Formação & Registro Profissional",
@@ -9272,7 +9315,9 @@
       "ano": "2024",
       "data_publicacao": "02-JUL-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1658-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza a emissão de documentos médicos e dá outras providências.",
       "macro_tema": "Formação & Registro Profissional",
@@ -9299,7 +9344,9 @@
       "ano": "2024",
       "data_publicacao": "09-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2330-2023"
+      ],
       "alterada_por_ids": [],
       "ementa": "Homologa a Portaria CME nº 1/2024, que atualiza a relação  de especialidades e áreas de atuação médicas aprovadas pela Comissão Mista de Especialidades. Revoga a Resolução CFM nº 2330/2023.",
       "macro_tema": "Formação & Registro Profissional",
@@ -10199,7 +10246,9 @@
       "ano": "2023",
       "data_publicacao": "07-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2272-2020"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as atividades exclusivas de médicos, em áreas comuns na região craniomaxilofacial, em estrito acordo à Lei nº 12.842, de 10 de julho de 2013.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -11134,7 +11183,11 @@
       "ano": "2023",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1974-2011",
+        "CFM-RES-2126-2015",
+        "CFM-RES-2133-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre publicidade e propaganda médicas.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11166,7 +11219,9 @@
       "ano": "2023",
       "data_publicacao": "29-MAY-23",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2182-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as normas para a eleição, em todos os estados e no Distrito Federal, de conselheiros federais, efetivos e suplentes, ao Conselho Federal de Medicina – Gestão 2024 -2029.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11272,7 +11327,10 @@
       "ano": "2023",
       "data_publicacao": "03-MAY-23",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1948-2010",
+        "CFM-RES-2011-2013"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta a concessão de visto provisório para o exercício temporário por até 90 (noventa) dias ao médico que, sem caráter habitual e vínculo de emprego local, venha a atuar em outro estado.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -11300,7 +11358,9 @@
       "ano": "2023",
       "data_publicacao": "04-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2221-2018"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2380-2024"
       ],
@@ -11331,7 +11391,9 @@
       "ano": "2023",
       "data_publicacao": "26-JAN-23",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2213-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece as comendas a serem concedidas às personalidades médicas e àqueles que não são médicos.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11540,7 +11602,9 @@
       "ano": "2022",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1499-1998"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a aplicação de terapêuticas reconhecidas no exercício da profissão médica.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11624,7 +11688,9 @@
       "ano": "2022",
       "data_publicacao": "25-OCT-22",
       "status": "Suspensa",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2113-2014"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o uso do canabidiol para o tratamento de epilepsias da criança e do adolescente refratárias às terapias convencionais na Síndrome de Dravet e Lennox-Gastaut e no Complexo de Esclerose Tuberosa. (RESOLUÇÃO SUSPENSA)",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11651,7 +11717,9 @@
       "ano": "2022",
       "data_publicacao": "17-OCT-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2297-2021"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe de normas específicas para médicos que atendem o trabalhador. (Atenção dos dispositivos suspensos por decisão judicial - artigos 10, 12 e o § 2º do artigo 15)",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -11681,7 +11749,9 @@
       "ano": "2022",
       "data_publicacao": "17-OCT-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1997-2012"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga Resolução CFM nº 1.997, de 16 de agosto de 2012, que altera a redação do artigo 77 do Código de Ética Médica, aprovado pela Resolução CFM nº 1.931, de 17 de setembro de 2009.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11733,7 +11803,9 @@
       "ano": "2022",
       "data_publicacao": "20-SEP-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2294-2021"
+      ],
       "alterada_por_ids": [],
       "ementa": "Adota normas éticas para a utilização de técnicas de reprodução assistida – sempre em defesa do aperfeiçoamento das práticas e da observância aos princípios éticos e bioéticos que ajudam a trazer maior segurança e eficácia a tratamentos e procedimentos médicos, tornando-se o dispositivo deontológico a ser seguido pelos médicos brasileiros e revogando a Resolução CFM nº 2.294, publicada no Diário Oficial da União de 15 de junho de 2021, Seção I, p. 60.",
       "macro_tema": "Prática Clínica & Procedimentos",
@@ -11787,7 +11859,10 @@
       "ano": "2022",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1804-2006",
+        "CFM-RES-1956-2010"
+      ],
       "alterada_por_ids": [],
       "ementa": "Disciplina a prescrição de materiais implantáveis, órteses e próteses, determina arbitragem de especialista quando houver conflito e estabelece normas para a utilização de materiais de implante. Revoga as Resoluções CFM nº 1.804/2006 e nº 1.956/2010.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -11843,7 +11918,10 @@
       "ano": "2022",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1766-2005",
+        "CFM-RES-1942-2010"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1.766/2005, publicada no DOU, em 11 de julho de 2005, Seção I, p. 114 e a Resolução CFM nº 1.942/2010, publicada no DOU de 12 de fevereiro de 2010, Seção I, p. 72.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11868,7 +11946,9 @@
       "ano": "2022",
       "data_publicacao": "23-JUN-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2161-2017"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as instruções para a eleição dos membros titulares e suplentes dos Conselhos Regionais de Medicina – Gestão 2023-2028.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -11896,7 +11976,9 @@
       "ano": "2022",
       "data_publicacao": "05-MAY-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1643-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Define e regulamenta a telemedicina, como forma de serviços médicos mediados por tecnologias de comunicação.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -11928,7 +12010,9 @@
       "ano": "2022",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2305-2022"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 2.305/2022 e altera a redação da Resolução CFM nº 2.216/2018, excluindo a exigência de comprovação de proficiência na língua portuguesa como requisito para inscrição do profissional estrangeiro no Conselho Médico",
       "macro_tema": "Formação & Registro Profissional",
@@ -12037,7 +12121,11 @@
       "ano": "2022",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1625-2001",
+        "CFM-RES-2129-2015",
+        "CFM-RES-2180-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece regramento para publicização e compartilhamento de dados de médicos inscritos à luz da LGPD, do interesse público e das atribuições legais conferidas ao Conselho Médico.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -12119,7 +12207,20 @@
       "ano": "2022",
       "data_publicacao": "24-JAN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1100-1983",
+        "CFM-RES-1202-1984",
+        "CFM-RES-1530-1998",
+        "CFM-RES-1587-1999",
+        "CFM-RES-1602-2000",
+        "CFM-RES-1961-2011",
+        "CFM-RES-2001-2012",
+        "CFM-RES-2145-2016",
+        "CFM-RES-2158-2017",
+        "CFM-RES-2275-2020",
+        "CFM-RES-2278-2020",
+        "CFM-RES-608-1974"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs).",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -12227,7 +12328,9 @@
       "ano": "2022",
       "data_publicacao": "03-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2143-2016"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o procedimento de embolização das artérias da próstata e as condições necessárias para a sua realização no tratamento de pacientes com hiperplasia prostática benigna.",
       "macro_tema": "Formação & Registro Profissional",
@@ -12465,7 +12568,10 @@
       "ano": "2021",
       "data_publicacao": "03-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1770-2005",
+        "CFM-RES-1801-2006"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a normatização e unificação dos procedimentos de inscrição provisória ou reintegração de inscrição nos quadros dos Conselhos Regionais de Medicina por decisão judicial.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -12549,7 +12655,9 @@
       "ano": "2021",
       "data_publicacao": "03-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2183-2018"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2323-2022"
       ],
@@ -12637,7 +12745,9 @@
       "ano": "2021",
       "data_publicacao": "03-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2168-2017"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2320-2022"
       ],
@@ -12668,7 +12778,81 @@
       "ano": "2021",
       "data_publicacao": "23-JAN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1074-1981",
+        "CFM-RES-1090-1982",
+        "CFM-RES-1135-1983",
+        "CFM-RES-1150-1984",
+        "CFM-RES-1219-1985",
+        "CFM-RES-1231-1986",
+        "CFM-RES-1235-1987",
+        "CFM-RES-1250-1988",
+        "CFM-RES-1327-1989",
+        "CFM-RES-1343-1991",
+        "CFM-RES-1349-1992",
+        "CFM-RES-1355-1992",
+        "CFM-RES-1362-1992",
+        "CFM-RES-1369-1993",
+        "CFM-RES-1401-1993",
+        "CFM-RES-1402-1994",
+        "CFM-RES-1440-1994",
+        "CFM-RES-1462-1996",
+        "CFM-RES-1473-1997",
+        "CFM-RES-1486-1997",
+        "CFM-RES-1493-1998",
+        "CFM-RES-1501-1998",
+        "CFM-RES-1609-2000",
+        "CFM-RES-1616-2001",
+        "CFM-RES-1642-2002",
+        "CFM-RES-1659-2003",
+        "CFM-RES-1661-2003",
+        "CFM-RES-1666-2003",
+        "CFM-RES-1673-2003",
+        "CFM-RES-1675-2003",
+        "CFM-RES-1722-2004",
+        "CFM-RES-1723-2004",
+        "CFM-RES-1756-2004",
+        "CFM-RES-1763-2005",
+        "CFM-RES-1785-2006",
+        "CFM-RES-1799-2006",
+        "CFM-RES-1810-2006",
+        "CFM-RES-1819-2007",
+        "CFM-RES-1824-2007",
+        "CFM-RES-1827-2007",
+        "CFM-RES-1828-2007",
+        "CFM-RES-1844-2008",
+        "CFM-RES-1845-2008",
+        "CFM-RES-1852-2008",
+        "CFM-RES-1930-2009",
+        "CFM-RES-1940-2010",
+        "CFM-RES-1949-2010",
+        "CFM-RES-1951-2010",
+        "CFM-RES-1953-2010",
+        "CFM-RES-1970-2011",
+        "CFM-RES-1973-2011",
+        "CFM-RES-1976-2011",
+        "CFM-RES-1977-2011",
+        "CFM-RES-1984-2012",
+        "CFM-RES-2005-2012",
+        "CFM-RES-2015-2013",
+        "CFM-RES-2059-2013",
+        "CFM-RES-2065-2013",
+        "CFM-RES-2067-2013",
+        "CFM-RES-2109-2014",
+        "CFM-RES-3-1957",
+        "CFM-RES-440-1971",
+        "CFM-RES-441-1971",
+        "CFM-RES-467-1972",
+        "CFM-RES-476-1972",
+        "CFM-RES-663-1975",
+        "CFM-RES-664-1975",
+        "CFM-RES-672-1975",
+        "CFM-RES-7-1957",
+        "CFM-RES-733-1976",
+        "CFM-RES-767-1977",
+        "CFM-RES-788-1977",
+        "CFM-RES-911-1979"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga resoluções que perderam o objeto",
       "macro_tema": "Formação & Registro Profissional",
@@ -12772,7 +12956,9 @@
       "ano": "2021",
       "data_publicacao": "02-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1541-1998"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1.541/1998 e altera e revoga artigos da Resolução CFM nº 1.998/2012 para adequá-las à Lei nº 3.268/1957 e aos demais instrumentos legais vigentes.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -13266,7 +13452,9 @@
       "ano": "2020",
       "data_publicacao": "02-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2159-2017"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.159/17, publicada no D.O.U. de 1º de fevereiro de 2017, Seção I, p. 113-114.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -13318,7 +13506,9 @@
       "ano": "2020",
       "data_publicacao": "02-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2144-2016"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe que é ético o médico atender à vontade da gestante de realizar parto cesariano, garantidas a autonomia do médico e da paciente e a segurança do binômio materno-fetal, e revoga a Resolução CFM nº 2.144/2016, publicada no DOU de 22 de junho de 2016, Seção I, p. 138",
       "macro_tema": "Ética Médica & Deontologia",
@@ -13347,9 +13537,7 @@
       "data_publicacao": "02-OCT-24",
       "status": "Revogada",
       "revoga_ids": [],
-      "alterada_por_ids": [
-        "CFM-RES-2283-2020"
-      ],
+      "alterada_por_ids": [],
       "ementa": "Altera a redação do item 2 do inciso II, “Pacientes das técnicas de RA”, da Resolução CFM nº 2.168/2017, aprimorando o texto do regulamento de forma a tornar a norma mais abrangente e evitar interpretações contrárias ao ordenamento jurídico.",
       "macro_tema": "Ética Médica & Deontologia",
       "tags": [],
@@ -13639,7 +13827,9 @@
       "ano": "2020",
       "data_publicacao": "01-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1950-2010"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2373-2023"
       ],
@@ -14487,7 +14677,9 @@
       "ano": "2019",
       "data_publicacao": "01-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1955-2010"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2427-2025"
       ],
@@ -15245,7 +15437,9 @@
       "ano": "2019",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-813-1977"
+      ],
       "alterada_por_ids": [],
       "ementa": "Os exames realizados em serviços médicos devem ser acompanhados dos respectivos laudos. A responsabilidade pela execução e pelos laudos destes exames pode ser assumida por diferentes médicos",
       "macro_tema": "Ética Médica & Deontologia",
@@ -15324,7 +15518,9 @@
       "ano": "2019",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1021-1980"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece normas éticas para a recusa terapêutica por pacientes e objeção de consciência na relação médico-paciente. Revoga a Resolução CFM nº 1.021/1980",
       "macro_tema": "Ética Médica & Deontologia",
@@ -15431,7 +15627,9 @@
       "ano": "2019",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2227-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 2.227, publicada no D.O.U. de 6 de fevereiro de 2019, Seção I, p. 58, a qual define e disciplina a telemedicina como forma de prestação de serviços médicos mediados por tecnologias, e restabelece expressamente a vigência da Resolução CFM nº 1.643/2002, publicada no D.O.U. de 26 de agosto de 2002, Seção I, p. 205.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -15458,7 +15656,9 @@
       "ano": "2019",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1649-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1.649/2002, os artigos 4º e 5º e seu parágrafo único da Resolução CFM nº 2.170/2017 e altera o artigo 72 do Código de Ética Médica, que proíbem descontos em honorários médicos através de cartões de descontos e a divulgação de preços das consultas médicas de forma exclusivamente interna.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -16715,7 +16915,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2162-2017"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2330-2023"
       ],
@@ -16746,7 +16948,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1960-2010"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre o Registro de Qualificação de Especialidade Médica em virtude de documentos e condições anteriores a 15 de abril de 1989. Revoga Resolução CFM nº 1960/2010.",
       "macro_tema": "Formação & Registro Profissional",
@@ -16773,7 +16977,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2061-2013"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta o registro de especialidade de médicos do trabalho cadastrados em livros específicos até 4 de setembro de 2006.",
       "macro_tema": "Formação & Registro Profissional",
@@ -16828,7 +17034,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1931-2009"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o Código de Ética Médica.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -16864,7 +17072,12 @@
       "ano": "2018",
       "data_publicacao": "18-JAN-19",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1831-2008",
+        "CFM-RES-1832-2008",
+        "CFM-RES-1842-2008",
+        "CFM-RES-2002-2012"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as atividades, no Brasil, do cidadão estrangeiro e do cidadão brasileiro formados em medicina por faculdade no exterior, bem como as suas participações em cursos de formação, especialização e pós-graduação no território brasileiro. \r\nRevoga as Resoluções CFM nº 1831/2008, 1832/2008 , 1842/2008 e 2002/2012.",
       "macro_tema": "Formação & Registro Profissional",
@@ -16892,7 +17105,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1794-2006"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece as normas mínimas para a utilização de extratos alergênicos para fins diagnósticos e terapêuticos nas doenças alérgicas.",
       "macro_tema": "Formação & Registro Profissional",
@@ -16947,7 +17162,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1972-2011"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2329-2023"
       ],
@@ -17703,7 +17920,9 @@
       "ano": "2018",
       "data_publicacao": "20-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1488-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2297-2021"
       ],
@@ -17734,7 +17953,9 @@
       "ano": "2018",
       "data_publicacao": "20-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2024-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2335-2023"
       ],
@@ -18955,7 +19176,9 @@
       "ano": "2017",
       "data_publicacao": "18-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2142-2016"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga os Instrumentos Normativos de Gestão de Recursos Humanos da Resolução CFM nº 2.142/2016, publicada no D.O.U. de 1 de junho de 2016, Seção I, p. 70, e aprova os atos normativos que definem a estrutura organizacional, o regulamento de pessoal, o plano de cargos, carreira e remuneração, o cargo de livre provimento e a avaliação de desempenho do Conselho Federal de Medicina, de acordo com o estabelecido na Portaria CFM nº 01/2017.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -19005,7 +19228,10 @@
       "ano": "2017",
       "data_publicacao": "17-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2141-2016",
+        "CFM-RES-2146-2016"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2442-2025"
       ],
@@ -19032,7 +19258,9 @@
       "ano": "2017",
       "data_publicacao": "17-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1802-2006"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a prática do ato anestésico e revoga a Resolução CFM nº 1.802/2006.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -19062,7 +19290,9 @@
       "ano": "2017",
       "data_publicacao": "17-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1480-1997"
+      ],
       "alterada_por_ids": [],
       "ementa": "Define os critérios do diagnóstico de morte encefálica",
       "macro_tema": "Formação & Registro Profissional",
@@ -19178,7 +19408,9 @@
       "ano": "2017",
       "data_publicacao": "14-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2074-2014"
+      ],
       "alterada_por_ids": [],
       "ementa": "Disciplina responsabilidades dos médicos e laboratórios em relação aos procedimentos diagnósticos de Patologia e estabelece normas técnicas para a conservação e transporte de material biológico em relação a esses procedimentos. Disciplina, também, as condutas médicas tomadas a partir de laudos citopatológicos positivos, bem como a auditoria médica desses exames",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -19208,7 +19440,9 @@
       "ano": "2017",
       "data_publicacao": "14-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2121-2015"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2294-2021"
       ],
@@ -19239,7 +19473,9 @@
       "ano": "2017",
       "data_publicacao": "14-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1901-2009"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1.901/2009, publicada no D.O.U. de 21 de julho de 2009, Seção I, p. 96.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -19316,7 +19552,9 @@
       "ano": "2017",
       "data_publicacao": "12-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1990-2012"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta o procedimento administrativo para apuração de doença incapacitante, parcial ou total, para o exercício da medicina e revoga a Resolução CFM nº 1.990/2012, publicada no D.O.U. de 11 de junho de 2012, seção I, p. 103.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -19369,7 +19607,9 @@
       "ano": "2017",
       "data_publicacao": "12-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2149-2016"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2221-2018"
       ],
@@ -19400,7 +19640,9 @@
       "ano": "2017",
       "data_publicacao": "12-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1993-2012"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2315-2022"
       ],
@@ -19455,7 +19697,9 @@
       "ano": "2017",
       "data_publicacao": "11-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2138-2016"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2286-2020"
       ],
@@ -21006,7 +21250,9 @@
       "ano": "2016",
       "data_publicacao": "05-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1657-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece normas de organização, funcionamento, eleição e competências das Comissões de Ética Médica dos estabelecimentos de saúde.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -21085,7 +21331,10 @@
       "ano": "2016",
       "data_publicacao": "05-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1634-2002",
+        "CFM-RES-2116-2015"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2162-2017"
       ],
@@ -21144,7 +21393,10 @@
       "ano": "2016",
       "data_publicacao": "05-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1342-1991",
+        "CFM-RES-1352-1992"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece normas sobre a responsabilidade, atribuições e direitos de diretores técnicos, diretores clínicos e chefias de serviço em ambientes médicos.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -21199,7 +21451,12 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1967-2011",
+        "CFM-RES-1987-2012",
+        "CFM-RES-2023-2013",
+        "CFM-RES-2066-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
@@ -21289,7 +21546,9 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1790-2006"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2177-2017"
       ],
@@ -21316,7 +21575,9 @@
       "ano": "2016",
       "data_publicacao": "06-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2118-2015"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2175-2017"
       ],
@@ -21368,7 +21629,9 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2132-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Altera o artigo 23 da Resolução CFM nº 2.110/2014, publicada no D.O.U. de 19 de novembro de 2014, Seção I, p. 199, e revoga a Resolução CFM nº 2.132/2015, publicada no D.O.U. de 13 de janeiro de 2016, Seção I, p. 67.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -21393,7 +21656,9 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2053-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2159-2017"
       ],
@@ -21422,7 +21687,10 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1364-1993",
+        "CFM-RES-1585-1999"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece normas para composição das câmaras de julgamentos do Tribunal Superior de Ética Médica do Conselho Federal de Medicina e revoga a Resolução CFM nº 1.364, publicada no D.O.U. de 22 de março de 1993, Seção I, p. 3439, e Resolução CFM nº 1.585/1999.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -23357,7 +23625,9 @@
       "ano": "2015",
       "data_publicacao": "31-MAY-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2013-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2168-2017"
       ],
@@ -23438,7 +23708,9 @@
       "ano": "2015",
       "data_publicacao": "31-MAY-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2008-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2141-2016"
       ],
@@ -25254,7 +25526,9 @@
       "ano": "2014",
       "data_publicacao": "29-MAY-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1890-2009"
+      ],
       "alterada_por_ids": [],
       "ementa": "Define e normatiza a Telerradiologia e revoga a Resolução CFM nº 1890/09, publicada no D.O.U. de 19 janeiro de 2009, Seção I, p. 94-5p.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -26092,7 +26366,9 @@
       "ano": "2014",
       "data_publicacao": "24-MAY-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1823-2007"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2169-2017"
       ],
@@ -26210,7 +26486,9 @@
       "ano": "2014",
       "data_publicacao": "23-MAY-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1892-2009"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2417-2024"
       ],
@@ -27457,7 +27735,9 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2058-2013"
+      ],
       "alterada_por_ids": [],
       "ementa": "Homologa a eleição para Conselheiros Efetivos e Suplentes do CRMRO gestão 2013-2018",
       "macro_tema": "Ética Médica & Deontologia",
@@ -27538,7 +27818,10 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1598-2000",
+        "CFM-RES-1640-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Consolida as diversas resoluções da área da Psiquiatria e reitera os princípios universais de proteção ao ser humano, à defesa do ato médico privativo de psiquiatras e aos critérios mínimos de segurança para os estabelecimentos hospitalares ou de assistência psiquiátrica de quaisquer naturezas, definindo também o modelo de anamnese e roteiro pericial em psiquiatria. Revoga as Resoluções CFM nº 1598/00 e 1640/02.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -27568,7 +27851,9 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1613-2001"
+      ],
       "alterada_por_ids": [],
       "ementa": "Disciplina os departamentos de Fiscalização nos Conselhos Regionais de Medicina, estabelece critérios para a autorização de funcionamento dos serviços médicos de quaisquer naturezas, bem como estabelece critérios mínimos para seu funcionamento, vedando o funcionamento daqueles que não estejam de acordo com os mesmos. Trata também dos roteiros de anamnese a serem adotados em todo o Brasil, inclusive nos estabelecimentos de ensino médico, bem como os roteiros para perícias médicas e a organização do prontuário de pacientes assistidos em ambientes de trabalho dos médicos. Revoga a Resolução CFM n. 1613/2001.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -27654,7 +27939,10 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1709-2003",
+        "CFM-RES-1847-2008"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2138-2016"
       ],
@@ -27708,7 +27996,9 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2029-2013"
+      ],
       "alterada_por_ids": [],
       "ementa": "Homologa a eleição para Conselheiros Efetivos e Suplentes do CRMBA gestão 2013-2018",
       "macro_tema": "Ética Médica & Deontologia",
@@ -27733,7 +28023,9 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2036-2013"
+      ],
       "alterada_por_ids": [],
       "ementa": "Homologa a eleição para Conselheiros Efetivos e Suplentes do CRMMT gestão 2013-2018 - Revoga a Resolução CFM nº 2.036/2013",
       "macro_tema": "Ética Médica & Deontologia",
@@ -28387,7 +28679,9 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1896-2009"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2182-2018"
       ],
@@ -28417,7 +28711,9 @@
       "ano": "2013",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1897-2009"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2145-2016"
       ],
@@ -28680,7 +28976,9 @@
       "ano": "2013",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1957-2010"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2121-2015"
       ],
@@ -28815,7 +29113,9 @@
       "ano": "2013",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1996-2012"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2118-2015"
       ],
@@ -29842,7 +30142,9 @@
       "ano": "2012",
       "data_publicacao": "03-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1938-2010"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza os procedimentos diagnósticos e terapêuticos da prática ortomolecular ou outros assemelhados, obedecendo aos postulados científicos oriundos de estudos clínico-epidemiológicos.",
       "macro_tema": "Formação & Registro Profissional",
@@ -29869,7 +30171,9 @@
       "ano": "2012",
       "data_publicacao": "03-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1076-1981"
+      ],
       "alterada_por_ids": [],
       "ementa": "Veda ao médico assistente o preenchimento de formulários elaborados por empresas seguradoras, revoga a Resolução CFM nº 1.076/81 (publicada no D.O.U. de 29 de janeiro de 1982, Seção I, p. 1770) e demais disposições em contrário.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -30002,7 +30306,9 @@
       "ano": "2012",
       "data_publicacao": "03-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1753-2004"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o Regimento Interno do Conselho Federal de Medicina.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -30056,7 +30362,9 @@
       "ano": "2012",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1964-2011"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2008-2013"
       ],
@@ -30136,7 +30444,9 @@
       "ano": "2012",
       "data_publicacao": "31-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1837-2008"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2161-2017"
       ],
@@ -30216,7 +30526,9 @@
       "ano": "2012",
       "data_publicacao": "31-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1646-2002"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2164-2017"
       ],
@@ -30298,7 +30610,11 @@
       "ano": "2012",
       "data_publicacao": "31-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1789-2006",
+        "CFM-RES-1841-2008",
+        "CFM-RES-1947-2010"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2145-2016"
       ],
@@ -30375,7 +30691,9 @@
       "ano": "2012",
       "data_publicacao": "31-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1772-2005"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -31586,7 +31904,9 @@
       "ano": "2011",
       "data_publicacao": "31-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1971-2011"
+      ],
       "alterada_por_ids": [],
       "ementa": "Fixa regras para cadastro, registro, responsabilidade técnica e cancelamento para as pessoas jurídicas, revoga a Resolução CFM nº 1.971, publicada no D.O.U. de 11 de julho de 2011 e dá outras providências",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -31613,7 +31933,11 @@
       "ano": "2011",
       "data_publicacao": "31-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1240-1987",
+        "CFM-RES-1492-1998",
+        "CFM-RES-1975-2011"
+      ],
       "alterada_por_ids": [],
       "ementa": "Fixa os valores das anuidades e taxas para o exercício de 2012, revoga as Resoluções CFM n°s 1.240/1987, 1.492/1998 e 1.975/2011 e dá outras providências",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -31665,7 +31989,9 @@
       "ano": "2011",
       "data_publicacao": "31-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1607-2000"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -31748,7 +32074,9 @@
       "ano": "2011",
       "data_publicacao": "31-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1701-2003"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2336-2023"
       ],
@@ -31842,7 +32170,9 @@
       "ano": "2011",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1716-2004"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1980-2011"
       ],
@@ -32104,7 +32434,9 @@
       "ano": "2011",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1662-2003"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
@@ -33387,7 +33719,9 @@
       "ano": "2010",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1358-1992"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2013-2013"
       ],
@@ -33446,7 +33780,9 @@
       "ano": "2010",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1652-2002"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2265-2019"
       ],
@@ -33527,7 +33863,10 @@
       "ano": "2010",
       "data_publicacao": "30-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1407-1994",
+        "CFM-RES-1408-1994"
+      ],
       "alterada_por_ids": [],
       "ementa": "Adota as diretrizes para um modelo de assistência integral em saúde mental no Brasil e   modifica a Resolução CFM nº 1.598, de 9 de agosto de 2000.\r\n(Revoga as Resolução CFM nº 1407/1998 e 1408/1998)",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -33583,7 +33922,9 @@
       "ano": "2010",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1536-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2272-2020"
       ],
@@ -33610,7 +33951,9 @@
       "ano": "2010",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1752-2004"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -33822,7 +34165,9 @@
       "ano": "2010",
       "data_publicacao": "29-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1932-2009"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza os procedimentos para pagamento de diária, auxílio de representação e verba indenizatória e revoga a Resolução CFM nº. 1.932/09",
       "macro_tema": "Ética Médica & Deontologia",
@@ -33901,7 +34246,9 @@
       "ano": "2010",
       "data_publicacao": "29-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1500-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2004-2012"
       ],
@@ -35205,7 +35552,9 @@
       "ano": "2009",
       "data_publicacao": "29-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1838-2008"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1941-2010"
       ],
@@ -35232,7 +35581,9 @@
       "ano": "2009",
       "data_publicacao": "29-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1246-1988"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2217-2018"
       ],
@@ -36100,7 +36451,9 @@
       "ano": "2009",
       "data_publicacao": "28-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1617-2001"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2023-2013"
       ],
@@ -36129,7 +36482,9 @@
       "ano": "2009",
       "data_publicacao": "28-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1721-2004"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2024-2013"
       ],
@@ -36231,7 +36586,9 @@
       "ano": "2009",
       "data_publicacao": "28-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1769-2005"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2070-2014"
       ],
@@ -36854,7 +37211,9 @@
       "ano": "2008",
       "data_publicacao": "27-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1409-1994"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as \"Normas Mínimas para o Funcionamento de consultórios médicos e dos complexos cirúrgicos para procedimentos com internação de curta permanência”.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -36954,7 +37313,9 @@
       "ano": "2008",
       "data_publicacao": "27-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1860-2008"
+      ],
       "alterada_por_ids": [],
       "ementa": "Homologação da eleição para Conselheiros Efetivos e Suplentes do CRMES, gestão 2008-2013",
       "macro_tema": "Ética Médica & Deontologia",
@@ -37835,7 +38196,9 @@
       "ano": "2008",
       "data_publicacao": "27-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1758-2005"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2053-2013"
       ],
@@ -38074,7 +38437,9 @@
       "ano": "2008",
       "data_publicacao": "28-APR-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1814-2007"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1932-2009"
       ],
@@ -38237,7 +38602,10 @@
       "ano": "2008",
       "data_publicacao": "24-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1669-2003",
+        "CFM-RES-1793-2006"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2216-2018"
       ],
@@ -38267,7 +38635,10 @@
       "ano": "2008",
       "data_publicacao": "24-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1712-2003",
+        "CFM-RES-1792-2006"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2216-2018"
       ],
@@ -38967,7 +39338,9 @@
       "ano": "2007",
       "data_publicacao": "24-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1537-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -39071,7 +39444,9 @@
       "ano": "2007",
       "data_publicacao": "24-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1498-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -39154,7 +39529,9 @@
       "ano": "2007",
       "data_publicacao": "24-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1639-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova as normas técnicas concernentes à digitalização e uso dos sistemas informatizados para a guarda e manuseio dos documentos dos prontuários dos pacientes, autorizando a eliminação do papel e a troca de informação identificada em saúde",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -39335,7 +39712,9 @@
       "ano": "2007",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1796-2006"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1838-2008"
       ],
@@ -39854,7 +40233,9 @@
       "ano": "2006",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1363-1993"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2174-2017"
       ],
@@ -39989,7 +40370,9 @@
       "ano": "2006",
       "data_publicacao": "23-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1608-2000"
+      ],
       "alterada_por_ids": [],
       "ementa": "Altera o artigo 5º da Resolução CFM nº 1.403/94, que dispõe sobre a composição do Conselho Editorial da revista Bioética. Revoga a Resolução CFM n. 1608/2000",
       "macro_tema": "Ética Médica & Deontologia",
@@ -40014,7 +40397,9 @@
       "ano": "2006",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1775-2005"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1814-2007"
       ],
@@ -40174,7 +40559,10 @@
       "ano": "2006",
       "data_publicacao": "24-AUG-26",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1761-2005",
+        "CFM-RES-1777-2005"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2142-2016"
       ],
@@ -41009,7 +41397,9 @@
       "ano": "2005",
       "data_publicacao": "23-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1601-2000"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta a responsabilidade médica no fornecimento da Declaração de Óbito.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -41059,7 +41449,9 @@
       "ano": "2005",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1612-2000"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1790-2006"
       ],
@@ -41111,7 +41503,9 @@
       "ano": "2005",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1724-2004"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1796-2006"
       ],
@@ -41243,7 +41637,9 @@
       "ano": "2005",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-685-1975"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2300-2021"
       ],
@@ -41270,7 +41666,9 @@
       "ano": "2005",
       "data_publicacao": "23-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1450-1995"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1892-2009"
       ],
@@ -41558,7 +41956,9 @@
       "ano": "2005",
       "data_publicacao": "22-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1645-2002"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1847-2008"
       ],
@@ -42618,7 +43018,7 @@
       "status": "Revogada",
       "revoga_ids": [],
       "alterada_por_ids": [
-        "CFM-RES-1722-2005"
+        "CFM-RES-1722-2004"
       ],
       "ementa": "Institui a Revalidação dos Títulos de Especialistas e da áreas de atuação e cria a Comissão Nacional de Acreditação para elaborar normas e regulamentos para este fim, além de coordenar a emissão dos Certificados de Revalidação",
       "macro_tema": "Ética Médica & Deontologia",
@@ -42668,7 +43068,9 @@
       "ano": "2004",
       "data_publicacao": "26-MAR-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1533-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1998-2012"
       ],
@@ -43397,7 +43799,9 @@
       "ano": "2004",
       "data_publicacao": "22-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1654-2002"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1775-2005"
       ],
@@ -43451,7 +43855,9 @@
       "ano": "2004",
       "data_publicacao": "22-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1755-2004"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -43609,7 +44015,10 @@
       "ano": "2004",
       "data_publicacao": "22-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1589-1999",
+        "CFM-RES-1626-2001"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1971-2011"
       ],
@@ -44485,7 +44894,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1620-2001"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1831-2008"
       ],
@@ -44562,7 +44973,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1600-2000"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2053-2013"
       ],
@@ -44764,7 +45177,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1036-1980"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1974-2011"
       ],
@@ -45529,7 +45944,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1529-1998"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a regulamentação do atendimento pré-hospitalar e dá outras providências.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -45586,9 +46003,12 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1615-2001",
+        "CFM-RES-1630-2001"
+      ],
       "alterada_por_ids": [
-        "CFM-RES-1832-2009"
+        "CFM-RES-1832-2008"
       ],
       "ementa": "Dispõe sobre o exercício profissional e os programas de pós-graduação no Brasil do médico estrangeiro e do médico brasileiro formado por faculdade estrangeira",
       "macro_tema": "Formação & Registro Profissional",
@@ -45699,7 +46119,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1359-1992"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2437-2025"
       ],
@@ -45810,7 +46232,17 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1212-1985",
+        "CFM-RES-1216-1985",
+        "CFM-RES-1233-1986",
+        "CFM-RES-1241-1987",
+        "CFM-RES-1244-1987",
+        "CFM-RES-1596-2000",
+        "CFM-RES-277-1966",
+        "CFM-RES-288-1966",
+        "CFM-RES-885-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -45837,7 +46269,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1491-1998"
+      ],
       "alterada_por_ids": [],
       "ementa": "Instruções para eleições dos CRMs para o ano de 2003",
       "macro_tema": "Ética Médica & Deontologia",
@@ -47314,7 +47748,11 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1484-1997",
+        "CFM-RES-1548-1999",
+        "CFM-RES-982-1979"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2381-2024"
       ],
@@ -47343,7 +47781,9 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1215-1985"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2152-2016"
       ],
@@ -47422,7 +47862,9 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1647-2002"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1724-2004"
       ],
@@ -47474,7 +47916,9 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1482-1997"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1955-2010"
       ],
@@ -47501,7 +47945,9 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1618-2001"
+      ],
       "alterada_por_ids": [],
       "ementa": "Adota o Manual de Procedimentos Administrativos para os Conselhos de Medicina e dá outras providências. Revoga a Resolução CFM nº 1618/2001.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -47603,7 +48049,10 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1603-2000",
+        "CFM-RES-1631-2001"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1654-2002"
       ],
@@ -47630,7 +48079,9 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1291-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1990-2012"
       ],
@@ -47713,7 +48164,7 @@
       "status": "Revogada",
       "revoga_ids": [],
       "alterada_por_ids": [
-        "CFM-RES-2314-2024"
+        "CFM-RES-2314-2022"
       ],
       "ementa": "Define e disciplina a prestação de serviços através da Telemedicina.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -47741,7 +48192,14 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1084-1982",
+        "CFM-RES-1340-1990",
+        "CFM-RES-264-1965",
+        "CFM-RES-310-1967",
+        "CFM-RES-808-1977",
+        "CFM-RES-872-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -47825,7 +48283,9 @@
       "ano": "2002",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1331-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1821-2007"
       ],
@@ -47959,7 +48419,12 @@
       "ano": "2002",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1286-1989",
+        "CFM-RES-1288-1989",
+        "CFM-RES-1441-1994",
+        "CFM-RES-1455-1995"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2149-2016"
       ],
@@ -49565,7 +50030,7 @@
       "status": "Revogada",
       "revoga_ids": [],
       "alterada_por_ids": [
-        "CFM-RES-1669-2011"
+        "CFM-RES-1669-2003"
       ],
       "ementa": "Modifica o artigo 7º da Resolução CFM nº 1.615/2001, que dispõe sobre a inscrição de médico estrangeiro",
       "macro_tema": "Formação & Registro Profissional",
@@ -49671,7 +50136,11 @@
       "ano": "2001",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1214-1985",
+        "CFM-RES-1588-1999",
+        "CFM-RES-1604-2000"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1716-2004"
       ],
@@ -49700,7 +50169,9 @@
       "ano": "2001",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1495-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2309-2022"
       ],
@@ -49777,7 +50248,9 @@
       "ano": "2001",
       "data_publicacao": "16-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1459-1995"
+      ],
       "alterada_por_ids": [],
       "ementa": "Considera a fotoablacao corneana por \\\"excimer laser\\\" para os casos de especifica como procedimento oftalmologico usual. Mantem como experimentais os procedimentos indicados.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -49881,7 +50354,20 @@
       "ano": "2001",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1053-1981",
+        "CFM-RES-1209-1985",
+        "CFM-RES-1287-1989",
+        "CFM-RES-1294-1989",
+        "CFM-RES-1297-1989",
+        "CFM-RES-1298-1989",
+        "CFM-RES-1299-1989",
+        "CFM-RES-1586-1999",
+        "CFM-RES-289-1966",
+        "CFM-RES-316-1967",
+        "CFM-RES-806-1977",
+        "CFM-RES-968-1979"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1651-2002"
       ],
@@ -49908,7 +50394,9 @@
       "ano": "2001",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1464-1996"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1897-2009"
       ],
@@ -49995,7 +50483,9 @@
       "ano": "2001",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1466-1996"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2448-2025"
       ],
@@ -50025,7 +50515,11 @@
       "ano": "2001",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1089-1982",
+        "CFM-RES-565-1973",
+        "CFM-RES-687-1975"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2056-2013"
       ],
@@ -51277,7 +51771,9 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1469-1996"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1777-2005"
       ],
@@ -51460,7 +51956,9 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-999-1980"
+      ],
       "alterada_por_ids": [],
       "ementa": "O médico não pode, sem o consentimento do paciente, revelar o conteúdo do prontuário ou ficha médica. Revoga-se a Resolução CFM nº 999/80.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -51514,7 +52012,9 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1594-1999"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1647-2002"
       ],
@@ -51570,7 +52070,9 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1290-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1779-2005"
       ],
@@ -51597,7 +52099,9 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1591-1999"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1709-2003"
       ],
@@ -52594,7 +53098,9 @@
       "ano": "1999",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1496-1998"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1603-2000"
       ],
@@ -52671,7 +53177,9 @@
       "ano": "1999",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1336-1990"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1600-2000"
       ],
@@ -53891,7 +54399,9 @@
       "ano": "1999",
       "data_publicacao": "14-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1405-1994"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprovar as instruções para as eleições dos membros titulares e suplentes do CFM para o ano de 1999",
       "macro_tema": "Ética Médica & Deontologia",
@@ -55751,7 +56261,9 @@
       "ano": "1998",
       "data_publicacao": "14-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-852-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1950-2010"
       ],
@@ -55828,7 +56340,9 @@
       "ano": "1998",
       "data_publicacao": "14-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1222-1985"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1753-2004"
       ],
@@ -56775,7 +57289,9 @@
       "ano": "1998",
       "data_publicacao": "13-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1479-1997"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1594-1999"
       ],
@@ -56886,7 +57402,9 @@
       "ano": "1998",
       "data_publicacao": "19-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1207-1985"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1979-2011"
       ],
@@ -56913,7 +57431,9 @@
       "ano": "1998",
       "data_publicacao": "19-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1368-1993"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1660-2003"
       ],
@@ -57021,7 +57541,9 @@
       "ano": "1998",
       "data_publicacao": "19-DEC-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1474-1997"
+      ],
       "alterada_por_ids": [],
       "ementa": "Carteira de identidade expedida pelos CRMs deverá conter a expressão “doador de órgãos e tecidos” ou “não doador de órgãos e tecidos”",
       "macro_tema": "Ética Médica & Deontologia",
@@ -57945,7 +58467,9 @@
       "ano": "1997",
       "data_publicacao": "18-DEC-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1445-1994"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regimento Interno de Corpo Clinico das Entidades Prestadoras de Assistência Médica",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -57972,7 +58496,9 @@
       "ano": "1997",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1346-1991"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2173-2017"
       ],
@@ -57999,7 +58525,9 @@
       "ano": "1997",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1463-1996"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1496-1998"
       ],
@@ -58051,7 +58579,9 @@
       "ano": "1997",
       "data_publicacao": "18-DEC-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1404-1994"
+      ],
       "alterada_por_ids": [],
       "ementa": "Consumo excessivo de drogas tipo anfetaminas",
       "macro_tema": "Ética Médica & Deontologia",
@@ -59276,7 +59806,9 @@
       "ano": "1996",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1366-1993"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1612-2000"
       ],
@@ -59407,7 +59939,11 @@
       "ano": "1996",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1283-1989",
+        "CFM-RES-1289-1989",
+        "CFM-RES-437-1971"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1617-2001"
       ],
@@ -59434,7 +59970,10 @@
       "ano": "1996",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1452-1995",
+        "CFM-RES-1453-1995"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1479-1997"
       ],
@@ -59461,7 +60000,9 @@
       "ano": "1996",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-455-1971"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -60439,7 +60980,9 @@
       "ano": "1995",
       "data_publicacao": "18-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1353-1992"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1622-2001"
       ],
@@ -60622,7 +61165,9 @@
       "ano": "1995",
       "data_publicacao": "17-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1437-1994"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1463-1996"
       ],
@@ -60677,7 +61222,9 @@
       "ano": "1995",
       "data_publicacao": "17-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1335-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1769-2005"
       ],
@@ -62028,7 +62575,9 @@
       "ano": "1994",
       "data_publicacao": "17-DEC-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1285-1989"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova instruções para eleição de 1994 do CFM",
       "macro_tema": "Ética Médica & Deontologia",
@@ -62053,7 +62602,9 @@
       "ano": "1994",
       "data_publicacao": "17-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1295-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1634-2002"
       ],
@@ -62161,7 +62712,9 @@
       "ano": "1994",
       "data_publicacao": "17-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1365-1993"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1452-1995"
       ],
@@ -62974,7 +63527,9 @@
       "ano": "1994",
       "data_publicacao": "16-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1284-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1543-1999"
       ],
@@ -64677,7 +65232,9 @@
       "ano": "1993",
       "data_publicacao": "13-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1354-1992"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1437-1994"
       ],
@@ -64704,7 +65261,11 @@
       "ano": "1993",
       "data_publicacao": "13-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1210-1985",
+        "CFM-RES-1211-1985",
+        "CFM-RES-1333-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2137-2016"
       ],
@@ -64731,7 +65292,9 @@
       "ano": "1993",
       "data_publicacao": "13-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-851-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1802-2006"
       ],
@@ -65505,9 +66068,11 @@
       "ano": "1992",
       "data_publicacao": "13-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1345-1991"
+      ],
       "alterada_por_ids": [
-        "CFM-RES-1365-2003"
+        "CFM-RES-1365-1993"
       ],
       "ementa": "Estabelece novo valor para diárias a serem pagas aos membros, assessores e servidores do CFM",
       "macro_tema": "Ética Médica & Deontologia",
@@ -65613,7 +66178,9 @@
       "ano": "1992",
       "data_publicacao": "13-DEC-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1280-1989"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1.280/1989",
       "macro_tema": "Ética Médica & Deontologia",
@@ -66525,7 +67092,9 @@
       "ano": "1991",
       "data_publicacao": "11-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1344-1991"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1354-1992"
       ],
@@ -66552,7 +67121,9 @@
       "ano": "1991",
       "data_publicacao": "11-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1338-1990"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1345-1991"
       ],
@@ -67313,7 +67884,9 @@
       "ano": "1990",
       "data_publicacao": "11-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1329-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1344-1991"
       ],
@@ -68642,7 +69215,9 @@
       "ano": "1989",
       "data_publicacao": "10-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1292-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1338-1990"
       ],
@@ -69398,7 +69973,9 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-158-1963"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1618-2001"
       ],
@@ -69425,7 +70002,9 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1-1957"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1618-2001"
       ],
@@ -69452,7 +70031,9 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1242-1987"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1618-2001"
       ],
@@ -69479,7 +70060,11 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1054-1981",
+        "CFM-RES-420-1970",
+        "CFM-RES-422-1970"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga as Resoluções 420/70, 422/70 e 1.054/81",
       "macro_tema": "Ética Médica & Deontologia",
@@ -69504,7 +70089,18 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1000-1980",
+        "CFM-RES-1019-1980",
+        "CFM-RES-1078-1982",
+        "CFM-RES-1092-1983",
+        "CFM-RES-1095-1983",
+        "CFM-RES-1126-1983",
+        "CFM-RES-1127-1983",
+        "CFM-RES-1128-1983",
+        "CFM-RES-1232-1986",
+        "CFM-RES-879-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1441-1994"
       ],
@@ -69531,7 +70127,12 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1151-1984",
+        "CFM-RES-140-1962",
+        "CFM-RES-807-1977",
+        "CFM-RES-969-1979"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1618-2001"
       ],
@@ -69583,7 +70184,10 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1239-1987",
+        "CFM-RES-1281-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1329-1989"
       ],
@@ -69610,7 +70214,9 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-727-1976"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1646-2002"
       ],
@@ -69639,7 +70245,9 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-743-1976"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1601-2000"
       ],
@@ -69724,7 +70332,10 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-765-1976",
+        "CFM-RES-847-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1618-2001"
       ],
@@ -69751,7 +70362,14 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1086-1982",
+        "CFM-RES-1142-1984",
+        "CFM-RES-1143-1984",
+        "CFM-RES-1144-1984",
+        "CFM-RES-1204-1984",
+        "CFM-RES-1249-1988"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1634-2002"
       ],
@@ -69807,7 +70425,9 @@
       "ano": "1989",
       "data_publicacao": "09-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1148-1984"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1405-1994"
       ],
@@ -71857,7 +72477,9 @@
       "ano": "1988",
       "data_publicacao": "06-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1083-1982"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -71961,7 +72583,9 @@
       "ano": "1988",
       "data_publicacao": "05-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1154-1984"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1931-2009"
       ],
@@ -72709,7 +73333,9 @@
       "ano": "1987",
       "data_publicacao": "05-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1040-1980"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1661-2003"
       ],
@@ -72763,7 +73389,9 @@
       "ano": "1987",
       "data_publicacao": "05-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1230-1986"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1292-1989"
       ],
@@ -72865,9 +73493,12 @@
       "ano": "1987",
       "data_publicacao": "05-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1059-1981",
+        "CFM-RES-662-1975"
+      ],
       "alterada_por_ids": [
-        "CFM-RES-2293-1987"
+        "CFM-RES-2293-2021"
       ],
       "ementa": "Inscrição de médicos, cirurgiões dentistas e farmacêuticos militares nos Conselhos Regionais de Medicina, Odontologia e Farmácia",
       "macro_tema": "Ética Médica & Deontologia",
@@ -73396,7 +74027,9 @@
       "ano": "1986",
       "data_publicacao": "05-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-459-1972"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1661-2003"
       ],
@@ -74247,7 +74880,9 @@
       "ano": "1985",
       "data_publicacao": "04-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1138-1983"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1138/83",
       "macro_tema": "Ética Médica & Deontologia",
@@ -74324,7 +74959,9 @@
       "ano": "1985",
       "data_publicacao": "04-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1217-1985"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga o Artigo 17 do Código Brasileiro de Deontologia Médica e a Resolução CFM nº 1217/85",
       "macro_tema": "Ética Médica & Deontologia",
@@ -74349,7 +74986,9 @@
       "ano": "1985",
       "data_publicacao": "04-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1190-1984"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -74482,7 +75121,10 @@
       "ano": "1985",
       "data_publicacao": "04-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1057-1981",
+        "CFM-RES-1088-1982"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1626-2001"
       ],
@@ -74509,7 +75151,9 @@
       "ano": "1985",
       "data_publicacao": "04-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1082-1982"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1082/82, e a letra “b” do artigo 7º da Resolução CFM nº 1086/82",
       "macro_tema": "Ética Médica & Deontologia",
@@ -74694,7 +75338,9 @@
       "ano": "1985",
       "data_publicacao": "04-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1156-1984"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1156 de 07 de junho de 1984",
       "macro_tema": "Ética Médica & Deontologia",
@@ -75214,7 +75860,9 @@
       "ano": "1984",
       "data_publicacao": "03-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1160-1984"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
@@ -75316,7 +75964,9 @@
       "ano": "1984",
       "data_publicacao": "03-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1194-1984"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1194/1984",
       "macro_tema": "Ética Médica & Deontologia",
@@ -75341,7 +75991,9 @@
       "ano": "1984",
       "data_publicacao": "03-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1101-1983"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 1101/1983",
       "macro_tema": "Ética Médica & Deontologia",
@@ -75366,7 +76018,9 @@
       "ano": "1984",
       "data_publicacao": "03-DEC-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1182-1984"
+      ],
       "alterada_por_ids": [],
       "ementa": "Fixa valor da anuidade de pessoa física e jurídica para o ano de 1985 e revoga a Resolução CFM nº 1182/84",
       "macro_tema": "Ética Médica & Deontologia",
@@ -78178,7 +78832,52 @@
       "ano": "1982",
       "data_publicacao": "29-NOV-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1001-1980",
+        "CFM-RES-1002-1980",
+        "CFM-RES-1017-1980",
+        "CFM-RES-1042-1981",
+        "CFM-RES-734-1976",
+        "CFM-RES-784-1977",
+        "CFM-RES-785-1977",
+        "CFM-RES-786-1977",
+        "CFM-RES-787-1977",
+        "CFM-RES-789-1977",
+        "CFM-RES-791-1977",
+        "CFM-RES-792-1977",
+        "CFM-RES-795-1977",
+        "CFM-RES-804-1977",
+        "CFM-RES-805-1977",
+        "CFM-RES-811-1977",
+        "CFM-RES-812-1977",
+        "CFM-RES-825-1978",
+        "CFM-RES-826-1978",
+        "CFM-RES-827-1978",
+        "CFM-RES-828-1978",
+        "CFM-RES-833-1978",
+        "CFM-RES-834-1978",
+        "CFM-RES-835-1978",
+        "CFM-RES-836-1978",
+        "CFM-RES-888-1978",
+        "CFM-RES-889-1978",
+        "CFM-RES-900-1979",
+        "CFM-RES-901-1979",
+        "CFM-RES-902-1979",
+        "CFM-RES-903-1979",
+        "CFM-RES-917-1979",
+        "CFM-RES-918-1979",
+        "CFM-RES-931-1979",
+        "CFM-RES-933-1979",
+        "CFM-RES-934-1979",
+        "CFM-RES-935-1979",
+        "CFM-RES-966-1979",
+        "CFM-RES-980-1979",
+        "CFM-RES-981-1979",
+        "CFM-RES-990-1980",
+        "CFM-RES-995-1980",
+        "CFM-RES-996-1980",
+        "CFM-RES-998-1980"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1286-1989"
       ],
@@ -79433,7 +80132,9 @@
       "ano": "1980",
       "data_publicacao": "29-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-417-1970"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1701-2003"
       ],
@@ -94043,7 +94744,9 @@
       "ano": "1971",
       "data_publicacao": "04-NOV-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-261-1965"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1462-1996"
       ],
@@ -98922,7 +99625,9 @@
       "ano": "1965",
       "data_publicacao": "25-NOV-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-15-1958"
+      ],
       "alterada_por_ids": [
         "CFM-RES-455-1971"
       ],

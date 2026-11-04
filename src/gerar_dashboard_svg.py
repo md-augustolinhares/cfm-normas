@@ -186,8 +186,8 @@ def gerar_dashboard_svg():
   <g transform="translate(30, 24)">
     <circle cx="10" cy="10" r="10" fill="#0284c7" />
     <path d="M7 10L9 12L13 8" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
-    <text x="28" y="14" class="title">CFM NORMAS — ACERVO REGULATÓRIO OFICIAL ({faixa_anos})</text>
-    <text x="28" y="32" class="subtitle">Acervo público em Markdown com status de vigência e tags para agentes de IA • Atualizado em: {data_str}</text>
+    <text x="28" y="14" class="title">CFM NORMAS — ACERVO REGULATÓRIO DO CFM ({faixa_anos})</text>
+    <text x="28" y="32" class="subtitle">100% de resoluções, pareceres e recomendações (despachos jurídicos fora dos 100%: 0 no acervo) • Atualizado em: {data_str}</text>
   </g>
 
   <!-- 4 Cartões KPI -->
@@ -196,7 +196,7 @@ def gerar_dashboard_svg():
     <rect x="0" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
     <text x="16" y="22" class="card-label">Total de Normas</text>
     <text x="16" y="52" class="card-val" fill="#38bdf8">{total}</text>
-    <text x="16" y="66" class="card-sub">100% da meta oficial ({faixa_anos})</text>
+    <text x="16" y="66" class="card-sub" style="font-size: 8.2px;">100% de resoluções, pareceres e recomendações</text>
 
     <!-- KPI 2: Vigentes -->
     <rect x="213" y="0" width="200" height="74" rx="8" fill="url(#cardGrad)" stroke="#334155" stroke-width="1" />
@@ -234,7 +234,7 @@ def gerar_dashboard_svg():
 
   <!-- Rodapé -->
   <g transform="translate(30, 422)">
-    <text x="0" y="0" font-size="10" fill="#64748b">⚡ Automação semanal contínua via GitHub Actions • Licença Pública CC-BY 4.0 • md-augustolinhares/cfm-normas</text>
+    <text x="0" y="0" font-size="9.5" fill="#64748b">⚡ Automação semanal via GitHub Actions • Despachos jurídicos (0 no acervo) ficam fora dos 100% • Licença CC-BY 4.0 • md-augustolinhares/cfm-normas</text>
   </g>
 </svg>'''
 

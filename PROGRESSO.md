@@ -1,6 +1,6 @@
 # Progresso do Acervo de Normas do CFM (1957–2026)
 
-> **Última atualização:** 04/11/2026 às 00:01 (gerado automaticamente)  
+> **Última atualização:** 04/11/2026 às 00:44 (gerado automaticamente)  
 > **Total de documentos processados:** 3856
 
 ---
@@ -12,8 +12,8 @@
 | **Resoluções** | 2458 | 🟢 Concluído |
 | **Pareceres** | 1384 | 🟢 Concluído |
 | **Recomendações** | 14 | 🟢 Concluído |
-| **Despachos Jurídicos** | 0 | 🔹 Módulo Retroativo |
-| **Total Global** | **3856** | 🟢 100% das Fases Concluídas (1957–2026) |
+| **Despachos Jurídicos** | 0 | ⚪ Fora dos 100% (0 no acervo) |
+| **Total Global (R + P + E)** | **3856** | 🟢 100% de resoluções, pareceres e recomendações (1957–2026) |
 
 ---
 

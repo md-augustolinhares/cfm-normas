@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04T00:01:33.235438",
+  "atualizado_em": "2026-11-04T00:44:40.910916",
   "total_documentos_ia_dados": 166,
   "documentos": [
     {
@@ -270,7 +270,9 @@
       "ano": "2025",
       "data_publicacao": "07-AUG-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1665-2003"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a responsabilidade ética das instituições e profissionais médicos na prevenção, controle e tratamento de pessoas que vivem com HIV/aids.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -358,7 +360,10 @@
       "ano": "2025",
       "data_publicacao": "30-MAY-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1497-1998",
+        "CFM-RES-2325-2022"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre o ato médico pericial, a produção da prova técnica médica, estabelece critérios mínimos de segurança na construção da prova pericial, atualiza o uso de tecnologias de comunicação na avaliação médico pericial e revoga as Resoluções CFM n° 1.497, publicada no D.O.U. de 15 de julho de 1998, e CFM n° 2.325, publicada no D.O.U. de 4 de novembro de 2022.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -416,7 +421,9 @@
       "ano": "2025",
       "data_publicacao": "06-MAR-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2135-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 2.135/2015, passando a disciplinar as Unidades de Terapia Intensiva Coronarianas (UCO) ao contido na Resolução CFM nº 2.271/2020.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -586,7 +593,9 @@
       "ano": "2024",
       "data_publicacao": "10-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2070-2014"
+      ],
       "alterada_por_ids": [],
       "ementa": "Normatiza o fluxo da consulta, dos processos-consultas e dos pareceres nos Conselhos Federal e Regionais de Medicina e torna sua tramitação obrigatória pelo Processo Administrativo eletrônico (PAe).",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -877,7 +886,11 @@
       "ano": "2023",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1974-2011",
+        "CFM-RES-2126-2015",
+        "CFM-RES-2133-2015"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre publicidade e propaganda médicas.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -909,7 +922,9 @@
       "ano": "2023",
       "data_publicacao": "29-MAY-23",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2182-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre as normas para a eleição, em todos os estados e no Distrito Federal, de conselheiros federais, efetivos e suplentes, ao Conselho Federal de Medicina – Gestão 2024 -2029.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -938,7 +953,10 @@
       "ano": "2023",
       "data_publicacao": "03-MAY-23",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1948-2010",
+        "CFM-RES-2011-2013"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta a concessão de visto provisório para o exercício temporário por até 90 (noventa) dias ao médico que, sem caráter habitual e vínculo de emprego local, venha a atuar em outro estado.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -1028,7 +1046,9 @@
       "ano": "2022",
       "data_publicacao": "17-OCT-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2297-2021"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe de normas específicas para médicos que atendem o trabalhador. (Atenção dos dispositivos suspensos por decisão judicial - artigos 10, 12 e o § 2º do artigo 15)",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -1058,7 +1078,9 @@
       "ano": "2022",
       "data_publicacao": "05-MAY-22",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1643-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Define e regulamenta a telemedicina, como forma de serviços médicos mediados por tecnologias de comunicação.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -1090,7 +1112,11 @@
       "ano": "2022",
       "data_publicacao": "04-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1625-2001",
+        "CFM-RES-2129-2015",
+        "CFM-RES-2180-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece regramento para publicização e compartilhamento de dados de médicos inscritos à luz da LGPD, do interesse público e das atribuições legais conferidas ao Conselho Médico.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -1147,7 +1173,20 @@
       "ano": "2022",
       "data_publicacao": "24-JAN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1100-1983",
+        "CFM-RES-1202-1984",
+        "CFM-RES-1530-1998",
+        "CFM-RES-1587-1999",
+        "CFM-RES-1602-2000",
+        "CFM-RES-1961-2011",
+        "CFM-RES-2001-2012",
+        "CFM-RES-2145-2016",
+        "CFM-RES-2158-2017",
+        "CFM-RES-2275-2020",
+        "CFM-RES-2278-2020",
+        "CFM-RES-608-1974"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs).",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -1210,7 +1249,9 @@
       "ano": "2021",
       "data_publicacao": "03-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2183-2018"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2323-2022"
       ],
@@ -1298,7 +1339,9 @@
       "ano": "2020",
       "data_publicacao": "02-OCT-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2159-2017"
+      ],
       "alterada_por_ids": [],
       "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.159/17, publicada no D.O.U. de 1º de fevereiro de 2017, Seção I, p. 113-114.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -1641,7 +1684,9 @@
       "ano": "2019",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2227-2018"
+      ],
       "alterada_por_ids": [],
       "ementa": "Revoga a Resolução CFM nº 2.227, publicada no D.O.U. de 6 de fevereiro de 2019, Seção I, p. 58, a qual define e disciplina a telemedicina como forma de prestação de serviços médicos mediados por tecnologias, e restabelece expressamente a vigência da Resolução CFM nº 1.643/2002, publicada no D.O.U. de 26 de agosto de 2002, Seção I, p. 205.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -1840,7 +1885,9 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1931-2009"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova o Código de Ética Médica.",
       "macro_tema": "Ética Médica & Deontologia",
@@ -1988,7 +2035,9 @@
       "ano": "2017",
       "data_publicacao": "12-JUN-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1990-2012"
+      ],
       "alterada_por_ids": [],
       "ementa": "Regulamenta o procedimento administrativo para apuração de doença incapacitante, parcial ou total, para o exercício da medicina e revoga a Resolução CFM nº 1.990/2012, publicada no D.O.U. de 11 de junho de 2012, seção I, p. 103.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -2016,7 +2065,9 @@
       "ano": "2017",
       "data_publicacao": "11-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2138-2016"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2286-2020"
       ],
@@ -2224,7 +2275,12 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1967-2011",
+        "CFM-RES-1987-2012",
+        "CFM-RES-2023-2013",
+        "CFM-RES-2066-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
@@ -2254,7 +2310,9 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-2053-2013"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2159-2017"
       ],
@@ -2537,7 +2595,9 @@
       "ano": "2014",
       "data_publicacao": "29-MAY-24",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1890-2009"
+      ],
       "alterada_por_ids": [],
       "ementa": "Define e normatiza a Telerradiologia e revoga a Resolução CFM nº 1890/09, publicada no D.O.U. de 19 janeiro de 2009, Seção I, p. 94-5p.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -2786,7 +2846,9 @@
       "ano": "2013",
       "data_publicacao": "04-FEB-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1613-2001"
+      ],
       "alterada_por_ids": [],
       "ementa": "Disciplina os departamentos de Fiscalização nos Conselhos Regionais de Medicina, estabelece critérios para a autorização de funcionamento dos serviços médicos de quaisquer naturezas, bem como estabelece critérios mínimos para seu funcionamento, vedando o funcionamento daqueles que não estejam de acordo com os mesmos. Trata também dos roteiros de anamnese a serem adotados em todo o Brasil, inclusive nos estabelecimentos de ensino médico, bem como os roteiros para perícias médicas e a organização do prontuário de pacientes assistidos em ambientes de trabalho dos médicos. Revoga a Resolução CFM n. 1613/2001.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -2822,7 +2884,9 @@
       "ano": "2013",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1897-2009"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2145-2016"
       ],
@@ -3191,7 +3255,9 @@
       "ano": "2009",
       "data_publicacao": "29-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1246-1988"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2217-2018"
       ],
@@ -3228,7 +3294,9 @@
       "ano": "2009",
       "data_publicacao": "28-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1617-2001"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2023-2013"
       ],
@@ -3316,7 +3384,9 @@
       "ano": "2007",
       "data_publicacao": "24-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1639-2002"
+      ],
       "alterada_por_ids": [],
       "ementa": "Aprova as normas técnicas concernentes à digitalização e uso dos sistemas informatizados para a guarda e manuseio dos documentos dos prontuários dos pacientes, autorizando a eliminação do papel e a troca de informação identificada em saúde",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -3563,7 +3633,9 @@
       "ano": "2003",
       "data_publicacao": "21-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1529-1998"
+      ],
       "alterada_por_ids": [],
       "ementa": "Dispõe sobre a regulamentação do atendimento pré-hospitalar e dá outras providências.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
@@ -3734,7 +3806,7 @@
       "status": "Revogada",
       "revoga_ids": [],
       "alterada_por_ids": [
-        "CFM-RES-2314-2024"
+        "CFM-RES-2314-2022"
       ],
       "ementa": "Define e disciplina a prestação de serviços através da Telemedicina.",
       "macro_tema": "Saúde Digital & Tecnologia",
@@ -3762,7 +3834,14 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1084-1982",
+        "CFM-RES-1340-1990",
+        "CFM-RES-264-1965",
+        "CFM-RES-310-1967",
+        "CFM-RES-808-1977",
+        "CFM-RES-872-1978"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
@@ -3792,7 +3871,9 @@
       "ano": "2002",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1331-1989"
+      ],
       "alterada_por_ids": [
         "CFM-RES-1821-2007"
       ],
@@ -3885,7 +3966,9 @@
       "ano": "2001",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-1466-1996"
+      ],
       "alterada_por_ids": [
         "CFM-RES-2448-2025"
       ],
@@ -3999,7 +4082,9 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Vigente",
-      "revoga_ids": [],
+      "revoga_ids": [
+        "CFM-RES-999-1980"
+      ],
       "alterada_por_ids": [],
       "ementa": "O médico não pode, sem o consentimento do paciente, revelar o conteúdo do prontuário ou ficha médica. Revoga-se a Resolução CFM nº 999/80.",
       "macro_tema": "Saúde Digital & Tecnologia",

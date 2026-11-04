@@ -62,6 +62,19 @@ def gerar_catalogos(documentos: List[Dict[str, Any]] = None):
     else:
         documentos = documentos_disco
 
+    # Reconciliação bidirecional em memória: alterada_por_ids <-> revoga_ids
+    revoga_reverso: Dict[str, set] = {}
+    for d in documentos:
+        doc_id = d["id"]
+        for rev_id in d.get("alterada_por_ids", []):
+            if rev_id != doc_id:
+                revoga_reverso.setdefault(rev_id, set()).add(doc_id)
+    for d in documentos:
+        doc_id = d["id"]
+        if doc_id in revoga_reverso:
+            atuais = set(d.get("revoga_ids", []))
+            d["revoga_ids"] = sorted(atuais.union(revoga_reverso[doc_id]))
+
     # Ordena documentos
     documentos.sort(key=lambda d: (str(d.get("ano", "")), str(d.get("tipo", "")), str(d.get("numero", "")).zfill(6)), reverse=True)
     # Constrói índice invertido de tags e macro-temas para busca O(1)
@@ -185,8 +198,8 @@ def gerar_progresso_md(documentos: List[Dict[str, Any]] = None):
 | **Resoluções** | {len(resolucoes)} | 🟢 Concluído |
 | **Pareceres** | {len(pareceres)} | 🟢 Concluído |
 | **Recomendações** | {len(recomendacoes)} | 🟢 Concluído |
-| **Despachos Jurídicos** | {len(despachos)} | 🔹 Módulo Retroativo |
-| **Total Global** | **{len(documentos)}** | 🟢 100% das Fases Concluídas ({faixa_anos}) |
+| **Despachos Jurídicos** | {len(despachos)} | ⚪ Fora dos 100% (0 no acervo) |
+| **Total Global (R + P + E)** | **{len(documentos)}** | 🟢 100% de resoluções, pareceres e recomendações ({faixa_anos}) |
 
 ---
 
@@ -449,15 +462,15 @@ def atualizar_readme_metricas(documentos: List[Dict[str, Any]], total_ia: int):
         flags=re.MULTILINE,
     )
 
-    # 2. Atualiza badge do Acervo Oficial: Acervo_Oficial-{total}_Normas
+    # 2. Atualiza badge do Acervo regulatório do CFM
     readme_content = re.sub(
-        r"Acervo_Oficial-\d+_Normas",
-        f"Acervo_Oficial-{total}_Normas",
+        r"Acervo_regulat%C3%B3rio_do_CFM-\d+_Normas",
+        f"Acervo_regulat%C3%B3rio_do_CFM-{total}_Normas",
         readme_content,
     )
     readme_content = re.sub(
-        r'alt="\d+ Normas"',
-        f'alt="{total} Normas"',
+        r'alt="Acervo regulatório do CFM: \d+ Normas"',
+        f'alt="Acervo regulatório do CFM: {total} Normas"',
         readme_content,
     )
 

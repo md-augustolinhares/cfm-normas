@@ -30,7 +30,7 @@ Inspirado na arquitetura do projeto `ctresb/leis`, o repositório avança em fas
 | **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), reprodução assistida inicial, transplantes e prontuário digital (Res. 1.821/2007). | **672 normas** | **100% Concluído ✅** |
 | **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, critérios de morte encefálica (Res. 1.346/1991 e 1.480/1997) e reprodução assistida (Res. 1.358/1992). | **612 normas** | **100% Concluído ✅** |
 | **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, Código de Ética de 1988 (Res. 1.246/1988), Consentimento Informado (Res. 1.081/1982) e Declaração de Helsinque (Res. 671/1975). | **1.457 normas** | **100% Concluído ✅** |
-| **Meta Global** | **1957–2026** | **100% do Acervo Histórico Federal do CFM (70 anos ininterruptos) indexado e aberto.** | **3.856 normas** | 🎯 **100% Concluído ✅** |
+| **Meta Global** | **1957–2026** | **100% de resoluções, pareceres e recomendações federais do CFM (70 anos; despachos jurídicos fora dos 100%: 0 no acervo).** | **3.856 normas** | 🎯 **100% Concluído ✅** |
 
 ---
 
@@ -42,8 +42,9 @@ Inspirado na arquitetura do projeto `ctresb/leis`, o repositório avança em fas
 3. **Recomendações (`E`):** Orientações e boas práticas recomendadas pelo Plenário aos médicos e serviços de saúde, sem poder punitivo direto.
 
 ### Excluídos do Escopo Central (Justificativa):
-1. **Portarias de Gestão Interna de Pessoal:** Atos administrativos de férias, exoneração, nomeação de assessores internos ou concessão de diárias no âmbito da administração do CFM.
-2. **Normas Regionais de CRMs Locais (Fase Atual):** Os 27 CRMs publicam pareceres de jurisdição local. Para manter o acervo estável, confiável e de alcance unificado nacional, o repositório foca 100% no Conselho Federal.
+1. **Despachos Jurídicos (`D` — 0 no acervo, fora dos 100%):** Manifestações internas de expediente da Coordenação Jurídica (COJUR/CFM), que não integram o conjunto de resoluções, pareceres de plenário e recomendações ético-normativas.
+2. **Portarias de Gestão Interna de Pessoal:** Atos administrativos de férias, exoneração, nomeação de assessores internos ou concessão de diárias no âmbito da administração do CFM.
+3. **Normas Regionais de CRMs Locais (Fase Atual):** Os 27 CRMs publicam pareceres de jurisdição local. Para manter o acervo estável, confiável e de alcance unificado nacional, o repositório foca 100% no Conselho Federal.
 
 ---
 

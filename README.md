@@ -5,7 +5,8 @@
 
 <p align="left">
   <a href="https://github.com/md-augustolinhares/cfm-normas/actions"><img src="https://img.shields.io/badge/Atualização_Semanal-GitHub_Actions-0284c7?style=flat-square&logo=githubactions&logoColor=white" alt="Atualização Semanal"></a>
-  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-3856_Normas-10b981?style=flat-square" alt="3856 Normas"></a>
+  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_regulat%C3%B3rio_do_CFM-3856_Normas-10b981?style=flat-square" alt="Acervo regulatório do CFM: 3856 Normas"></a>
+  <a href="COBERTURA.md"><img src="https://img.shields.io/badge/Cobertura-100%25_de_resolu%C3%A7%C3%B5es,_pareceres_e_recomenda%C3%A7%C3%B5es-059669?style=flat-square" alt="100% de resoluções, pareceres e recomendações"></a>
   <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-166_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licen%C3%A7a-CC--BY--4.0-f59e0b?style=flat-square" alt="Licença CC-BY 4.0"></a>
   <a href="https://md-augustolinhares.github.io/casos/cfm-normas/"><img src="https://img.shields.io/badge/Estudo_de_Caso-Portf%C3%B3lio_Oficial-0ea5e9?style=flat-square" alt="Estudo de Caso"></a>
@@ -20,6 +21,8 @@
 </p>
 
 > 💡 **Quer explorar o painel interativo com gráficos dinâmicos?** Abra o arquivo local [`estatisticas.html`](estatisticas.html) no seu navegador ou consulte a tabela analítica completa em **[`PROGRESSO.md`](PROGRESSO.md)**.
+>
+> 📌 **Nota de Escopo:** Os **100% de cobertura (3.856 normas)** contemplam integralmente todas as **resoluções (2.458), pareceres (1.384) e recomendações (14)** federais do CFM de 1957 a 2026. Os **despachos jurídicos** internos (`0` no acervo) ficam fora dos 100%.
 
 ---
 
@@ -79,14 +82,14 @@ flowchart TD
 | **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), digitalização e certificação de prontuários eletrônicos SBIS-CFM (Res. 1.821/2007) e marco da ortotanásia (Res. 1.805/2006). | **672 normas** | **100% Concluído ✅** |
 | **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, critérios de morte encefálica (Res. 1.346/1991 e 1.480/1997) e reprodução assistida (Res. 1.358/1992). | **612 normas** | **100% Concluído ✅** |
 | **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, Código de Ética de 1988 (Res. 1.246/1988), Consentimento Informado (Res. 1.081/1982) e Declaração de Helsinque (Res. 671/1975). | **1.457 normas** | **100% Concluído ✅** |
-| **Meta** | **1957–2026** | **100% do Acervo Histórico Federal do CFM (70 anos ininterruptos) indexado e aberto.** | **3.856 normas** | 🎯 **100% Concluído ✅** |
+| **Meta** | **1957–2026** | **100% de resoluções, pareceres e recomendações federais do CFM (70 anos; despachos jurídicos fora dos 100%: 0 no acervo).** | **3.856 normas** | 🎯 **100% Concluído ✅** |
 | **Fase 6** | *Expansão* | **Módulos de Saúde Digital:** Normas de Software Médico (SaMD) da **ANVISA** (RDC 657/2022) e da Rede Nacional de Dados em Saúde (**RNDS / MS**). | Modular | *Futuro* 🌐 |
 
 ---
 
 ## 2. Normas-Chave em Destaque (Saúde Digital, IA e Prática Clínica)
 
-O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **166 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (1957–2026), ética digital e proteção de dados (1957–2026), destacam-se:
+O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **166 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (1957–2026), ética digital e proteção de dados (1957–2026), ética digital e proteção de dados (1957–2026), destacam-se:
 
 | Norma | Ano | Ementa Oficial / Tema Central | Status | Vínculo no Acervo |
 | :--- | :---: | :--- | :---: | :---: |
@@ -123,7 +126,7 @@ Consulte o catálogo temático completo em **[`catalogo_ia_privacidade.json`](ca
    * `normas/resolucoes/` (atos coercitivos)
    * `normas/pareceres/` (respostas a consultas éticas)
    * `normas/recomendacoes/` (orientações do plenário)
-2. **Checagem de Vigência:** Ao abrir qualquer arquivo `.md`, o cabeçalho no topo informa se a norma é `Vigente` ou `Revogada`. Se foi revogada, o campo `revoga_ids` aponta exatamente qual resolução posterior a substituiu.
+2. **Checagem de Vigência (Grafo Bidirecional):** Ao abrir qualquer arquivo `.md`, o cabeçalho YAML informa se a norma é `Vigente` ou `Revogada`. Quando uma norma revoga atos anteriores, o campo `revoga_ids` lista todas as normas que ela revogou; inversamente, na norma que foi revogada, o campo `alterada_por_ids` aponta exatamente qual resolução posterior a revogou ou substituiu.
 
 ---
 
