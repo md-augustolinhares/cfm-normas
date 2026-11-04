@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-03T22:09:25.688115",
-  "total_documentos_ia_dados": 161,
+  "atualizado_em": "2026-11-04T00:01:33.235438",
+  "total_documentos_ia_dados": 166,
   "documentos": [
     {
       "id": "CFM-RES-2454-2026",
@@ -996,10 +996,10 @@
       "ano": "2022",
       "data_publicacao": "04-NOV-22",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2430-2025"
       ],
-      "alterada_por_ids": [],
       "ementa": "Define e disciplina o uso de tecnologias de comunicação na avaliação médico pericial.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
       "tags": [
@@ -1210,10 +1210,10 @@
       "ano": "2021",
       "data_publicacao": "03-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2323-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Dispõe de normas específicas para médicos que atendem o trabalhador. Revoga a Resolução CFM nº 2.183/2018.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
       "tags": [
@@ -1325,10 +1325,10 @@
       "ano": "2020",
       "data_publicacao": "02-JUL-20",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Autoriza a realização por videoconferência de apreciação do relatório conclusivo da sindicância, julgamento de processo ético-profissional e outros processos administrativos, bem como dos atos de instrução e respectivos recursos. Altera a Resolução CFM nº 2.145/2016 (CPEP), publicada no D.O.U. de 27 de outubro de 2016, Seção I, p. 329, e a Resolução CFM nº 2.234/2019 (PAe), publicada no D.O.U. de 11 de setembro de 2019, Seção I, p. 223-4, no âmbito dos Conselhos Federal e Regionais de Medicina.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -1354,10 +1354,10 @@
       "ano": "2020",
       "data_publicacao": "02-OCT-24",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Altera a Resolução CFM nº 2145/2016, que aprovou o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs) e altera a Resolução CFM nº 2.234/2019, que dispõe sobre a tramitação eletrônica da sindicância, do processo ético-profissional, do procedimento administrativo para apuração de doença incapacitante do médico, do processo-consulta, da proposta de resolução e da proposta de recomendação no âmbito dos Conselhos Federal e Regionais de Medicina.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -1779,10 +1779,10 @@
       "ano": "2018",
       "data_publicacao": "30-SEP-24",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2228-2019"
       ],
-      "alterada_por_ids": [],
       "ementa": "Define e disciplina a telemedicina como forma de prestação de serviços médicos mediados por tecnologias",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -2016,10 +2016,10 @@
       "ano": "2017",
       "data_publicacao": "11-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2286-2020"
       ],
-      "alterada_por_ids": [],
       "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.138/16, publicada no D.O.U. de 3 de março de 2016, Seção I, p. 102-3",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -2045,10 +2045,10 @@
       "ano": "2017",
       "data_publicacao": "11-JUN-24",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Altera o artigo 1º da Resolução CFM nº 2145/2016 – Código de Processo Ético-Profissional – CPEP, publicada no D.O.U. de 27 de outubro de 2016, Seção I, p. 329.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -2224,10 +2224,10 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Aprova o Código de Processo Ético-Profissional (CPEP) no âmbito do Conselho Federal de Medicina (CFM) e Conselhos Regionais de Medicina (CRMs). Revoga as Resoluções CFM nº 1967/11, 1987/12, 2023/13 e 2066/13.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -2254,10 +2254,10 @@
       "ano": "2016",
       "data_publicacao": "04-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2159-2017"
       ],
-      "alterada_por_ids": [],
       "ementa": "Estabelece normas e procedimentos para tomada e prestação de contas dos Conselhos de Medicina e revoga a Resolução CFM nº 2.053/13, publicada no D.O.U. de 10 de outubro de 2013, Seção I, p. 74.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -2822,10 +2822,10 @@
       "ano": "2013",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2145-2016"
       ],
-      "alterada_por_ids": [],
       "ementa": "Aprova as normas processuais que regulamentam as sindicâncias, processos ético-profissionais e o rito dos julgamentos nos Conselhos Federal e Regionais de Medicina.Revoga Resolução CFM nº 1897/2009.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -2851,10 +2851,10 @@
       "ano": "2012",
       "data_publicacao": "03-FEB-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2322-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Altera a redação do artigo 77 do Código de Ética Médica, aprovado pela Resolução CFM nº 1.931, de 17 de setembro de 2009.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -3048,10 +3048,10 @@
       "ano": "2010",
       "data_publicacao": "30-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
-      "alterada_por_ids": [],
       "ementa": "Altera o parágrafo único para § 1º e acrescenta o § 2º ao art. 52, altera o caput e os parágrafos 1º e 2º do art. 54, além de alterar os parágrafos 1º e 2º para parágrafos 3º e 4º no mesmo artigo da Resolução CFM nº 1.897, de 6 maio de 2009, que aprova as normas processuais que regulamentam as sindicâncias, processos ético-profissionais e o rito dos julgamentos nos Conselhos Federal e Regionais de Medicina",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -3191,10 +3191,10 @@
       "ano": "2009",
       "data_publicacao": "29-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2217-2018"
       ],
-      "alterada_por_ids": [],
       "ementa": "Aprova o Código de Ética Médica.",
       "macro_tema": "Ética Médica & Deontologia",
       "tags": [
@@ -3228,10 +3228,10 @@
       "ano": "2009",
       "data_publicacao": "28-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2023-2013"
       ],
-      "alterada_por_ids": [],
       "ementa": "Aprova as normas processuais que regulamentam as Sindicâncias, Processos Ético-profissionais e o Rito dos Julgamentos nos Conselhos Federal e Regionais de Medicina",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -3257,10 +3257,10 @@
       "ano": "2009",
       "data_publicacao": "28-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2107-2014"
       ],
-      "alterada_por_ids": [],
       "ementa": "Define e normatiza a Telerradiologia.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -3732,10 +3732,10 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2314-2024"
       ],
-      "alterada_por_ids": [],
       "ementa": "Define e disciplina a prestação de serviços através da Telemedicina.",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -3762,10 +3762,10 @@
       "ano": "2002",
       "data_publicacao": "17-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2293-2021"
       ],
-      "alterada_por_ids": [],
       "ementa": "As empresas que atuam sob a forma de prestação direta ou intermediação de serviços médicos devem estar registradas nos Conselhos Regionais de Medicina de sua respectiva da jurisdição, bem como respeitar a autonomia profissional dos médicos, efetuando os pagamentos diretamente aos mesmos e sem sujeitá-los a quaisquer restrições; nos contratos, deve constar explicitamente a forma atual de reajuste, submetendo as suas tabelas à apreciação do CRM do estado onde atuem. O sigilo médico deve ser respeitado, não sendo permitida a exigência de revelação de dados ou diagnósticos para nenhum efeito. Revogam-se as Resoluções CFM nºs: 264/65,  310/67,  808/77,  872/78,  1.084/82,  1.340/90. (Diário Oficial da União; Poder Executivo, Brasília, DF, n. 164, 26 ago. 2002. Seção 1, p. 204-5). (Diário Oficial da União; Poder Executivo, Brasília, DF, n. 174, 9 set. 2002. Seção 1, p. 153 - REPUBLICADA).",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -3792,10 +3792,10 @@
       "ano": "2002",
       "data_publicacao": "16-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-1821-2007"
       ],
-      "alterada_por_ids": [],
       "ementa": "Aprova as \"Normas Técnicas para o Uso de Sistemas Informatizados para a Guarda e Manuseio do Prontuário Médico\", dispõe sobre tempo de guarda dos prontuários, estabelece critérios para certificação dos sistemas de informação e dá outras providências",
       "macro_tema": "Ética Médica & Deontologia",
       "tags": [
@@ -3885,10 +3885,10 @@
       "ano": "2001",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2448-2025"
       ],
-      "alterada_por_ids": [],
       "ementa": "Trata da inscrição do médico auditor e das empresas de auditoria médica nos Conselhos de Medicina.",
       "macro_tema": "Gestão, Infraestrutura & Perícia",
       "tags": [
@@ -4026,10 +4026,10 @@
       "ano": "2000",
       "data_publicacao": "15-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-2306-2022"
       ],
-      "alterada_por_ids": [],
       "ementa": "Fica criado, sob a responsabilidade da Corregedoria do Conselho Federal de Medicina, o Cadastro Nacional de Sindicância e Processos Ético-Profissionais dos Conselhos de Medicina-CNSP, destinado aos Conselhos de Medicina as informações sobre suas atividades judicantes. (D.O.U.; Poder Executivo, n.160, 18 ago. 2000. Seção 1, p.64).",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -4137,10 +4137,10 @@
       "ano": "1998",
       "data_publicacao": "14-JAN-25",
       "status": "Revogada",
-      "revoga_ids": [
+      "revoga_ids": [],
+      "alterada_por_ids": [
         "CFM-RES-1671-2003"
       ],
-      "alterada_por_ids": [],
       "ementa": "Normatiza a atividade médica na Área da Urgência-Emergência na fase de Atendimento Pré-Hospitalar",
       "macro_tema": "Saúde Digital & Tecnologia",
       "tags": [
@@ -4634,6 +4634,147 @@
       "sha256_conteudo": "2cc650e15372e23b18200ca77ecf009dbe4b50346477e88d2e15c37ab5ff0493",
       "caminho_relativo": "normas/pareceres/1990/CFM-PAR-14-1990.md",
       "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1990/CFM-PAR-14-1990.md"
+    },
+    {
+      "id": "CFM-PAR-50-1989",
+      "id_norma_cfm": "28086",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "50",
+      "ano": "1989",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Hospital enviar prontuários quando exigidos para pagamento de contas",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1989/50",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1989/50_1989.pdf",
+      "sha256_conteudo": "0dc4118e9187ecefbbe3f9dcaa4a13f3e7b0b6f390286f49036d556936bf5346",
+      "caminho_relativo": "normas/pareceres/1989/CFM-PAR-50-1989.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1989/CFM-PAR-50-1989.md"
+    },
+    {
+      "id": "CFM-PAR-18-1989",
+      "id_norma_cfm": "28047",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "18",
+      "ano": "1989",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Esterilização",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1989/18",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1989/18_1989.pdf",
+      "sha256_conteudo": "c62886fb5fa984f1f664e2d69f087902292ffa7b677067ba3ceaeb214a10ebd3",
+      "caminho_relativo": "normas/pareceres/1989/CFM-PAR-18-1989.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1989/CFM-PAR-18-1989.md"
+    },
+    {
+      "id": "CFM-PAR-25-1988",
+      "id_norma_cfm": "28094",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "25",
+      "ano": "1988",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Anotação do CID nos atestados médicos",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1988/25",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1988/25_1988.pdf",
+      "sha256_conteudo": "1b55bdf6e2256d0300b3c2022a7b4f83d75e898e98947ac449ded6adaff4638f",
+      "caminho_relativo": "normas/pareceres/1988/CFM-PAR-25-1988.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1988/CFM-PAR-25-1988.md"
+    },
+    {
+      "id": "CFM-PAR-16-1986",
+      "id_norma_cfm": "28168",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "16",
+      "ano": "1986",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Pedido de exame passar por funcionários - Quebra do sigilo médico",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1986/16",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1986/16_1986.pdf",
+      "sha256_conteudo": "cd23e7fc59851e5b8b67dc2a338be4baa33adc5c4782c2f436d2da6b70bfd4f1",
+      "caminho_relativo": "normas/pareceres/1986/CFM-PAR-16-1986.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1986/CFM-PAR-16-1986.md"
+    },
+    {
+      "id": "CFM-RES-920-1979",
+      "id_norma_cfm": "45344",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "920",
+      "ano": "1979",
+      "data_publicacao": "23-OCT-24",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Aprova Regimento Interno do CRMBA",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico",
+        "publicidade-medica",
+        "responsabilidade-tecnica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/1979/920",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/1979/920_1979.pdf",
+      "sha256_conteudo": "910e0a1302d1e7628dcd88a8a96d4a5e2f319e57b833c07fbc900304661d7a8f",
+      "caminho_relativo": "normas/resolucoes/1979/CFM-RES-920-1979.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/1979/CFM-RES-920-1979.md"
     }
   ]
 }

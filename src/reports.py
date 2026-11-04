@@ -18,6 +18,7 @@ from src.config import (
     README_PATH,
 )
 from src.gerar_dashboard_svg import gerar_dashboard_svg
+from src.exporter import salvar_manifesto
 
 
 def carregar_todos_documentos_disco() -> List[Dict[str, Any]]:
@@ -102,6 +103,16 @@ def gerar_catalogos(documentos: List[Dict[str, Any]] = None):
 
     with open(CATALOGO_IA_PATH, "w", encoding="utf-8") as f:
         json.dump(catalogo_ia, f, indent=2, ensure_ascii=False)
+
+    # Sincroniza manifesto.json diretamente a partir dos documentos reais do disco (1:1 perpétuo)
+    novo_manifesto = {}
+    for d in documentos:
+        id_cfm = str(d.get("id_norma_cfm", "")).strip()
+        sha = d.get("sha256_conteudo", "")
+        if id_cfm and sha:
+            novo_manifesto[id_cfm] = sha
+    if novo_manifesto:
+        salvar_manifesto(novo_manifesto)
 
     # Atualiza o dashboard SVG automaticamente
     try:
@@ -233,13 +244,18 @@ def gerar_estatisticas_html(documentos: List[Dict[str, Any]] = None):
         "por_status": por_status,
     }
 
+    anos_presentes = [int(d["ano"]) for d in documentos if str(d.get("ano", "")).isdigit()]
+    min_ano = min(anos_presentes) if anos_presentes else 1957
+    max_ano = max(anos_presentes) if anos_presentes else 2026
+    faixa_anos = f"{min_ano}–{max_ano}"
+
     dados_json_inlined = json.dumps(dados_estatisticas, ensure_ascii=False)
 
     html_content = f"""<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Dashboard de Estatísticas — Normas do CFM (2020–2026)</title>
+  <title>Dashboard de Estatísticas — Normas do CFM ({faixa_anos})</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
@@ -315,7 +331,7 @@ def gerar_estatisticas_html(documentos: List[Dict[str, Any]] = None):
 <body>
   <div class="container">
     <header>
-      <h1>Acervo Regulatório do CFM — Estatísticas Oficiais (2020–2026)</h1>
+      <h1>Acervo Regulatório do CFM — Estatísticas Oficiais ({faixa_anos})</h1>
       <div class="sub">Inspirado na arquitetura aberta de dados em saúde • Atualizado em: <span id="data-atualizacao"></span></div>
     </header>
 
@@ -452,10 +468,31 @@ def atualizar_readme_metricas(documentos: List[Dict[str, Any]], total_ia: int):
         readme_content,
     )
 
-    # 4. Atualiza menção no texto de normas-chave
+    # 4. Atualiza menção no texto de normas-chave e faixa de anos
     readme_content = re.sub(
-        r"Dentre as \*\*\d+ normas\*\* mapeadas na nossa trilha",
-        f"Dentre as **{total_ia} normas** mapeadas na nossa trilha",
+        r"Dentre as \*\*\d+ normas\*\* mapeadas na nossa trilha.*?,",
+        f"Dentre as **{total_ia} normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados ({faixa_anos}),",
+        readme_content,
+    )
+
+    # 5. Atualiza contadores por tipo na árvore de diretórios do README
+    n_res = sum(1 for d in documentos if d.get("tipo") == "Resolucao")
+    n_par = sum(1 for d in documentos if d.get("tipo") == "Parecer")
+    n_rec = sum(1 for d in documentos if d.get("tipo") == "Recomendacao")
+
+    readme_content = re.sub(
+        r"├── resolucoes/.*",
+        f"├── resolucoes/                   # {n_res:,} resoluções ({min_ano} a {max_ano})".replace(",", "."),
+        readme_content,
+    )
+    readme_content = re.sub(
+        r"├── pareceres/.*",
+        f"├── pareceres/                    # {n_par:,} pareceres ({min_ano} a {max_ano})".replace(",", "."),
+        readme_content,
+    )
+    readme_content = re.sub(
+        r"└── recomendacoes/.*",
+        f"└── recomendacoes/                # {n_rec} recomendação(ões) oficial(is)",
         readme_content,
     )
 

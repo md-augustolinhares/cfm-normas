@@ -1,12 +1,12 @@
-# CFM Normas (1990–2026)
+# CFM Normas (1957–2026)
 
 > **Acervo aberto, versionado e estruturado das normativas oficiais do Conselho Federal de Medicina (CFM) em Markdown.**  
 > Enriquecido com metadados relacionais, rastreamento de vigência no tempo e taxonomia temática nativa para agentes de Inteligência Artificial, sistemas de apoio à decisão clínica e profissionais de saúde.
 
 <p align="left">
   <a href="https://github.com/md-augustolinhares/cfm-normas/actions"><img src="https://img.shields.io/badge/Atualização_Semanal-GitHub_Actions-0284c7?style=flat-square&logo=githubactions&logoColor=white" alt="Atualização Semanal"></a>
-  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-2399_Normas-10b981?style=flat-square" alt="2399 Normas"></a>
-  <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-161_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
+  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_Oficial-3856_Normas-10b981?style=flat-square" alt="3856 Normas"></a>
+  <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-166_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licen%C3%A7a-CC--BY--4.0-f59e0b?style=flat-square" alt="Licença CC-BY 4.0"></a>
   <a href="https://md-augustolinhares.github.io/casos/cfm-normas/"><img src="https://img.shields.io/badge/Estudo_de_Caso-Portf%C3%B3lio_Oficial-0ea5e9?style=flat-square" alt="Estudo de Caso"></a>
 </p>
@@ -65,8 +65,8 @@ flowchart TD
     Fase1["✅ Fase 1: Acervo Contemporâneo (2020–2026)<br/>331 normas • 100% CONCLUÍDO • Automação Semanal Ativa"] --> Fase2["✅ Fase 2: Década Digital & Prontuários (2010–2019)<br/>783 normas • 100% CONCLUÍDO • Código de Ética 2018"]
     Fase2 --> Fase3["✅ Fase 3: Anos 2000 & Telemedicina 1.0 (2000–2009)<br/>672 normas • 100% CONCLUÍDO • Prontuário Digital SBIS-CFM"]
     Fase3 --> Fase4["✅ Fase 4: Década de 1990 & Criação do SUS (1990–1999)<br/>612 normas • 100% CONCLUÍDO • Critérios de Morte Encefálica"]
-    Fase4 --> Fase5["⏳ Fase 5: Origens e Fundação do CFM (1957–1989)<br/>Meta estimada: ~800 normas históricas (Próxima etapa)"]
-    Fase5 --> MetaFinal["🎯 100% DO ACERVO HISTÓRICO DO CFM MAPEADO (~3.500 NORMAS)"]
+    Fase4 --> Fase5["✅ Fase 5: Origens e Fundação do CFM (1957–1989)<br/>1.457 normas • 100% CONCLUÍDO • Código de Ética 1988 e Res. Fundacionais"]
+    Fase5 --> MetaFinal["🎯 100% DO ACERVO HISTÓRICO CONCLUÍDO: 3.856 NORMAS (70 ANOS: 1957–2026)"]
     MetaFinal -.-> Fase6["🌐 Fase 6: Expansão do Ecossistema (ANVISA SaMD & Ministério da Saúde)"]
 ```
 
@@ -78,15 +78,15 @@ flowchart TD
 | **Fase 2** | **2010–2019** | **A Década Digital:** Transição do papel para prontuários eletrônicos, consolidação das especialidades médicas (RQE) e o Código de Ética Médica de 2018 (Res. 2.217/2018). | **783 normas** | **100% Concluído ✅** |
 | **Fase 3** | **2000–2009** | **Telemedicina 1.0 & Biotecnologia:** Primeira resolução histórica de telemedicina (Res. 1.643/2002), digitalização e certificação de prontuários eletrônicos SBIS-CFM (Res. 1.821/2007) e marco da ortotanásia (Res. 1.805/2006). | **672 normas** | **100% Concluído ✅** |
 | **Fase 4** | **1990–1999** | **Estruturação do SUS:** Normatização pós-Constituição de 1988 e Lei 8.080/1990, critérios de morte encefálica (Res. 1.346/1991 e 1.480/1997) e reprodução assistida (Res. 1.358/1992). | **612 normas** | **100% Concluído ✅** |
-| **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, regimentos históricos e decisões deontológicas das primeiras décadas (com OCR em PDFs escaneados). | **~800 normas** | *Próxima Etapa* ⏳ |
-| **Meta** | **1957–Hoje** | **100% do Acervo Histórico da Medicina Brasileira mapeado em texto puro aberto.** | **~3.500 normas** | 🎯 **Alvo Final** |
+| **Fase 5** | **1957–1989** | **Origens Fundacionais do CFM:** Atos desde a promulgação da Lei nº 3.268/1957, Código de Ética de 1988 (Res. 1.246/1988), Consentimento Informado (Res. 1.081/1982) e Declaração de Helsinque (Res. 671/1975). | **1.457 normas** | **100% Concluído ✅** |
+| **Meta** | **1957–2026** | **100% do Acervo Histórico Federal do CFM (70 anos ininterruptos) indexado e aberto.** | **3.856 normas** | 🎯 **100% Concluído ✅** |
 | **Fase 6** | *Expansão* | **Módulos de Saúde Digital:** Normas de Software Médico (SaMD) da **ANVISA** (RDC 657/2022) e da Rede Nacional de Dados em Saúde (**RNDS / MS**). | Modular | *Futuro* 🌐 |
 
 ---
 
 ## 2. Normas-Chave em Destaque (Saúde Digital, IA e Prática Clínica)
 
-O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **161 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (1990–2026), destacam-se:
+O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **166 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (1957–2026), ética digital e proteção de dados (1957–2026), destacam-se:
 
 | Norma | Ano | Ementa Oficial / Tema Central | Status | Vínculo no Acervo |
 | :--- | :---: | :--- | :---: | :---: |
@@ -99,8 +99,12 @@ O acervo conta com um classificador léxico que analisa o teor de cada documento
 | **Resolução CFM nº 1.638** | **2002** | **Definição de Prontuário Médico e Comissão de Revisão.** Estabelece as diretrizes de preenchimento, guarda privativa e obrigatoriedade da Comissão de Revisão de Prontuários. | `Vigente` | [`CFM-RES-1638-2002.md`](normas/resolucoes/2002/CFM-RES-1638-2002.md) |
 | **Resolução CFM nº 1.480** | **1997** | **Critérios de Morte Encefálica e Transplantes.** Determina os exames clínicos e complementares para diagnóstico de parada encefálica total (revogada pela Res. 2.173/2017). | `Revogada` | [`CFM-RES-1480-1997.md`](normas/resolucoes/1997/CFM-RES-1480-1997.md) |
 | **Resolução CFM nº 1.358** | **1992** | **Normas Éticas de Reprodução Assistida.** Primeiro marco deontológico sobre fertilização in vitro, doação de gametas e diagnóstico genético no Brasil. | `Revogada` | [`CFM-RES-1358-1992.md`](normas/resolucoes/1992/CFM-RES-1358-1992.md) |
-| **Resolução CFM nº 1.359** | **1992** | **Atendimento Ético e Sigilo aos Pacientes com HIV/AIDS.** Proíbe discriminação profissional e estabelece o dever de sigilo e assistência integral aos portadores. | `Vigente` | [`CFM-RES-1359-1992.md`](normas/resolucoes/1992/CFM-RES-1359-1992.md) |
-| **Resolução CFM nº 1.342** | **1991** | **Responsabilidade e Atribuições do Diretor Técnico.** Define os deveres ético-profissionais da direção técnica médica em hospitais e estabelecimentos de saúde. | `Vigente` | [`CFM-RES-1342-1991.md`](normas/resolucoes/1991/CFM-RES-1342-1991.md) |
+| **Resolução CFM nº 1.359** | **1992** | **Atendimento Ético e Sigilo aos Pacientes com HIV/AIDS.** Proíbe discriminação profissional e estabelece o dever de sigilo e assistência integral aos portadores. | `Revogada` | [`CFM-RES-1359-1992.md`](normas/resolucoes/1992/CFM-RES-1359-1992.md) |
+| **Resolução CFM nº 1.342** | **1991** | **Responsabilidade e Atribuições do Diretor Técnico.** Define os deveres ético-profissionais da direção técnica médica em hospitais e estabelecimentos de saúde. | `Revogada` | [`CFM-RES-1342-1991.md`](normas/resolucoes/1991/CFM-RES-1342-1991.md) |
+| **Resolução CFM nº 1.246** | **1988** | **Código de Ética Médica de 1988.** Marco histórico pós-Constituição de 1988 que redefiniu a bioética, o sigilo e a autonomia no Brasil (revogada pela Res. 1.931/2009). | `Revogada` | [`CFM-RES-1246-1988.md`](normas/resolucoes/1988/CFM-RES-1246-1988.md) |
+| **Resolução CFM nº 1.081** | **1982** | **Consentimento Informado e Prontuários.** Marco deontológico sobre a obtenção de consentimento prévio do paciente para procedimentos e preservação documental. | `Revogada` | [`CFM-RES-1081-1982.md`](normas/resolucoes/1982/CFM-RES-1081-1982.md) |
+| **Resolução CFM nº 671** | **1975** | **Declaração de Helsinque e Pesquisa em Seres Humanos.** Adota formalmente os princípios da Associação Médica Mundial para experimentação clínica. | `Vigente` | [`CFM-RES-671-1975.md`](normas/resolucoes/1975/CFM-RES-671-1975.md) |
+| **Resolução CFM nº 1** | **1957** | **A Primeira Resolução da História do CFM.** Regulamenta a instalação dos Conselhos Regionais de Medicina sob a égide da Lei nº 3.268/1957. | `Vigente` | [`CFM-RES-1-1957.md`](normas/resolucoes/1957/CFM-RES-1-1957.md) |
 | **Resolução CFM nº 2.311** | **2022** | **Regulamentação da Cirurgia Robótica.** Fixa regras para capacitação do cirurgião, habilitação e responsabilidade técnica em procedimentos assistidos por robôs. | `Vigente` | [`CFM-RES-2311-2022.md`](normas/resolucoes/2022/CFM-RES-2311-2022.md) |
 | **Resolução CFM nº 2.417** | **2024** | **Processo Administrativo Eletrônico (PAe) e Fluxo Digital.** Normatiza a tramitação digital de consultas e pareceres nos Conselhos de Medicina. | `Vigente` | [`CFM-RES-2417-2024.md`](normas/resolucoes/2024/CFM-RES-2417-2024.md) |
 | **Resolução CFM nº 2.418** | **2024** | **Emissão de Documentos Médicos Digitais.** Atualiza regras sobre receitas eletrônicas, atestados e certificação digital ICP-Brasil. | `Vigente` | [`CFM-RES-2418-2024.md`](normas/resolucoes/2024/CFM-RES-2418-2024.md) |
@@ -211,9 +215,9 @@ cfm-normas/
 │   ├── reports.py                    # Geração de catálogos e PROGRESSO.md
 │   └── gerar_dashboard_svg.py        # Compilador do card vetorial de estatísticas
 ├── normas/
-│   ├── resolucoes/                   # 196 resoluções (2020 a 2026)
-│   ├── pareceres/                    # 134 pareceres (2020 a 2026)
-│   └── recomendacoes/                # 1 recomendação oficial
+│   ├── resolucoes/                   # 2.458 resoluções (1957 a 2026)
+│   ├── pareceres/                    # 1.384 pareceres (1957 a 2026)
+│   └── recomendacoes/                # 14 recomendação(ões) oficial(is)
 ├── catalogo.json                     # Catálogo global indexado em tempo O(1)
 ├── catalogo_ia_privacidade.json      # Catálogo filtrado para IA, Telemedicina e LGPD
 ├── manifesto.json                    # Registro de checkpoints e hashes de integridade

@@ -22,10 +22,12 @@ def sanitizar_texto_norma(texto: str) -> str:
 
     # Remove carimbos repetidos de rodapé/cabeçalho de página típicos do CFM
     padroes_rodape = [
-        r"SGAS\s+915\s+Lote\s+72\s+CEP.*Bras[íi]lia.*DF",
+        r"SGAS\s*,\s*Qd\.?\s*616,?\s*Conjunto\s*D.*Bras[íi]lia.*DF",
+        r"SGAS\s*915\s*Lote\s*72\s*\|?\s*CEP.*Bras[íi]lia.*DF",
         r"Telefone:\s*\(\d+\)\s*\d+-\d+",
         r"www\.portalmedico\.org\.br",
         r"P[áa]gina\s+\d+\s+de\s+\d+",
+        r"^\s*Imprimir\s*$",
         r"^\s*\d+\s*$",  # número de página isolado
     ]
     for padrao in padroes_rodape:

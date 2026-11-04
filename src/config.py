@@ -110,7 +110,7 @@ TAXONOMIA_TEMATICA = {
             "reproducao-assistida": [
                 r"\breprodu[çc][ãa]o assistida\b",
                 r"\bfertiliza[çc][ãa]o\b",
-                r"\bembi[ãa]o\b",
+                r"\bembri[ãa]o\b",
             ],
             "cuidados-paliativos": [
                 r"\bcuidados paliativos\b",
@@ -122,7 +122,7 @@ TAXONOMIA_TEMATICA = {
                 r"\bpronto atendimento\b",
                 r"\bupa\b",
                 r"\bsamu\b",
-                r"\b plant[ãa]o\b",
+                r"\bplant[ãa]o\b",
             ],
         }
     },

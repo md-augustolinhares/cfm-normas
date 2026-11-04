@@ -30,7 +30,7 @@ jobs:
 
       - name: Executar Coleta Incremental (Ano Atual)
         run: |
-          python main.py --ano 2026 --tipos R P E
+          python main.py --ano-atual --tipos R P E
 
       - name: Commit e Push das Atualizações
         run: |

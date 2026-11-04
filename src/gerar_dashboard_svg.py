@@ -73,38 +73,59 @@ def gerar_dashboard_svg():
     chart_h = 135
 
     # Se forem muitos anos, ajusta o tamanho da fonte e arredondamento
-    if num_barras > 28:
+    if num_barras > 35:
+        font_ano = "6"
+        font_val = "5.5"
+        bar_width = max(3.0, spacing * 0.72)
+        rx_val = 1
+    elif num_barras > 28:
         font_ano = "6.5"
         font_val = "6"
-        bar_width = max(5, int(spacing * 0.65))
+        bar_width = max(5.0, spacing * 0.65)
         rx_val = 2
     elif num_barras > 18:
         font_ano = "7.5"
         font_val = "7.5"
-        bar_width = max(6, int(spacing * 0.68))
+        bar_width = max(6.0, spacing * 0.68)
         rx_val = 3
     elif num_barras > 10:
         font_ano = "9"
         font_val = "9"
-        bar_width = max(8, int(spacing * 0.68))
+        bar_width = max(8.0, spacing * 0.68)
         rx_val = 3
     else:
         font_ano = "11"
         font_val = "11"
-        bar_width = max(14, int(spacing * 0.68))
+        bar_width = max(14.0, spacing * 0.68)
         rx_val = 4
 
     for i, (ano, val) in enumerate(zip(anos_chaves, anos_valores)):
         b_h = int((val / max_ano_val) * chart_h) if max_ano_val else 0
         b_y = chart_y_bottom - b_h
-        bx = int(x_offset_base + (i * spacing) + (spacing - bar_width) / 2)
+        bx = x_offset_base + (i * spacing) + (spacing - bar_width) / 2
         # Barra
-        bars_ano_svg.append(f'<rect x="{bx}" y="{b_y}" width="{bar_width}" height="{b_h}" rx="{rx_val}" fill="url(#blueGrad)" />')
-        # Valor acima da barra
-        bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{b_y - 4}" text-anchor="middle" font-size="{font_val}" font-weight="600" fill="#38bdf8">{val}</text>')
-        # Rótulo do ano (mostra 2 dígitos se forem muitos anos ou 4 dígitos)
-        rotulo_ano = ano[2:] if num_barras > 12 else ano
-        bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{chart_y_bottom + 16}" text-anchor="middle" font-size="{font_ano}" fill="#94a3b8">{rotulo_ano}</text>')
+        bars_ano_svg.append(f'<rect x="{bx:.1f}" y="{b_y}" width="{bar_width:.1f}" height="{b_h}" rx="{rx_val}" fill="url(#blueGrad)" />')
+        
+        # Valor acima da barra: se houver mais de 35 anos, exibe nos picos locais ou marcos
+        deve_exibir_val = True
+        if num_barras > 35:
+            val_ant = anos_valores[i-1] if i > 0 else 0
+            val_prox = anos_valores[i+1] if i < len(anos_valores) - 1 else 0
+            is_pico = val >= val_ant and val >= val_prox and val >= 40
+            is_marco = i in (0, len(anos_valores) - 1) or int(ano) in (1957, 1973, 1989, 2000, 2010, 2020, 2026)
+            deve_exibir_val = is_pico or is_marco
+
+        if deve_exibir_val and val > 0:
+            bars_ano_svg.append(f'<text x="{bx + bar_width/2:.1f}" y="{b_y - 4}" text-anchor="middle" font-size="{font_val}" font-weight="600" fill="#38bdf8">{val}</text>')
+        
+        # Rótulo do ano
+        deve_exibir_rotulo = True
+        if num_barras > 35:
+            deve_exibir_rotulo = (int(ano) % 5 == 0) or (i == 0) or (i == len(anos_chaves) - 1)
+        
+        if deve_exibir_rotulo:
+            rotulo_ano = ano[2:] if num_barras > 12 else ano
+            bars_ano_svg.append(f'<text x="{bx + bar_width/2:.1f}" y="{chart_y_bottom + 16}" text-anchor="middle" font-size="{font_ano}" fill="#94a3b8">{rotulo_ano}</text>')
 
     # Dados do gráfico horizontal de Macro-temas (painel direito)
     macros_ordenados = sorted(por_macro.items(), key=lambda x: x[1], reverse=True)[:5]

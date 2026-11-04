@@ -62,10 +62,16 @@ def exportar_norma_markdown(
         status = "Vigente"
 
     revoga_ids = []
+    alterada_por_ids = []
     num_rev = metadados_cfm.get("NUMERO_REVOGADA")
     ano_rev = metadados_cfm.get("ANO_REVOGADA")
     if num_rev and ano_rev:
-        revoga_ids.append(construir_id_canonico(tipo_cod, str(num_rev), str(ano_rev)))
+        norma_relacionada = construir_id_canonico(tipo_cod, str(num_rev), str(ano_rev))
+        # No CFM, se a norma atual está revogada/suspensa, NUMERO_REVOGADA é a norma que a revogou (alterada_por)
+        if status in ["Revogada", "Suspensa"]:
+            alterada_por_ids.append(norma_relacionada)
+        else:
+            revoga_ids.append(norma_relacionada)
 
     url_pdf = URL_PDF_BASE.format(sname=sname, ano=ano, numero=numero)
     url_visualizar = URL_VISUALIZAR_BASE.format(sname=sname, ano=ano, numero=numero)
@@ -83,7 +89,7 @@ def exportar_norma_markdown(
         "data_publicacao": str(metadados_cfm.get("DATA", "")),
         "status": status,
         "revoga_ids": revoga_ids,
-        "alterada_por_ids": [],
+        "alterada_por_ids": alterada_por_ids,
         "ementa": str(metadados_cfm.get("RESUMO", "")).strip(),
         "macro_tema": macro_tema,
         "tags": tags,
@@ -95,7 +101,8 @@ def exportar_norma_markdown(
 
     # Gera conteúdo completo do Markdown
     yaml_header = yaml.dump(frontmatter_dict, sort_keys=False, allow_unicode=True)
-    titulo_doc = f"# {tipo_nome.upper()} CFM Nº {numero}/{ano}\n\n"
+    titulo_map = {"Resolucao": "RESOLUÇÃO", "Recomendacao": "RECOMENDAÇÃO", "Parecer": "PARECER", "Despacho": "DESPACHO"}
+    titulo_doc = f"# {titulo_map.get(tipo_nome, tipo_nome.upper())} CFM Nº {numero}/{ano}\n\n"
     conteudo_final = f"---\n{yaml_header}---\n\n{titulo_doc}{texto_corpo}\n"
 
     # Salva na pasta do ano

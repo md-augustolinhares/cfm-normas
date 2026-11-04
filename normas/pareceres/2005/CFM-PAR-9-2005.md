@@ -18,9 +18,12 @@ destaques:
   tem_telemedicina: false
 url_original: https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2005/9
 url_pdf_original: https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2005/9_2005.pdf
-sha256_conteudo: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+sha256_conteudo: b3586e3bf400ebd21ff9aa4b07fcb60b35aaacda2bd171d0593429f8cc9bf35a
 ---
 
 # PARECER CFM Nº 9/2005
 
+*(Documento original disponibilizado em PDF digitalizado como imagem sem camada de texto pelo portal do CFM)*
 
+## Ementa Oficial
+Regimento Interno

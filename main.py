@@ -70,7 +70,11 @@ def processar_norma(meta: dict, manifesto: dict, force: bool = False) -> dict:
     if pdf_bytes:
         raw_text, _ = extrair_texto_pdf(pdf_bytes)
         texto_limpo = sanitizar_texto_norma(raw_text)
-        corpo_formatado = formatar_artigos_markdown(texto_limpo)
+        if len(texto_limpo.strip()) < 80:
+            print(f"     [AVISO] PDF sem camada de texto legível (imagem/escaneado) para {id_canonico}. Usando ementa oficial como fallback estruturado.")
+            corpo_formatado = f"*(Documento original disponibilizado em PDF digitalizado como imagem sem camada de texto pelo portal do CFM)*\n\n## Ementa Oficial\n{ementa}"
+        else:
+            corpo_formatado = formatar_artigos_markdown(texto_limpo)
     else:
         print(f"     [AVISO] PDF não localizado para {id_canonico}. Usando ementa oficial.")
         corpo_formatado = f"*(Texto integral não disponível em PDF pelo portal do CFM no momento da coleta)*\n\n## Ementa Oficial\n{ementa}"
@@ -98,7 +102,7 @@ def executar_piloto():
     # 3. Resolução 2416/2024 (Autonomia e Atos Médicos)
     pilotos = [
         {
-            "ID_NORMA": "42200",
+            "ID_NORMA": "39070",
             "IN_TIPO": "R",
             "TIPO": "Resolução",
             "SNAME": "resolucoes",
@@ -112,7 +116,7 @@ def executar_piloto():
             "ANO_REVOGADA": "2002",
         },
         {
-            "ID_NORMA": "40100",
+            "ID_NORMA": "44840",
             "IN_TIPO": "R",
             "TIPO": "Resolução",
             "SNAME": "resolucoes",
@@ -176,6 +180,8 @@ def executar_coleta(anos: List[int], tipos: List[str]):
         # Salva o manifesto ao final de cada ano para garantir checkpoint
         salvar_manifesto(manifesto)
 
+    # Propaga revogações cruzadas entre anos caso novas normas revoguem normas antigas
+
     print("\nAtualizando Catálogos, PROGRESSO.md e estatisticas.html...")
     gerar_catalogos(todos_documentos)
     gerar_progresso_md(todos_documentos)
@@ -187,8 +193,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Coletor de Normas CFM para Markdown")
     parser.add_argument("--piloto", action="store_true", help="Executa o teste piloto com 3 normas representativas")
     parser.add_argument("--ano", type=int, help="Executa a coleta para um único ano")
+    parser.add_argument("--ano-atual", action="store_true", help="Executa a coleta para o ano corrente (automação contínua)")
     parser.add_argument("--intervalo", nargs=2, type=int, metavar=("INICIO", "FIM"), help="Executa a coleta para um intervalo de anos (ex: --intervalo 2010 2019)")
-    parser.add_argument("--todos", action="store_true", help="Executa a coleta completa de 2020 a 2026")
+    parser.add_argument("--todos", action="store_true", help="Executa a coleta completa de 1957 até o ano corrente (100%% histórico)")
     parser.add_argument("--relatorios", action="store_true", help="Regenera todos os catálogos e relatórios a partir dos arquivos .md em disco")
     parser.add_argument("--tipos", nargs="+", default=["R", "P", "E"], help="Lista de tipos: R (Resoluções), P (Pareceres), E (Recomendações), D (Despachos)")
 
@@ -202,13 +209,17 @@ if __name__ == "__main__":
         gerar_progresso_md()
         gerar_estatisticas_html()
         print("✅ Relatórios regenerados com sucesso!")
+    elif args.ano_atual:
+        ano_vigente = datetime.now().year
+        executar_coleta(anos=[ano_vigente], tipos=args.tipos)
     elif args.ano:
         executar_coleta(anos=[args.ano], tipos=args.tipos)
     elif args.intervalo:
         anos = list(range(args.intervalo[0], args.intervalo[1] + 1))
         executar_coleta(anos=anos, tipos=args.tipos)
     elif args.todos:
-        executar_coleta(anos=list(range(2020, 2027)), tipos=args.tipos)
+        ano_vigente = datetime.now().year
+        executar_coleta(anos=list(range(1957, ano_vigente + 1)), tipos=args.tipos)
     else:
         parser.print_help()
 
