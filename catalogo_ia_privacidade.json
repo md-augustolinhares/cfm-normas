@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-11-01T10:51:47.184184",
-  "total_documentos_ia_dados": 140,
+  "atualizado_em": "2026-11-03T22:09:25.688115",
+  "total_documentos_ia_dados": 161,
   "documentos": [
     {
       "id": "CFM-RES-2454-2026",
@@ -30,7 +30,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2454",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2454_2026.pdf",
-      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563"
+      "sha256_conteudo": "029fdb98bdfecb8bc1c4dcc03e7620e0c294a8ca233f77eee7a52341c9d02563",
+      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2454-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2454-2026.md"
     },
     {
       "id": "CFM-RES-2453-2026",
@@ -56,7 +58,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2453",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2453_2026.pdf",
-      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0"
+      "sha256_conteudo": "8b8cc3ad973f2d845300856d60995e1f6f65a4bc5dfffe0c3379d318212290b0",
+      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2453-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2453-2026.md"
     },
     {
       "id": "CFM-PAR-19-2026",
@@ -82,7 +86,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/19",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/19_2026.pdf",
-      "sha256_conteudo": "b747940ad961e17aea89203fa1608a7deed3a87966ca18d4f7087995f5ad794c"
+      "sha256_conteudo": "b747940ad961e17aea89203fa1608a7deed3a87966ca18d4f7087995f5ad794c",
+      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-19-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-19-2026.md"
     },
     {
       "id": "CFM-PAR-15-2026",
@@ -109,7 +115,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/15",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/15_2026.pdf",
-      "sha256_conteudo": "ba2eb0a40e191a2695fba687f44f3292eab711f1ac61d77f700630139f37b987"
+      "sha256_conteudo": "ba2eb0a40e191a2695fba687f44f3292eab711f1ac61d77f700630139f37b987",
+      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-15-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-15-2026.md"
     },
     {
       "id": "CFM-PAR-12-2026",
@@ -135,7 +143,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/12",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/12_2026.pdf",
-      "sha256_conteudo": "3d2784ce8a4c2f956953fd7ffa5cbe5eb20e61897dab4cccd448b3a3d612c84c"
+      "sha256_conteudo": "3d2784ce8a4c2f956953fd7ffa5cbe5eb20e61897dab4cccd448b3a3d612c84c",
+      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-12-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-12-2026.md"
     },
     {
       "id": "CFM-PAR-6-2026",
@@ -161,7 +171,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/6",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/6_2026.pdf",
-      "sha256_conteudo": "e9633bd4391c6e71a4bf05a5f2d3584e9b9601fa10b86b9a8873df46112a649d"
+      "sha256_conteudo": "e9633bd4391c6e71a4bf05a5f2d3584e9b9601fa10b86b9a8873df46112a649d",
+      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-6-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-6-2026.md"
     },
     {
       "id": "CFM-PAR-4-2026",
@@ -188,7 +200,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/4",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/4_2026.pdf",
-      "sha256_conteudo": "e1a28d7e8bc6f296f2a992c1207fd080a9074302bc65aed3bea6edd9075a724c"
+      "sha256_conteudo": "e1a28d7e8bc6f296f2a992c1207fd080a9074302bc65aed3bea6edd9075a724c",
+      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-4-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-4-2026.md"
     },
     {
       "id": "CFM-PAR-1-2026",
@@ -213,7 +227,9 @@
       },
       "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/2026/1",
       "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/2026/1_2026.pdf",
-      "sha256_conteudo": "7ec539bc1830f5f8d6a8ad7b49bba559e088c750bc79afb0dcbf512a8f40ffb9"
+      "sha256_conteudo": "7ec539bc1830f5f8d6a8ad7b49bba559e088c750bc79afb0dcbf512a8f40ffb9",
+      "caminho_relativo": "normas/pareceres/2026/CFM-PAR-1-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/2026/CFM-PAR-1-2026.md"
     },
     {
       "id": "CFM-RES-2444-2025",
@@ -4029,6 +4045,595 @@
       "sha256_conteudo": "a499f43fdb7a87b1e8a1bcb43c6401928c3ede0c123080e27fc74cdeae0828ca",
       "caminho_relativo": "normas/resolucoes/2000/CFM-RES-1602-2000.md",
       "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2000/CFM-RES-1602-2000.md"
+    },
+    {
+      "id": "CFM-PAR-40-1999",
+      "id_norma_cfm": "27685",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "40",
+      "ano": "1999",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Conselheiro exercer paralelamente outras atividades",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1999/40",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1999/40_1999.pdf",
+      "sha256_conteudo": "f2d0f20424f9f8c55926f816e7c4097a7baad22f1ddaad26ba4eec318d8e468e",
+      "caminho_relativo": "normas/pareceres/1999/CFM-PAR-40-1999.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1999/CFM-PAR-40-1999.md"
+    },
+    {
+      "id": "CFM-PAR-34-1999",
+      "id_norma_cfm": "27726",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "34",
+      "ano": "1999",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Cópias de resultados de exames para pagamento das faturas",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1999/34",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1999/34_1999.pdf",
+      "sha256_conteudo": "31ed71b87cc245ad4473de05f640580ca48cb0d4ea37b7b93e616b830b3cab1d",
+      "caminho_relativo": "normas/pareceres/1999/CFM-PAR-34-1999.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1999/CFM-PAR-34-1999.md"
+    },
+    {
+      "id": "CFM-PAR-4-1999",
+      "id_norma_cfm": "27723",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "4",
+      "ano": "1999",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Serviço para leitura centralizada de radiografia",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "rqe-especialidades",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1999/4",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1999/4_1999.pdf",
+      "sha256_conteudo": "2b4dfe3cdf157adfed9b752005a5c640eddb6faacf562531d8cd75318971897c",
+      "caminho_relativo": "normas/pareceres/1999/CFM-PAR-4-1999.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1999/CFM-PAR-4-1999.md"
+    },
+    {
+      "id": "CFM-RES-1529-1998",
+      "id_norma_cfm": "46849",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "1529",
+      "ano": "1998",
+      "data_publicacao": "14-JAN-25",
+      "status": "Revogada",
+      "revoga_ids": [
+        "CFM-RES-1671-2003"
+      ],
+      "alterada_por_ids": [],
+      "ementa": "Normatiza a atividade médica na Área da Urgência-Emergência na fase de Atendimento Pré-Hospitalar",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "telemedicina",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/1998/1529",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/1998/1529_1998.pdf",
+      "sha256_conteudo": "ba9d60448cd11eabac04a0d1d50aed3c60f2c65b006d50e191c98bbe698f7529",
+      "caminho_relativo": "normas/resolucoes/1998/CFM-RES-1529-1998.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/1998/CFM-RES-1529-1998.md"
+    },
+    {
+      "id": "CFM-PAR-26-1998",
+      "id_norma_cfm": "27761",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "26",
+      "ano": "1998",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Qualidade da assistência ao parto",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1998/26",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1998/26_1998.pdf",
+      "sha256_conteudo": "3804481089cc1882f79263ff2b3ed72f2ebce06ab846dfa8a787d305e0ecf79c",
+      "caminho_relativo": "normas/pareceres/1998/CFM-PAR-26-1998.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1998/CFM-PAR-26-1998.md"
+    },
+    {
+      "id": "CFM-PAR-15-1998",
+      "id_norma_cfm": "27738",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "15",
+      "ano": "1998",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Atendimento pré-hospitalar",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "telemedicina",
+        "urgencia-e-emergencia"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1998/15",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1998/15_1998.pdf",
+      "sha256_conteudo": "a57ee8bbd0a9d0339b50e4b885d8395e993fa1964e3d7bd9c8b99a8885e6d7e7",
+      "caminho_relativo": "normas/pareceres/1998/CFM-PAR-15-1998.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1998/CFM-PAR-15-1998.md"
+    },
+    {
+      "id": "CFM-PAR-7-1998",
+      "id_norma_cfm": "27752",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "7",
+      "ano": "1998",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Indicação de dados clínicos nas solicitações de exames",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1998/7",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1998/7_1998.pdf",
+      "sha256_conteudo": "8ff22e440d475c8fd5b7b95d98088324acb3be8a8080bfd8670df2e8026398ad",
+      "caminho_relativo": "normas/pareceres/1998/CFM-PAR-7-1998.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1998/CFM-PAR-7-1998.md"
+    },
+    {
+      "id": "CFM-PAR-4-1998",
+      "id_norma_cfm": "27741",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "4",
+      "ano": "1998",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Inserção de dispositivo intra-uterino por enfermeiros",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1998/4",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1998/4_1998.pdf",
+      "sha256_conteudo": "fef2afa7344dc80afb35253a6a5e970f9b56952542a084f0546dbd7f470d15ac",
+      "caminho_relativo": "normas/pareceres/1998/CFM-PAR-4-1998.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1998/CFM-PAR-4-1998.md"
+    },
+    {
+      "id": "CFM-PAR-21-1997",
+      "id_norma_cfm": "27778",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "21",
+      "ano": "1997",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Participação de médicos em mesas diretoras de hospitais filantrópicos",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "prontuario-eletronico",
+        "responsabilidade-tecnica"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1997/21",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1997/21_1997.pdf",
+      "sha256_conteudo": "2d6cc041ec951d3cafb4f1678eda47528bc5f1a6e3fe519490a7dcade2269119",
+      "caminho_relativo": "normas/pareceres/1997/CFM-PAR-21-1997.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1997/CFM-PAR-21-1997.md"
+    },
+    {
+      "id": "CFM-PAR-34-1996",
+      "id_norma_cfm": "27821",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "34",
+      "ano": "1996",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Médicos que tenham sido partes em processos éticos integrarem comissões de ética em hospitais",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1996/34",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1996/34_1996.pdf",
+      "sha256_conteudo": "0cef7f82874a9c1596eeef61d45edffffc4152534f860ab1fa6341ed2acb1af9",
+      "caminho_relativo": "normas/pareceres/1996/CFM-PAR-34-1996.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1996/CFM-PAR-34-1996.md"
+    },
+    {
+      "id": "CFM-PAR-31-1995",
+      "id_norma_cfm": "27891",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "31",
+      "ano": "1995",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Guarda de arquivos de médicos falecidos",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1995/31",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1995/31_1995.pdf",
+      "sha256_conteudo": "59ca4ba0d2ef17b0b974761bab746c862c4f3dda96f14ac9cdf439f9d89ef151",
+      "caminho_relativo": "normas/pareceres/1995/CFM-PAR-31-1995.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1995/CFM-PAR-31-1995.md"
+    },
+    {
+      "id": "CFM-PAR-25-1994",
+      "id_norma_cfm": "27921",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "25",
+      "ano": "1994",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Lei 9716/93 - Regras de proteção ao cidadão /Possibilidade de vistorias em leitos psiquiátricos",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1994/25",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1994/25_1994.pdf",
+      "sha256_conteudo": "d2529e24aa191f94f4d0ff74e11750201173a4bee76a9924cc3d2145abf1013f",
+      "caminho_relativo": "normas/pareceres/1994/CFM-PAR-25-1994.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1994/CFM-PAR-25-1994.md"
+    },
+    {
+      "id": "CFM-PAR-20-1993",
+      "id_norma_cfm": "27927",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "20",
+      "ano": "1993",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Quebra de sigilo médico em parceiros sexuais pacientes com DST/A",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1993/20",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1993/20_1993.pdf",
+      "sha256_conteudo": "7a054c4a3b7a5c735e8630613557247350f22a65e6f4d8d8908e36d62fef9735",
+      "caminho_relativo": "normas/pareceres/1993/CFM-PAR-20-1993.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1993/CFM-PAR-20-1993.md"
+    },
+    {
+      "id": "CFM-PAR-28-1992",
+      "id_norma_cfm": "27968",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "28",
+      "ano": "1992",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Quebra de sigilo envolvendo perícias médicas",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1992/28",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1992/28_1992.pdf",
+      "sha256_conteudo": "2b5a12405b85f5e7e9ecd564fccb9da6aecefdb3f5dd0e922ea74e7e5981186d",
+      "caminho_relativo": "normas/pareceres/1992/CFM-PAR-28-1992.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1992/CFM-PAR-28-1992.md"
+    },
+    {
+      "id": "CFM-PAR-23-1992",
+      "id_norma_cfm": "27973",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "23",
+      "ano": "1992",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Revelação do sigilo na AIDS p/ aposentadoria",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1992/23",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1992/23_1992.pdf",
+      "sha256_conteudo": "b01c7b5fa3efde7cd377337fa3d54d08c1d031d312069523e16ab0f21f362df1",
+      "caminho_relativo": "normas/pareceres/1992/CFM-PAR-23-1992.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1992/CFM-PAR-23-1992.md"
+    },
+    {
+      "id": "CFM-PAR-19-1991",
+      "id_norma_cfm": "27995",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "19",
+      "ano": "1991",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Gravação das consultas em fita cassete para por no prontuário",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1991/19",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1991/19_1991.pdf",
+      "sha256_conteudo": "138e34810d0e907aa92f672626275469ccbd851db15850ee90b72f365a38c9ca",
+      "caminho_relativo": "normas/pareceres/1991/CFM-PAR-19-1991.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1991/CFM-PAR-19-1991.md"
+    },
+    {
+      "id": "CFM-PAR-4-1991",
+      "id_norma_cfm": "27996",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "4",
+      "ano": "1991",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Solicitação de cópia / Poder Judiciário /Menores infratores, detentos e aidéticos",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "responsabilidade-tecnica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1991/4",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1991/4_1991.pdf",
+      "sha256_conteudo": "c8c4efc500558584bdd26c38454e72b7eaa3cf3b5909d52f2eb64f37278b03bc",
+      "caminho_relativo": "normas/pareceres/1991/CFM-PAR-4-1991.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1991/CFM-PAR-4-1991.md"
+    },
+    {
+      "id": "CFM-PAR-2-1991",
+      "id_norma_cfm": "27992",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "2",
+      "ano": "1991",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "PROASP / PATRONAL",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "lgpd-e-privacidade"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1991/2",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1991/2_1991.pdf",
+      "sha256_conteudo": "76603da8ec623a35463cbb07def5da19617f8228f83f9506852606a64080ac05",
+      "caminho_relativo": "normas/pareceres/1991/CFM-PAR-2-1991.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1991/CFM-PAR-2-1991.md"
+    },
+    {
+      "id": "CFM-PAR-29-1990",
+      "id_norma_cfm": "28006",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "29",
+      "ano": "1990",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Infração ao Art. 97 do CEM",
+      "macro_tema": "Saúde Digital & Tecnologia",
+      "tags": [
+        "prontuario-eletronico"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1990/29",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1990/29_1990.pdf",
+      "sha256_conteudo": "049e104127abbe5103edf5e50057fb65d2a2dc6414041562a95d5072028819a7",
+      "caminho_relativo": "normas/pareceres/1990/CFM-PAR-29-1990.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1990/CFM-PAR-29-1990.md"
+    },
+    {
+      "id": "CFM-PAR-24-1990",
+      "id_norma_cfm": "48350",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "24",
+      "ano": "1990",
+      "data_publicacao": "04-FEB-26",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Envio de Prontuário Médico à Justiça Trabalhista.",
+      "macro_tema": "Ética Médica & Deontologia",
+      "tags": [
+        "lgpd-e-privacidade",
+        "pericia-medica",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1990/24",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1990/24_1990.pdf",
+      "sha256_conteudo": "047d46675be3b07291559f0e16f181140f00b7b27a9666440749887f360a5b75",
+      "caminho_relativo": "normas/pareceres/1990/CFM-PAR-24-1990.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1990/CFM-PAR-24-1990.md"
+    },
+    {
+      "id": "CFM-PAR-14-1990",
+      "id_norma_cfm": "28043",
+      "orgao": "CFM",
+      "tipo": "Parecer",
+      "numero": "14",
+      "ano": "1990",
+      "data_publicacao": "15-SEP-16",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Fertilização in vitro - Ortodontista prescrever sessões com fonoaudiólogos",
+      "macro_tema": "Prática Clínica & Procedimentos",
+      "tags": [
+        "lgpd-e-privacidade",
+        "publicidade-medica",
+        "reproducao-assistida",
+        "sigilo-profissional"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": true,
+        "tem_telemedicina": false
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/pareceres/BR/1990/14",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/pareceres/BR/1990/14_1990.pdf",
+      "sha256_conteudo": "2cc650e15372e23b18200ca77ecf009dbe4b50346477e88d2e15c37ab5ff0493",
+      "caminho_relativo": "normas/pareceres/1990/CFM-PAR-14-1990.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/pareceres/1990/CFM-PAR-14-1990.md"
     }
   ]
 }

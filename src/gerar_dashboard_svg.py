@@ -69,27 +69,37 @@ def gerar_dashboard_svg():
     area_util_w = 384
     x_offset_base = 43
     spacing = area_util_w / max(num_barras, 1)
-    bar_width = max(6, int(spacing * 0.68))
     chart_y_bottom = 370
     chart_h = 135
 
-    # Se forem muitos anos, ajusta o tamanho da fonte
-    if num_barras > 18:
+    # Se forem muitos anos, ajusta o tamanho da fonte e arredondamento
+    if num_barras > 28:
+        font_ano = "6.5"
+        font_val = "6"
+        bar_width = max(5, int(spacing * 0.65))
+        rx_val = 2
+    elif num_barras > 18:
         font_ano = "7.5"
         font_val = "7.5"
+        bar_width = max(6, int(spacing * 0.68))
+        rx_val = 3
     elif num_barras > 10:
         font_ano = "9"
         font_val = "9"
+        bar_width = max(8, int(spacing * 0.68))
+        rx_val = 3
     else:
         font_ano = "11"
         font_val = "11"
+        bar_width = max(14, int(spacing * 0.68))
+        rx_val = 4
 
     for i, (ano, val) in enumerate(zip(anos_chaves, anos_valores)):
         b_h = int((val / max_ano_val) * chart_h) if max_ano_val else 0
         b_y = chart_y_bottom - b_h
         bx = int(x_offset_base + (i * spacing) + (spacing - bar_width) / 2)
         # Barra
-        bars_ano_svg.append(f'<rect x="{bx}" y="{b_y}" width="{bar_width}" height="{b_h}" rx="3" fill="url(#blueGrad)" />')
+        bars_ano_svg.append(f'<rect x="{bx}" y="{b_y}" width="{bar_width}" height="{b_h}" rx="{rx_val}" fill="url(#blueGrad)" />')
         # Valor acima da barra
         bars_ano_svg.append(f'<text x="{bx + bar_width/2}" y="{b_y - 4}" text-anchor="middle" font-size="{font_val}" font-weight="600" fill="#38bdf8">{val}</text>')
         # Rótulo do ano (mostra 2 dígitos se forem muitos anos ou 4 dígitos)

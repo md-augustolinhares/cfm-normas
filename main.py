@@ -211,3 +211,4 @@ if __name__ == "__main__":
         executar_coleta(anos=list(range(2020, 2027)), tipos=args.tipos)
     else:
         parser.print_help()
+

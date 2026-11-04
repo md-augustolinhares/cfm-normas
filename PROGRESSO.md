@@ -1,19 +1,19 @@
-# Progresso do Acervo de Normas do CFM (2000–2026)
+# Progresso do Acervo de Normas do CFM (1990–2026)
 
-> **Última atualização:** 01/11/2026 às 10:51 (gerado automaticamente)  
-> **Total de documentos processados:** 1787
+> **Última atualização:** 03/11/2026 às 22:09 (gerado automaticamente)  
+> **Total de documentos processados:** 2399
 
 ---
 
-## 1. Volume por Categoria de Norma (2000–2026)
+## 1. Volume por Categoria de Norma (1990–2026)
 
 | Categoria | Coletados no Acervo | Status |
 | :--- | :---: | :---: |
-| **Resoluções** | 870 | 🟢 Concluído |
-| **Pareceres** | 903 | 🟢 Concluído |
+| **Resoluções** | 1129 | 🟢 Concluído |
+| **Pareceres** | 1256 | 🟢 Concluído |
 | **Recomendações** | 14 | 🟢 Concluído |
 | **Despachos Jurídicos** | 0 | 🔹 Módulo Retroativo |
-| **Total Global** | **1787** | 🟢 100% das Fases Concluídas (2000–2026) |
+| **Total Global** | **2399** | 🟢 100% das Fases Concluídas (1990–2026) |
 
 ---
 
@@ -48,6 +48,16 @@
 | 2002 | 83 | 70 | 13 | 5 |
 | 2001 | 67 | 56 | 11 | 4 |
 | 2000 | 50 | 39 | 11 | 2 |
+| 1999 | 118 | 110 | 8 | 3 |
+| 1998 | 84 | 67 | 17 | 5 |
+| 1997 | 54 | 46 | 8 | 1 |
+| 1996 | 45 | 40 | 5 | 1 |
+| 1995 | 57 | 52 | 5 | 1 |
+| 1994 | 73 | 63 | 10 | 1 |
+| 1993 | 59 | 51 | 8 | 1 |
+| 1992 | 44 | 36 | 8 | 2 |
+| 1991 | 30 | 25 | 5 | 3 |
+| 1990 | 48 | 45 | 3 | 3 |
 
 ---
 
