@@ -483,8 +483,8 @@ def atualizar_readme_metricas(documentos: List[Dict[str, Any]], total_ia: int):
 
     # 4. Atualiza menção no texto de normas-chave e faixa de anos
     readme_content = re.sub(
-        r"Dentre as \*\*\d+ normas\*\* mapeadas na nossa trilha.*?,",
-        f"Dentre as **{total_ia} normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados ({faixa_anos}),",
+        r"Dentre as \*\*\d+ normas\*\* mapeadas na nossa trilha.*?, destacam-se:",
+        f"Dentre as **{total_ia} normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados ({faixa_anos}), destacam-se:",
         readme_content,
     )
 

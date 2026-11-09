@@ -2,6 +2,7 @@
 CLI Principal de Execução da Coleta de Normas do CFM (2020–2026).
 """
 import argparse
+from datetime import datetime
 from pathlib import Path
 import sys
 from typing import List

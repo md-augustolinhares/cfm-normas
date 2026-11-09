@@ -5,9 +5,9 @@
 
 <p align="left">
   <a href="https://github.com/md-augustolinhares/cfm-normas/actions"><img src="https://img.shields.io/badge/Atualização_Semanal-GitHub_Actions-0284c7?style=flat-square&logo=githubactions&logoColor=white" alt="Atualização Semanal"></a>
-  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_regulat%C3%B3rio_do_CFM-3856_Normas-10b981?style=flat-square" alt="Acervo regulatório do CFM: 3856 Normas"></a>
+  <a href="PROGRESSO.md"><img src="https://img.shields.io/badge/Acervo_regulat%C3%B3rio_do_CFM-3857_Normas-10b981?style=flat-square" alt="Acervo regulatório do CFM: 3857 Normas"></a>
   <a href="COBERTURA.md"><img src="https://img.shields.io/badge/Cobertura-100%25_de_resolu%C3%A7%C3%B5es,_pareceres_e_recomenda%C3%A7%C3%B5es-059669?style=flat-square" alt="100% de resoluções, pareceres e recomendações"></a>
-  <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-166_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
+  <a href="catalogo_ia_privacidade.json"><img src="https://img.shields.io/badge/Trilha_IA_&_LGPD-167_Normas-c084fc?style=flat-square" alt="Trilha IA"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licen%C3%A7a-CC--BY--4.0-f59e0b?style=flat-square" alt="Licença CC-BY 4.0"></a>
   <a href="https://md-augustolinhares.github.io/casos/cfm-normas/"><img src="https://img.shields.io/badge/Estudo_de_Caso-Portf%C3%B3lio_Oficial-0ea5e9?style=flat-square" alt="Estudo de Caso"></a>
 </p>
@@ -89,7 +89,7 @@ flowchart TD
 
 ## 2. Normas-Chave em Destaque (Saúde Digital, IA e Prática Clínica)
 
-O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **166 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (1957–2026), ética digital e proteção de dados (1957–2026), ética digital e proteção de dados (1957–2026), destacam-se:
+O acervo conta com um classificador léxico que analisa o teor de cada documento. Dentre as **167 normas** mapeadas na nossa trilha de tecnologia, ética digital e proteção de dados (1957–2026), destacam-se:
 
 | Norma | Ano | Ementa Oficial / Tema Central | Status | Vínculo no Acervo |
 | :--- | :---: | :--- | :---: | :---: |
@@ -218,7 +218,7 @@ cfm-normas/
 │   ├── reports.py                    # Geração de catálogos e PROGRESSO.md
 │   └── gerar_dashboard_svg.py        # Compilador do card vetorial de estatísticas
 ├── normas/
-│   ├── resolucoes/                   # 2.458 resoluções (1957 a 2026)
+│   ├── resolucoes/                   # 2.459 resoluções (1957 a 2026)
 │   ├── pareceres/                    # 1.384 pareceres (1957 a 2026)
 │   └── recomendacoes/                # 14 recomendação(ões) oficial(is)
 ├── catalogo.json                     # Catálogo global indexado em tempo O(1)

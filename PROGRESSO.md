@@ -1,7 +1,7 @@
 # Progresso do Acervo de Normas do CFM (1957–2026)
 
-> **Última atualização:** 04/11/2026 às 00:44 (gerado automaticamente)  
-> **Total de documentos processados:** 3856
+> **Última atualização:** 09/11/2026 às 09:14 (gerado automaticamente)  
+> **Total de documentos processados:** 3857
 
 ---
 
@@ -9,11 +9,11 @@
 
 | Categoria | Coletados no Acervo | Status |
 | :--- | :---: | :---: |
-| **Resoluções** | 2458 | 🟢 Concluído |
+| **Resoluções** | 2459 | 🟢 Concluído |
 | **Pareceres** | 1384 | 🟢 Concluído |
 | **Recomendações** | 14 | 🟢 Concluído |
 | **Despachos Jurídicos** | 0 | ⚪ Fora dos 100% (0 no acervo) |
-| **Total Global (R + P + E)** | **3856** | 🟢 100% de resoluções, pareceres e recomendações (1957–2026) |
+| **Total Global (R + P + E)** | **3857** | 🟢 100% de resoluções, pareceres e recomendações (1957–2026) |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Ano | Total Coletado | Vigentes | Revogadas / Suspensas | Destaque IA / LGPD / Telemedicina |
 | :---: | :---: | :---: | :---: | :---: |
-| 2026 | 47 | 47 | 0 | 8 |
+| 2026 | 48 | 48 | 0 | 9 |
 | 2025 | 54 | 54 | 0 | 12 |
 | 2024 | 72 | 69 | 3 | 8 |
 | 2023 | 53 | 51 | 2 | 6 |

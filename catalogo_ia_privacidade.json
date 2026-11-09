@@ -1,7 +1,35 @@
 {
-  "atualizado_em": "2026-11-04T00:44:40.910916",
-  "total_documentos_ia_dados": 166,
+  "atualizado_em": "2026-11-09T09:14:11.902704",
+  "total_documentos_ia_dados": 167,
   "documentos": [
+    {
+      "id": "CFM-RES-2473-2026",
+      "id_norma_cfm": "48991",
+      "orgao": "CFM",
+      "tipo": "Resolucao",
+      "numero": "2473",
+      "ano": "2026",
+      "data_publicacao": "05-NOV-26",
+      "status": "Vigente",
+      "revoga_ids": [],
+      "alterada_por_ids": [],
+      "ementa": "Dispõe sobre a organização, o funcionamento, a eleição e as competências das Comissões de Ética Médica dos estabelecimentos de saúde.",
+      "macro_tema": "Gestão, Infraestrutura & Perícia",
+      "tags": [
+        "responsabilidade-tecnica",
+        "telemedicina"
+      ],
+      "destaques": {
+        "tem_ia": false,
+        "tem_protecao_dados": false,
+        "tem_telemedicina": true
+      },
+      "url_original": "https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2473",
+      "url_pdf_original": "https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2473_2026.pdf",
+      "sha256_conteudo": "da4cf0461b55a149618112ebf1e8b34b90c3e6bcad25bd6a194cf6c831926cb6",
+      "caminho_relativo": "normas/resolucoes/2026/CFM-RES-2473-2026.md",
+      "url_raw": "https://raw.githubusercontent.com/md-augustolinhares/cfm-normas/main/normas/resolucoes/2026/CFM-RES-2473-2026.md"
+    },
     {
       "id": "CFM-RES-2454-2026",
       "id_norma_cfm": "48376",
